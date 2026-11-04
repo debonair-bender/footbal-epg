@@ -1,0 +1,79 @@
+name: Update Football EPG
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 * * * *"
+  push:
+    branches: [main]
+    paths:
+      - "sync_epg.py"
+      - "config.json"
+      - "aliases/**"
+      - "tests/**"
+      - "requirements.txt"
+      - ".github/workflows/update-epg.yml"
+  pull_request:
+    paths:
+      - "sync_epg.py"
+      - "config.json"
+      - "aliases/**"
+      - "tests/**"
+      - "requirements.txt"
+      - ".github/workflows/update-epg.yml"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: football-epg-data-write-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m pip install -r requirements.txt
+      - run: python -m unittest discover -s tests -v
+
+  update:
+    needs: test
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m pip install -r requirements.txt
+      - name: Download, filter and publish the EPG catalogue
+        id: sync
+        continue-on-error: true
+        env:
+          FOOTBALL_CALENDAR_TOKEN: ${{ secrets.FOOTBALL_CALENDAR_TOKEN }}
+        run: python sync_epg.py
+      - name: Commit catalogue and acquisition status
+        if: always() && steps.sync.outcome != 'skipped'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if [ -f PROGRAMMAZIONE.md ]; then
+            git add PROGRAMMAZIONE.md
+          fi
+          if ! git diff --cached --quiet; then
+            git commit -m "Update football EPG catalogue"
+            git pull --rebase
+            git push
+          fi
+      - name: Report source errors after preserving the last good catalogue
+        if: steps.sync.outcome == 'failure'
+        run: exit 1

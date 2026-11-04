@@ -1,0 +1,1328 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-04T23:33:50.941273Z",
+  "timezone": "Europe/Rome",
+  "channels": [
+    {
+      "id": "DAZN1.it",
+      "names": [
+        "IT - DAZN 1"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN10.it",
+      "names": [
+        "IT - DAZN 10"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN100.it",
+      "names": [
+        "IT - DAZN 100"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN11.it",
+      "names": [
+        "IT - DAZN 11"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN12.it",
+      "names": [
+        "IT - DAZN 12"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN13.it",
+      "names": [
+        "IT - DAZN 13"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN14.it",
+      "names": [
+        "IT - DAZN 14"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN15.it",
+      "names": [
+        "IT - DAZN 15"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN16.it",
+      "names": [
+        "IT - DAZN 16"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN17.it",
+      "names": [
+        "IT - DAZN 17"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN18.it",
+      "names": [
+        "IT - DAZN 18"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN19.it",
+      "names": [
+        "IT - DAZN 19"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN2.it",
+      "names": [
+        "IT - DAZN 2"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN20.it",
+      "names": [
+        "IT - DAZN 20"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN21.it",
+      "names": [
+        "IT - DAZN 21"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN22.it",
+      "names": [
+        "IT - DAZN 22"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN23.it",
+      "names": [
+        "IT - DAZN 23"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN24.it",
+      "names": [
+        "IT - DAZN 24"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN25.it",
+      "names": [
+        "IT - DAZN 25"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN26.it",
+      "names": [
+        "IT - DAZN 26"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN27.it",
+      "names": [
+        "IT - DAZN 27"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN28.it",
+      "names": [
+        "IT - DAZN 28"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN29.it",
+      "names": [
+        "IT - DAZN 29"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN3.it",
+      "names": [
+        "IT - DAZN 3"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN30.it",
+      "names": [
+        "IT - DAZN 30"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN31.it",
+      "names": [
+        "IT - DAZN 31"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN32.it",
+      "names": [
+        "IT - DAZN 32"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN33.it",
+      "names": [
+        "IT - DAZN 33"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN34.it",
+      "names": [
+        "IT - DAZN 34"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN35.it",
+      "names": [
+        "IT - DAZN 35"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN36.it",
+      "names": [
+        "IT - DAZN 36"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN37.it",
+      "names": [
+        "IT - DAZN 37"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN38.it",
+      "names": [
+        "IT - DAZN 38"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN39.it",
+      "names": [
+        "IT - DAZN 39"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN4.it",
+      "names": [
+        "IT - DAZN 4"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN40.it",
+      "names": [
+        "IT - DAZN 40"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN41.it",
+      "names": [
+        "IT - DAZN 41"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN42.it",
+      "names": [
+        "IT - DAZN 42"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN43.it",
+      "names": [
+        "IT - DAZN 43"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN44.it",
+      "names": [
+        "IT - DAZN 44"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN45.it",
+      "names": [
+        "IT - DAZN 45"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN46.it",
+      "names": [
+        "IT - DAZN 46"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN47.it",
+      "names": [
+        "IT - DAZN 47"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN48.it",
+      "names": [
+        "IT - DAZN 48"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN49.it",
+      "names": [
+        "IT - DAZN 49"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN5.it",
+      "names": [
+        "IT - DAZN 5"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN50.it",
+      "names": [
+        "IT - DAZN 50"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN51.it",
+      "names": [
+        "IT - DAZN 51"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN52.it",
+      "names": [
+        "IT - DAZN 52"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN53.it",
+      "names": [
+        "IT - DAZN 53"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN54.it",
+      "names": [
+        "IT - DAZN 54"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN55.it",
+      "names": [
+        "IT - DAZN 55"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN56.it",
+      "names": [
+        "IT - DAZN 56"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN57.it",
+      "names": [
+        "IT - DAZN 57"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN58.it",
+      "names": [
+        "IT - DAZN 58"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN59.it",
+      "names": [
+        "IT - DAZN 59"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN6.it",
+      "names": [
+        "IT - DAZN 6"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN60.it",
+      "names": [
+        "IT - DAZN 60"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN61.it",
+      "names": [
+        "IT - DAZN 61"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN62.it",
+      "names": [
+        "IT - DAZN 62"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN63.it",
+      "names": [
+        "IT - DAZN 63"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN64.it",
+      "names": [
+        "IT - DAZN 64"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN65.it",
+      "names": [
+        "IT - DAZN 65"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN66.it",
+      "names": [
+        "IT - DAZN 66"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN67.it",
+      "names": [
+        "IT - DAZN 67"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN68.it",
+      "names": [
+        "IT - DAZN 68"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN69.it",
+      "names": [
+        "IT - DAZN 69"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN7.it",
+      "names": [
+        "IT - DAZN 7"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN70.it",
+      "names": [
+        "IT - DAZN 70"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN71.it",
+      "names": [
+        "IT - DAZN 71"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN72.it",
+      "names": [
+        "IT - DAZN 72"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN73.it",
+      "names": [
+        "IT - DAZN 73"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN74.it",
+      "names": [
+        "IT - DAZN 74"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN75.it",
+      "names": [
+        "IT - DAZN 75"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN76.it",
+      "names": [
+        "IT - DAZN 76"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN77.it",
+      "names": [
+        "IT - DAZN 77"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN78.it",
+      "names": [
+        "IT - DAZN 78"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN79.it",
+      "names": [
+        "IT - DAZN 79"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN8.it",
+      "names": [
+        "IT - DAZN 8"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN80.it",
+      "names": [
+        "IT - DAZN 80"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN81.it",
+      "names": [
+        "IT - DAZN 81"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN82.it",
+      "names": [
+        "IT - DAZN 82"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN83.it",
+      "names": [
+        "IT - DAZN 83"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN84.it",
+      "names": [
+        "IT - DAZN 84"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN85.it",
+      "names": [
+        "IT - DAZN 85"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN86.it",
+      "names": [
+        "IT - DAZN 86"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN87.it",
+      "names": [
+        "IT - DAZN 87"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN88.it",
+      "names": [
+        "IT - DAZN 88"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN89.it",
+      "names": [
+        "IT - DAZN 89"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN9.it",
+      "names": [
+        "IT - DAZN 9"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN90.it",
+      "names": [
+        "IT - DAZN 90"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN91.it",
+      "names": [
+        "IT - DAZN 91"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN92.it",
+      "names": [
+        "IT - DAZN 92"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN93.it",
+      "names": [
+        "IT - DAZN 93"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN94.it",
+      "names": [
+        "IT - DAZN 94"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN95.it",
+      "names": [
+        "IT - DAZN 95"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN96.it",
+      "names": [
+        "IT - DAZN 96"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN97.it",
+      "names": [
+        "IT - DAZN 97"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN98.it",
+      "names": [
+        "IT - DAZN 98"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "DAZN99.it",
+      "names": [
+        "IT - DAZN 99"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "Dazn1Linear.it",
+      "names": [
+        "IT - Dazn 1 - Linear"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "RAISport.it",
+      "names": [
+        "IT - RAI Sport"
+      ],
+      "family": "rai",
+      "source": "it",
+      "aliases": [
+        "RAI Sport"
+      ]
+    },
+    {
+      "id": "Rai1.it",
+      "names": [
+        "IT - Rai 1"
+      ],
+      "family": "rai",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "Rai2.it",
+      "names": [
+        "IT - Rai 2"
+      ],
+      "family": "rai",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "Rai3.it",
+      "names": [
+        "IT - Rai 3"
+      ],
+      "family": "rai",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "Rai4.it",
+      "names": [
+        "IT - Rai 4"
+      ],
+      "family": "rai",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "Rai5.it",
+      "names": [
+        "IT - Rai 5"
+      ],
+      "family": "rai",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "RaiGulp.it",
+      "names": [
+        "IT - Rai Gulp"
+      ],
+      "family": "rai",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "RaiMovie.it",
+      "names": [
+        "IT - Rai Movie"
+      ],
+      "family": "rai",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "RaiNews.it",
+      "names": [
+        "IT - Rai News"
+      ],
+      "family": "rai",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "RaiPremium.it",
+      "names": [
+        "IT - Rai Premium"
+      ],
+      "family": "rai",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "RaiScuola.it",
+      "names": [
+        "IT - Rai Scuola"
+      ],
+      "family": "rai",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "RaiSport1.it",
+      "names": [
+        "IT - Rai Sport 1"
+      ],
+      "family": "rai",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "RaiStoria.it",
+      "names": [
+        "IT - Rai Storia"
+      ],
+      "family": "rai",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "RaiYoyo.it",
+      "names": [
+        "IT - Rai Yoyo"
+      ],
+      "family": "rai",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "SkySport.it",
+      "names": [
+        "IT - Sky Sport"
+      ],
+      "family": "sky-sport",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "SkySport24.it",
+      "names": [
+        "IT - Sky Sport24"
+      ],
+      "family": "sky-sport",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "SkySport251.it",
+      "names": [
+        "IT - Sky Sport 251"
+      ],
+      "family": "sky-sport",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "SkySport252.it",
+      "names": [
+        "IT - Sky Sport 252"
+      ],
+      "family": "sky-sport",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "SkySport253.it",
+      "names": [
+        "IT - Sky Sport 253"
+      ],
+      "family": "sky-sport",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "SkySport254.it",
+      "names": [
+        "IT - Sky Sport 254"
+      ],
+      "family": "sky-sport",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "SkySport255.it",
+      "names": [
+        "IT - Sky Sport 255"
+      ],
+      "family": "sky-sport",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "SkySport256.it",
+      "names": [
+        "IT - Sky Sport 256"
+      ],
+      "family": "sky-sport",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "SkySport257.it",
+      "names": [
+        "IT - Sky Sport 257"
+      ],
+      "family": "sky-sport",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "SkySport258.it",
+      "names": [
+        "IT - Sky Sport 258"
+      ],
+      "family": "sky-sport",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "SkySport259.it",
+      "names": [
+        "IT - Sky Sport 259"
+      ],
+      "family": "sky-sport",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "SkySport260.it",
+      "names": [
+        "IT - Sky Sport 260"
+      ],
+      "family": "sky-sport",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "SkySport261.it",
+      "names": [
+        "IT - Sky Sport 261"
+      ],
+      "family": "sky-sport",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "SkySport4K.it",
+      "names": [
+        "IT - Sky Sport 4K"
+      ],
+      "family": "sky-sport",
+      "source": "it",
+      "aliases": [
+        "Sky Sport 4K"
+      ]
+    },
+    {
+      "id": "SkySportArena.it",
+      "names": [
+        "IT - Sky Sport Arena"
+      ],
+      "family": "sky-sport",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "SkySportCalcio.it",
+      "names": [
+        "IT - Sky Sport Calcio"
+      ],
+      "family": "sky-sport",
+      "source": "it",
+      "aliases": [
+        "Sky Sport Calcio",
+        "Sky Calcio"
+      ]
+    },
+    {
+      "id": "SkySportF1.it",
+      "names": [
+        "IT - Sky Sport F1"
+      ],
+      "family": "sky-sport",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "SkySportGolf.it",
+      "names": [
+        "IT - Sky Sport Golf"
+      ],
+      "family": "sky-sport",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "SkySportLegend.it",
+      "names": [
+        "IT - Sky Sport Legend"
+      ],
+      "family": "sky-sport",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "SkySportMax.it",
+      "names": [
+        "IT - Sky Sport Max"
+      ],
+      "family": "sky-sport",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "SkySportMotoGP.it",
+      "names": [
+        "IT - Sky Sport MotoGP"
+      ],
+      "family": "sky-sport",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "SkySportNBA.it",
+      "names": [
+        "IT - Sky Sport NBA"
+      ],
+      "family": "sky-sport",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "SkySportTennis.it",
+      "names": [
+        "IT - Sky Sport Tennis"
+      ],
+      "family": "sky-sport",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "SkySportUno.it",
+      "names": [
+        "IT - Sky Sport Uno"
+      ],
+      "family": "sky-sport",
+      "source": "it",
+      "aliases": [
+        "Sky Sport Uno",
+        "Sky Sport 1"
+      ]
+    },
+    {
+      "id": "TV8.it",
+      "names": [
+        "IT - TV8"
+      ],
+      "family": "tv8",
+      "source": "it",
+      "aliases": [
+        "TV8",
+        "TV 8"
+      ]
+    },
+    {
+      "id": "ZONADAZN.it",
+      "names": [
+        "IT - ZONA DAZN"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": [
+        "Zona DAZN",
+        "Zona DAZN 1"
+      ]
+    },
+    {
+      "id": "ZONADAZN2.it",
+      "names": [
+        "IT - ZONA DAZN 2"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "ZONADAZN3.it",
+      "names": [
+        "IT - ZONA DAZN 3"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "ZONADAZN4.it",
+      "names": [
+        "IT - ZONA DAZN 4"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    },
+    {
+      "id": "ZONADAZN5.it",
+      "names": [
+        "IT - ZONA DAZN 5"
+      ],
+      "family": "dazn",
+      "source": "it",
+      "aliases": []
+    }
+  ]
+}

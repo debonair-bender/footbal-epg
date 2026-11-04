@@ -1,0 +1,32 @@
+{
+  "timezone": "Europe/Rome",
+  "days_ahead": 7,
+  "sources": [
+    {"id": "it", "url": "https://iptv-epg.org/files/epg-it.xml"}
+  ],
+  "channel_families": [
+    {"id": "sky-calcio", "prefixes": ["Sky Calcio"]},
+    {"id": "sky-sport", "prefixes": ["Sky Sport"]},
+    {"id": "dazn", "prefixes": ["DAZN", "Zona DAZN"]},
+    {"id": "tv8", "prefixes": ["TV8"]},
+    {"id": "rai", "prefixes": ["RAI"]}
+  ],
+  "channel_ids_include": [],
+  "channel_ids_exclude": [],
+  "football_categories": ["Calcio", "Football", "Soccer"],
+  "football_keywords": ["calcio", "soccer", "UEFA Champions League", "Champions League", "Europa League", "Conference League", "Serie A", "Serie B", "Serie C", "Premier League", "La Liga", "Bundesliga", "Ligue 1", "Coppa Italia", "Women's Super League"],
+  "non_match_title_keywords": ["highlights", "sintesi", "magazine", "documentario", "studio", "prepartita", "postpartita", "pre partita", "post partita", "tg sport", "sport mediaset", "rubrica", "buffa racconta", "diretta gol"],
+  "competitions": [
+    {"id": "champions-league", "name": "Champions League", "keywords": ["Champions League", "UCL"], "excluded_keywords": ["Women", "femminile", "Youth", "Primavera"]},
+    {"id": "serie-a", "name": "Serie A", "keywords": ["Serie A"], "excluded_keywords": ["Women", "femminile", "Primavera"]},
+    {"id": "serie-b", "name": "Serie B", "keywords": ["Serie B"], "excluded_keywords": ["Women", "femminile", "Primavera"]}
+  ],
+  "matching": {"minutes_before_kickoff": 90, "minutes_after_kickoff": 30},
+  "calendars": {
+    "enabled": false,
+    "repository": "debonair-bender/football-api",
+    "ref": "main",
+    "directory": "data",
+    "token_env": "FOOTBALL_CALENDAR_TOKEN"
+  }
+}

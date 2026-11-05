@@ -1,6 +1,6 @@
 # Programmazione calcio
 
-Ultima acquisizione riuscita: 2026-11-05T22:59:14.367010Z. Orari: Europe/Rome.
+Ultima acquisizione riuscita: 2026-11-05T23:54:26.321812Z. Orari: Europe/Rome.
 
 Solo Sky Calcio, Sky Sport, DAZN/Zona DAZN, TV8 e RAI secondo config.json.
 
@@ -21,141 +21,17 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 
 | Inizio | Fine | Canale | Programma | Tipo | Competizioni rilevate |
 | --- | --- | --- | --- | --- | --- |
-| 05/11 01:05 | 05/11 01:55 | IT - Sky Sport Max | Uefa Europa & Conference League Preview Ep | unknown |  |
-| 05/11 01:15 | 05/11 01:45 | IT - Sky Sport Arena | Feyenoord - Inter | unknown |  |
-| 05/11 01:30 | 05/11 01:55 | IT - Sky Sport Calcio | Manchester United - Roma | unknown | champions-league |
-| 05/11 01:55 | 05/11 03:00 | IT - Sky Sport Calcio | Calcio Wsl Highlights Ep.8 04/11/2026 | unknown |  |
-| 05/11 01:55 | 05/11 04:00 | IT - Sky Sport Max | Milan - Inter Serie A | unknown | serie-a |
-| 05/11 02:00 | 05/11 06:00 | IT - Sky Sport 251 | Next Game: Diretta Gol Uel/ Uecl... (Diretta) on 2026-11-05 at 12:00PM EST | live |  |
-| 05/11 02:00 | 05/11 06:00 | IT - Sky Sport 252 | Next Game: AZ - Juventus on 2026-11-05 at 02:00PM EST | unknown |  |
-| 05/11 02:00 | 05/11 06:00 | IT - Sky Sport 253 | Next Game: Milan - Ferencváros on 2026-11-05 at 12:00PM EST | unknown |  |
-| 05/11 02:00 | 05/11 06:00 | IT - Sky Sport 254 | Next Game: Atalanta - Kairat on 2026-11-05 at 12:00PM EST | unknown |  |
-| 05/11 02:00 | 05/11 06:00 | IT - Sky Sport 255 | Next Game: Crystal Palace - TSG 1899 Hoffenheim on 2026-11-05 at 12:00PM EST | unknown |  |
-| 05/11 02:00 | 05/11 06:00 | IT - Sky Sport 256 | Next Game: Sparta Praga - Bournemouth on 2026-11-05 at 12:00PM EST | unknown |  |
-| 05/11 02:00 | 05/11 06:00 | IT - Sky Sport 257 | Next Game: Sunderland - Dinamo Zagabria on 2026-11-05 at 02:00PM EST | unknown |  |
-| 05/11 02:00 | 05/11 06:00 | IT - Sky Sport 258 | Next Game: Getafe - Brighton on 2026-11-05 at 02:00PM EST | unknown |  |
-| 05/11 02:00 | 05/11 02:15 | IT - Sky Sport 4K | Feyenoord - Inter | unknown |  |
-| 05/11 02:15 | 05/11 04:00 | IT - Sky Sport 4K | Lecce - Genoa | unknown |  |
-| 05/11 02:45 | 05/11 03:45 | IT - Sky Sport Legend | Lippi | unknown |  |
-| 05/11 03:00 | 05/11 03:55 | IT - Sky Sport Calcio | Uefa Europa & Conference League Preview Ep.4 02/11/2026 | unknown |  |
-| 05/11 03:45 | 05/11 04:15 | IT - Sky Sport Legend | Totti | unknown |  |
-| 05/11 04:00 | 05/11 04:15 | IT - Sky Sport Calcio | Feyenoord - Inter | unknown |  |
-| 05/11 04:05 | 05/11 06:00 | IT - Sky Sport Arena | Acqua S.Bernardo Cantù - Armani Olimpia Milano | unknown | serie-a |
-| 05/11 04:15 | 05/11 06:00 | IT - Sky Sport Calcio | Sassuolo - Fiorentina | unknown |  |
-| 05/11 05:45 | 05/11 06:00 | IT - Sky Sport Legend | Kakà: tutti i gol in Champions League | unknown | champions-league |
-| 05/11 06:00 | 05/11 10:00 | IT - Sky Sport 251 | Next Game: Diretta Gol Uel/ Uecl... (Diretta) on 2026-11-05 at 12:00PM EST | live |  |
-| 05/11 06:00 | 05/11 10:00 | IT - Sky Sport 252 | Next Game: AZ - Juventus on 2026-11-05 at 02:00PM EST | unknown |  |
-| 05/11 06:00 | 05/11 10:00 | IT - Sky Sport 253 | Next Game: Milan - Ferencváros on 2026-11-05 at 12:00PM EST | unknown |  |
-| 05/11 06:00 | 05/11 10:00 | IT - Sky Sport 254 | Next Game: Atalanta - Kairat on 2026-11-05 at 12:00PM EST | unknown |  |
-| 05/11 06:00 | 05/11 10:00 | IT - Sky Sport 255 | Next Game: Crystal Palace - TSG 1899 Hoffenheim on 2026-11-05 at 12:00PM EST | unknown |  |
-| 05/11 06:00 | 05/11 10:00 | IT - Sky Sport 256 | Next Game: Sparta Praga - Bournemouth on 2026-11-05 at 12:00PM EST | unknown |  |
-| 05/11 06:00 | 05/11 10:00 | IT - Sky Sport 257 | Next Game: Sunderland - Dinamo Zagabria on 2026-11-05 at 02:00PM EST | unknown |  |
-| 05/11 06:00 | 05/11 10:00 | IT - Sky Sport 258 | Next Game: Getafe - Brighton on 2026-11-05 at 02:00PM EST | unknown |  |
-| 05/11 06:00 | 05/11 08:00 | IT - Sky Sport 4K | Juventus - Rennes | unknown |  |
-| 05/11 06:00 | 05/11 08:00 | IT - Sky Sport Calcio | Lens - Como | unknown |  |
-| 05/11 06:00 | 05/11 12:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 05/11 07:00 | 05/11 08:00 | IT - Sky Sport Legend | Sintesi Juventus - Ajax 1996/1997 | unknown |  |
-| 05/11 07:30 | 05/11 09:30 | IT - RAI Sport | Serie C | unknown |  |
-| 05/11 07:30 | 05/11 09:30 | IT - Rai Sport 1 | Serie C | unknown |  |
-| 05/11 08:00 | 05/11 08:30 | IT - Sky Sport Calcio | Manchester United - Roma | unknown | champions-league |
-| 05/11 08:00 | 05/11 09:55 | IT - ZONA DAZN | Milan - Bologna | unknown | serie-a |
-| 05/11 08:30 | 05/11 10:30 | IT - Sky Sport Calcio | RB Lipsia - Manchester City | unknown | champions-league |
-| 05/11 09:30 | 05/11 10:00 | IT - Sky Sport Legend | Lo sbarco del fenomeno: Ronnie e l'Inter | unknown |  |
-| 05/11 09:30 | 05/11 14:30 | IT - Sky Sport Max | Uefa Europa & Conference League Preview Ep | unknown |  |
-| 05/11 09:45 | 05/11 10:15 | IT - Sky Sport NBA | Basket Room Serie A 2026/2027... | unknown | serie-a |
-| 05/11 09:55 | 05/11 10:30 | IT - ZONA DAZN | My Skills 1 Marco Palestra - Stag. 1 Ep. 26 - Marco Palestra | unknown | serie-a |
-| 05/11 10:00 | 05/11 14:00 | IT - Sky Sport 251 | Next Game: Diretta Gol Uel/ Uecl... (Diretta) on 2026-11-05 at 12:00PM EST | live |  |
-| 05/11 10:00 | 05/11 14:00 | IT - Sky Sport 252 | Next Game: AZ - Juventus on 2026-11-05 at 02:00PM EST | unknown |  |
-| 05/11 10:00 | 05/11 14:00 | IT - Sky Sport 253 | Next Game: Milan - Ferencváros on 2026-11-05 at 12:00PM EST | unknown |  |
-| 05/11 10:00 | 05/11 14:00 | IT - Sky Sport 254 | Next Game: Atalanta - Kairat on 2026-11-05 at 12:00PM EST | unknown |  |
-| 05/11 10:00 | 05/11 14:00 | IT - Sky Sport 255 | Next Game: Crystal Palace - TSG 1899 Hoffenheim on 2026-11-05 at 12:00PM EST | unknown |  |
-| 05/11 10:00 | 05/11 14:00 | IT - Sky Sport 256 | Next Game: Sparta Praga - Bournemouth on 2026-11-05 at 12:00PM EST | unknown |  |
-| 05/11 10:00 | 05/11 14:00 | IT - Sky Sport 257 | Next Game: Sunderland - Dinamo Zagabria on 2026-11-05 at 02:00PM EST | unknown |  |
-| 05/11 10:00 | 05/11 14:00 | IT - Sky Sport 258 | Next Game: Getafe - Brighton on 2026-11-05 at 02:00PM EST | unknown |  |
-| 05/11 10:00 | 05/11 11:00 | IT - Sky Sport Legend | Gattuso | unknown |  |
-| 05/11 10:30 | 05/11 11:00 | IT - Sky Sport Calcio | Feyenoord - Inter | unknown |  |
-| 05/11 10:30 | 05/11 12:25 | IT - ZONA DAZN | Frosinone - Lecce | unknown | serie-a |
-| 05/11 11:00 | 05/11 12:00 | IT - Sky Sport Calcio | Uefa Europa & Conference League Preview Ep.4 02/11/2026 | unknown |  |
-| 05/11 12:00 | 05/11 13:50 | IT - Sky Sport Calcio | Manchester United - Roma | unknown | champions-league |
-| 05/11 12:00 | 05/11 18:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 05/11 12:25 | 05/11 13:00 | IT - ZONA DAZN | Pierluigi Collina | unknown |  |
-| 05/11 12:40 | 05/11 13:00 | IT - Sky Sport 4K | Manchester United - Roma | unknown | champions-league |
-| 05/11 13:00 | 05/11 13:30 | IT - Sky Sport24 | Il Calcio e' Servito | unknown |  |
-| 05/11 13:00 | 05/11 14:45 | IT - Sky Sport 4K | Milan - Inter | unknown |  |
-| 05/11 13:00 | 05/11 14:55 | IT - ZONA DAZN | Roma - Cagliari | unknown | serie-a |
-| 05/11 13:30 | 05/11 14:00 | IT - Sky Sport24 | Il Calcio e' Servito | unknown |  |
-| 05/11 13:50 | 05/11 14:10 | IT - Sky Sport Calcio | La Giovane Italia 2026 Ep.26 05/11/2026 | unknown |  |
-| 05/11 14:00 | 05/11 18:00 | IT - Sky Sport 251 | Next Game: Diretta Gol Uel/ Uecl... (Diretta) on 2026-11-05 at 12:00PM EST | live |  |
-| 05/11 14:00 | 05/11 18:00 | IT - Sky Sport 252 | Next Game: AZ - Juventus on 2026-11-05 at 02:00PM EST | unknown |  |
-| 05/11 14:00 | 05/11 18:00 | IT - Sky Sport 253 | Next Game: Milan - Ferencváros on 2026-11-05 at 12:00PM EST | unknown |  |
-| 05/11 14:00 | 05/11 18:00 | IT - Sky Sport 254 | Next Game: Atalanta - Kairat on 2026-11-05 at 12:00PM EST | unknown |  |
-| 05/11 14:00 | 05/11 18:00 | IT - Sky Sport 255 | Next Game: Crystal Palace - TSG 1899 Hoffenheim on 2026-11-05 at 12:00PM EST | unknown |  |
-| 05/11 14:00 | 05/11 18:00 | IT - Sky Sport 256 | Next Game: Sparta Praga - Bournemouth on 2026-11-05 at 12:00PM EST | unknown |  |
-| 05/11 14:00 | 05/11 18:00 | IT - Sky Sport 257 | Next Game: Sunderland - Dinamo Zagabria on 2026-11-05 at 02:00PM EST | unknown |  |
-| 05/11 14:00 | 05/11 18:00 | IT - Sky Sport 258 | Next Game: Getafe - Brighton on 2026-11-05 at 02:00PM EST | unknown |  |
-| 05/11 14:10 | 05/11 16:10 | IT - Sky Sport Calcio | Lens - Como | unknown |  |
-| 05/11 14:15 | 05/11 14:30 | IT - Sky Sport Legend | Tutti i gol di Del Piero in Champions | unknown | champions-league |
-| 05/11 14:30 | 05/11 15:15 | IT - Sky Sport Legend | Parte 1 | unknown |  |
-| 05/11 14:45 | 05/11 16:30 | IT - Sky Sport 4K | Lecce - Genoa | unknown |  |
-| 05/11 14:50 | 05/11 17:30 | IT - RAI Sport | Pallavolo: Serie A Maschile | unknown | serie-a |
-| 05/11 14:50 | 05/11 17:30 | IT - Rai Sport 1 | Pallavolo: Serie A Maschile | unknown | serie-a |
-| 05/11 15:15 | 05/11 16:05 | IT - Sky Sport Legend | Parte 2 | unknown |  |
-| 05/11 15:30 | 05/11 17:25 | IT - ZONA DAZN | Sassuolo - Lazio | unknown | serie-a |
-| 05/11 16:05 | 05/11 17:00 | IT - Sky Sport Legend | Sintesi Juventus - Ajax 1996/1997 | unknown |  |
-| 05/11 16:10 | 05/11 18:05 | IT - Sky Sport Calcio | AEK Atene - Real Madrid | unknown | champions-league |
-| 05/11 17:25 | 05/11 17:45 | IT - ZONA DAZN | Bordocam Napoli - Como 2026/27 | unknown |  |
-| 05/11 17:30 | 05/11 18:00 | IT - Sky Sport 4K | Bournemouth - Milan | unknown |  |
-| 05/11 17:45 | 05/11 18:00 | IT - ZONA DAZN | Bordocam Inter - Monza 2026/27 | unknown |  |
-| 05/11 18:00 | 05/11 18:35 | IT - Sky Sport24 | Sky Calcio Show (Uel/ Uecl)... | unknown |  |
-| 05/11 18:00 | 05/11 20:55 | IT - Sky Sport 251 | Diretta Gol Uel/ Uecl... (Diretta) | live |  |
-| 05/11 18:00 | 05/11 20:00 | IT - Sky Sport 252 | Next Game: AZ - Juventus on 2026-11-05 at 02:00PM EST | unknown |  |
 | 05/11 18:00 | 06/11 01:30 | IT - Sky Sport 253 | Milan - Ferencváros | live |  |
-| 05/11 18:00 | 05/11 22:00 | IT - Sky Sport 254 | Atalanta - Kairat | live |  |
-| 05/11 18:00 | 05/11 20:55 | IT - Sky Sport 255 | Crystal Palace - TSG 1899 Hoffenheim | live |  |
-| 05/11 18:00 | 05/11 20:55 | IT - Sky Sport 256 | Sparta Praga - Bournemouth | live |  |
-| 05/11 18:00 | 05/11 20:00 | IT - Sky Sport 257 | Next Game: Sunderland - Dinamo Zagabria on 2026-11-05 at 02:00PM EST | unknown |  |
-| 05/11 18:00 | 05/11 20:00 | IT - Sky Sport 258 | Next Game: Getafe - Brighton on 2026-11-05 at 02:00PM EST | unknown |  |
-| 05/11 18:00 | 05/11 18:40 | IT - Sky Sport 4K | Sky Calcio Show (Uel/ Uecl) 05/11/2026 | live |  |
-| 05/11 18:00 | 05/11 19:00 | IT - Sky Sport Legend | Gattuso | unknown |  |
-| 05/11 18:00 | 05/11 20:00 | IT - ZONA DAZN | Fiorentina - Atalanta | unknown | serie-a |
-| 05/11 18:00 | 06/11 00:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 05/11 18:05 | 05/11 18:20 | IT - Sky Sport Calcio | La Giovane Italia 2026 Ep.26 05/11/2026 | unknown |  |
-| 05/11 18:20 | 05/11 18:40 | IT - Sky Sport Calcio | Lens - Como | unknown |  |
-| 05/11 18:25 | 05/11 18:40 | IT - Sky Sport Arena | Programmazione non disponibile | unknown |  |
-| 05/11 18:40 | 05/11 20:45 | IT - Sky Sport 4K | Milan - Ferencváros | live |  |
-| 05/11 18:40 | 05/11 20:40 | IT - Sky Sport Arena | Atalanta - Kairat | live |  |
-| 05/11 18:40 | 05/11 20:40 | IT - Sky Sport Calcio | Crystal Palace - TSG 1899 Hoffenheim | live |  |
 | 05/11 20:00 | 06/11 01:30 | IT - Sky Sport | Getafe - Brighton | live |  |
-| 05/11 20:00 | 05/11 20:55 | IT - Sky Sport24 | Sky Calcio Show (Uel/ Uecl)... | unknown |  |
 | 05/11 20:00 | 06/11 01:30 | IT - Sky Sport 252 | AZ - Juventus | live |  |
 | 05/11 20:00 | 06/11 01:30 | IT - Sky Sport 257 | Sunderland - Dinamo Zagabria | live |  |
 | 05/11 20:00 | 06/11 01:30 | IT - Sky Sport 258 | Getafe - Brighton | live |  |
-| 05/11 20:00 | 05/11 21:00 | IT - ZONA DAZN | Serie A 2026/27 Matchday Highlights 2026 7a g | unknown | serie-a |
-| 05/11 20:20 | 05/11 20:55 | IT - TV8 | Tv8 Football Night | unknown | champions-league |
-| 05/11 20:40 | 05/11 20:55 | IT - Sky Sport Arena | Programmazione non disponibile | unknown |  |
-| 05/11 20:40 | 05/11 20:55 | IT - Sky Sport Calcio | Programmazione non disponibile | unknown |  |
-| 05/11 20:45 | 05/11 21:20 | IT - Sky Sport 4K | Feyenoord - Inter | unknown |  |
-| 05/11 20:45 | 05/11 21:45 | IT - Sky Sport Legend | 1a parte | unknown | serie-b |
-| 05/11 20:55 | 05/11 21:30 | IT - Sky Sport24 | Sky Calcio Show (Uel/ Uecl)... | unknown |  |
 | 05/11 20:55 | 06/11 01:30 | IT - Sky Sport 251 | Diretta Gol Uel/ Uecl... (Diretta) | live |  |
 | 05/11 20:55 | 06/11 01:30 | IT - Sky Sport 255 | Bayer Leverkusen - Olympique Marsiglia | live |  |
 | 05/11 20:55 | 06/11 01:30 | IT - Sky Sport 256 | Celtic - Besiktas | live |  |
-| 05/11 20:55 | 05/11 23:00 | IT - Sky Sport Arena | Diretta Gol Uel/ Uecl... (Diretta) | live |  |
-| 05/11 20:55 | 05/11 23:00 | IT - Sky Sport Calcio | Bayer Leverkusen - Olympique Marsiglia | live |  |
-| 05/11 20:55 | 05/11 23:00 | IT - TV8 | Milan - Ferencváros | unknown |  |
-| 05/11 21:00 | 05/11 22:50 | IT - ZONA DAZN | Genoa - Juventus | unknown | serie-a |
-| 05/11 21:20 | 05/11 21:45 | IT - Sky Sport 4K | Manchester United - Roma | unknown | champions-league |
-| 05/11 21:45 | 05/11 23:45 | IT - Sky Sport 4K | Milan - Ferencváros | unknown |  |
 | 05/11 22:00 | 06/11 02:00 | IT - Sky Sport 254 | Signing Off | unknown |  |
-| 05/11 22:45 | 05/11 23:15 | IT - Sky Sport Legend | Batistuta | unknown |  |
-| 05/11 22:50 | 05/11 23:10 | IT - ZONA DAZN | Bordocam Inter - Parma 2025/26 | unknown |  |
-| 05/11 23:00 | 06/11 00:00 | IT - Sky Sport24 | Sky Calcio Show (Uel/ Uecl)... | unknown |  |
-| 05/11 23:00 | 05/11 23:15 | IT - Sky Sport Arena | La Giovane Italia 2026 Ep.26 05/11/2026 | unknown |  |
-| 05/11 23:00 | 05/11 23:30 | IT - Sky Sport Calcio | Milan - Ferencváros | unknown |  |
 | 05/11 23:00 | 06/11 00:30 | IT - TV8 | Tv8 Football Night | live | champions-league |
-| 05/11 23:15 | 05/11 23:35 | IT - Sky Sport Arena | Lens - Como | unknown |  |
 | 05/11 23:15 | 06/11 01:15 | IT - Sky Sport Legend | Conegliano - Scandicci | unknown | champions-league |
-| 05/11 23:30 | 06/11 00:00 | IT - Sky Sport Calcio | Centrocampo Il Cuore Del Gioco | unknown |  |
 | 05/11 23:35 | 06/11 01:30 | IT - Sky Sport Arena | Milan - Ferencváros | unknown |  |
 | 05/11 23:45 | 06/11 00:15 | IT - Sky Sport 4K | Feyenoord - Inter | unknown |  |
 | 06/11 00:00 | 06/11 00:30 | IT - Sky Sport Calcio | Ep.14 (Uel+ucl) | live | champions-league |

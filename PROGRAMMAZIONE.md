@@ -1,6 +1,6 @@
 # Programmazione calcio
 
-Ultima acquisizione riuscita: 2026-11-06T22:54:46.720981Z. Orari: Europe/Rome.
+Ultima acquisizione riuscita: 2026-11-06T23:50:36.299971Z. Orari: Europe/Rome.
 
 Solo Sky Calcio, Sky Sport, DAZN/Zona DAZN, TV8 e RAI secondo config.json.
 
@@ -21,138 +21,14 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 
 | Inizio | Fine | Canale | Programma | Tipo | Competizioni rilevate |
 | --- | --- | --- | --- | --- | --- |
-| 06/11 00:45 | 06/11 01:15 | IT - Sky Sport NBA | Basket Room Serie A 2026/2027... | unknown | serie-a |
-| 06/11 01:15 | 06/11 03:15 | IT - Sky Sport 4K | Milan - Ferencváros | unknown |  |
-| 06/11 01:30 | 06/11 02:00 | IT - Sky Sport Arena | Centrocampo Il Cuore Del Gioco | unknown |  |
-| 06/11 02:00 | 06/11 06:00 | IT - Sky Sport 251 | Next Game: Venezia - Udinese on 2026-11-06 at 02:00PM EST | unknown |  |
-| 06/11 02:00 | 06/11 06:00 | IT - Sky Sport 252 | Next Game: Union Brescia - Arzignano on 2026-11-06 at 02:00PM EST | unknown |  |
-| 06/11 02:00 | 06/11 06:00 | IT - Sky Sport 253 | Next Game: Alcione Milano - Lumezzane on 2026-11-06 at 02:00PM EST | unknown |  |
-| 06/11 02:00 | 06/11 06:00 | IT - Sky Sport 254 | Next Game: Everton - Coventry City on 2026-11-06 at 02:30PM EST | unknown |  |
-| 06/11 02:00 | 06/11 06:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
-| 06/11 02:00 | 06/11 06:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 06/11 02:00 | 06/11 06:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 06/11 02:00 | 06/11 06:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 06/11 02:00 | 06/11 02:30 | IT - Sky Sport Legend | Milito | unknown |  |
-| 06/11 02:00 | 06/11 04:00 | IT - Sky Sport Max | Feyenoord - Inter UEFA Champions League | unknown | champions-league |
-| 06/11 02:30 | 06/11 02:45 | IT - Sky Sport Calcio | Milan - Ferencváros | unknown |  |
-| 06/11 02:30 | 06/11 04:15 | IT - Sky Sport Legend | Milan - Juventus 2003 | unknown | champions-league |
-| 06/11 02:45 | 06/11 03:15 | IT - Sky Sport Calcio | Ep.23 | unknown |  |
-| 06/11 03:15 | 06/11 03:45 | IT - Sky Sport Calcio | Bundesliga Weekly | unknown |  |
-| 06/11 03:45 | 06/11 04:15 | IT - Sky Sport Calcio | AZ - Juventus | unknown |  |
-| 06/11 04:15 | 06/11 06:00 | IT - Sky Sport Calcio | Atalanta - Kairat | unknown |  |
-| 06/11 05:30 | 06/11 06:00 | IT - Sky Sport 4K | Manchester United - Roma | unknown | champions-league |
-| 06/11 05:30 | 06/11 06:00 | IT - Sky Sport NBA | Basket Room Serie A 2026/2027... | unknown | serie-a |
-| 06/11 06:00 | 06/11 10:00 | IT - Sky Sport 251 | Next Game: Venezia - Udinese on 2026-11-06 at 02:00PM EST | unknown |  |
-| 06/11 06:00 | 06/11 10:00 | IT - Sky Sport 252 | Next Game: Union Brescia - Arzignano on 2026-11-06 at 02:00PM EST | unknown |  |
-| 06/11 06:00 | 06/11 10:00 | IT - Sky Sport 253 | Next Game: Alcione Milano - Lumezzane on 2026-11-06 at 02:00PM EST | unknown |  |
-| 06/11 06:00 | 06/11 10:00 | IT - Sky Sport 254 | Next Game: Everton - Coventry City on 2026-11-06 at 02:30PM EST | unknown |  |
-| 06/11 06:00 | 06/11 10:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
-| 06/11 06:00 | 06/11 10:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 06/11 06:00 | 06/11 10:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 06/11 06:00 | 06/11 10:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 06/11 06:00 | 06/11 06:30 | IT - Sky Sport 4K | Porto - Napoli | unknown |  |
-| 06/11 06:00 | 06/11 07:40 | IT - Sky Sport Calcio | Porto - Napoli | unknown |  |
-| 06/11 06:00 | 06/11 07:00 | IT - Sky Sport Legend | Gattuso | unknown |  |
-| 06/11 06:00 | 06/11 12:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 06/11 06:30 | 06/11 08:30 | IT - Sky Sport 4K | Milan - Ferencváros | unknown |  |
-| 06/11 06:35 | 06/11 08:05 | IT - Sky Sport Arena | Brescia - Pro Recco | unknown | champions-league |
-| 06/11 07:40 | 06/11 07:55 | IT - Sky Sport Calcio | AZ - Juventus | unknown |  |
-| 06/11 07:55 | 06/11 09:50 | IT - Sky Sport Calcio | Milan - Ferencváros | unknown |  |
-| 06/11 08:00 | 06/11 08:30 | IT - Sky Sport NBA | Basket Room Serie A 2026/2027... | unknown | serie-a |
-| 06/11 08:00 | 06/11 09:55 | IT - ZONA DAZN | Fiorentina - Atalanta | unknown | serie-a |
-| 06/11 08:30 | 06/11 10:15 | IT - Sky Sport 4K | Milan - Inter | unknown |  |
-| 06/11 09:30 | 06/11 11:30 | IT - Sky Sport Max | Lens - Como UEFA Champions League | unknown | champions-league |
-| 06/11 09:50 | 06/11 11:40 | IT - Sky Sport Calcio | Atalanta - Kairat | unknown |  |
-| 06/11 09:55 | 06/11 10:30 | IT - ZONA DAZN | Come l'Inter ha vinto lo Scudetto | unknown |  |
-| 06/11 10:00 | 06/11 14:00 | IT - Sky Sport 251 | Next Game: Venezia - Udinese on 2026-11-06 at 02:00PM EST | unknown |  |
-| 06/11 10:00 | 06/11 14:00 | IT - Sky Sport 252 | Next Game: Union Brescia - Arzignano on 2026-11-06 at 02:00PM EST | unknown |  |
-| 06/11 10:00 | 06/11 14:00 | IT - Sky Sport 253 | Next Game: Alcione Milano - Lumezzane on 2026-11-06 at 02:00PM EST | unknown |  |
-| 06/11 10:00 | 06/11 14:00 | IT - Sky Sport 254 | Next Game: Everton - Coventry City on 2026-11-06 at 02:30PM EST | unknown |  |
-| 06/11 10:00 | 06/11 14:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
-| 06/11 10:00 | 06/11 14:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 06/11 10:00 | 06/11 14:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 06/11 10:00 | 06/11 14:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 06/11 10:15 | 06/11 10:45 | IT - Sky Sport 4K | AZ - Juventus | unknown |  |
-| 06/11 10:30 | 06/11 12:25 | IT - ZONA DAZN | Roma - Cagliari | unknown | serie-a |
-| 06/11 11:00 | 06/11 13:05 | IT - Sky Sport Legend | Inter - Real Madrid 25/11/98 | unknown | champions-league |
-| 06/11 11:40 | 06/11 12:10 | IT - Sky Sport Calcio | Porto - Napoli | unknown |  |
-| 06/11 12:00 | 06/11 13:45 | IT - Sky Sport Arena | AZ - Juventus | unknown |  |
-| 06/11 12:00 | 06/11 18:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 06/11 12:10 | 06/11 12:25 | IT - Sky Sport Calcio | Feyenoord - Inter | unknown |  |
-| 06/11 12:25 | 06/11 14:10 | IT - Sky Sport Calcio | Milan - Ferencváros | unknown |  |
-| 06/11 12:25 | 06/11 13:00 | IT - ZONA DAZN | Igli Tare | unknown |  |
-| 06/11 13:00 | 06/11 13:30 | IT - Sky Sport24 | Il Calcio e' Servito | unknown |  |
-| 06/11 13:00 | 06/11 13:30 | IT - Sky Sport 4K | Feyenoord - Inter | unknown |  |
-| 06/11 13:00 | 06/11 14:50 | IT - ZONA DAZN | Milan - Bologna | unknown | serie-a |
-| 06/11 13:05 | 06/11 13:35 | IT - Sky Sport Legend | Vialli | unknown |  |
-| 06/11 13:30 | 06/11 14:00 | IT - Sky Sport24 | Il Calcio e' Servito | unknown |  |
-| 06/11 13:30 | 06/11 13:45 | IT - Sky Sport 4K | Lens - Como | unknown |  |
-| 06/11 13:30 | 06/11 14:00 | IT - Sky Sport NBA | Basket Room Serie A 2026/2027... | unknown | serie-a |
-| 06/11 13:35 | 06/11 14:35 | IT - Sky Sport Legend | Parte 1 | unknown |  |
-| 06/11 13:45 | 06/11 14:30 | IT - Sky Sport 4K | Napoli - Bodo/Glimt | unknown |  |
-| 06/11 13:45 | 06/11 14:00 | IT - Sky Sport Arena | Feyenoord - Inter | unknown |  |
-| 06/11 14:00 | 06/11 18:00 | IT - Sky Sport 251 | Next Game: Venezia - Udinese on 2026-11-06 at 02:00PM EST | unknown |  |
-| 06/11 14:00 | 06/11 18:00 | IT - Sky Sport 252 | Next Game: Union Brescia - Arzignano on 2026-11-06 at 02:00PM EST | unknown |  |
-| 06/11 14:00 | 06/11 18:00 | IT - Sky Sport 253 | Next Game: Alcione Milano - Lumezzane on 2026-11-06 at 02:00PM EST | unknown |  |
-| 06/11 14:00 | 06/11 18:00 | IT - Sky Sport 254 | Next Game: Everton - Coventry City on 2026-11-06 at 02:30PM EST | unknown |  |
-| 06/11 14:00 | 06/11 18:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
-| 06/11 14:00 | 06/11 18:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 06/11 14:00 | 06/11 18:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 06/11 14:00 | 06/11 18:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 06/11 14:10 | 06/11 15:55 | IT - Sky Sport Calcio | AZ - Juventus | unknown |  |
-| 06/11 14:30 | 06/11 16:15 | IT - Sky Sport 4K | Milan - Ferencváros | unknown |  |
-| 06/11 14:35 | 06/11 15:35 | IT - Sky Sport Legend | Parte 2 | unknown | champions-league |
-| 06/11 14:50 | 06/11 15:30 | IT - ZONA DAZN | Alessandro Nesta | unknown |  |
-| 06/11 15:30 | 06/11 17:25 | IT - ZONA DAZN | Frosinone - Lecce | unknown | serie-a |
-| 06/11 15:55 | 06/11 17:45 | IT - Sky Sport Calcio | Atalanta - Kairat | unknown |  |
-| 06/11 16:00 | 06/11 16:30 | IT - Sky Sport Max | Milan - Ferencvaros UEFA Europa League | unknown |  |
-| 06/11 16:20 | 06/11 16:50 | IT - Sky Sport NBA | Basket Room Serie A 2026/2027... | unknown | serie-a |
-| 06/11 16:30 | 06/11 18:25 | IT - Sky Sport Max | Porto - Napoli UEFA Champions League | unknown | champions-league |
-| 06/11 17:25 | 06/11 18:00 | IT - ZONA DAZN | Le grandi coppie Giampaolo Pazzini | unknown |  |
-| 06/11 17:45 | 06/11 18:15 | IT - Sky Sport Calcio | Milan - Ferencváros | unknown |  |
-| 06/11 18:00 | 06/11 20:00 | IT - Sky Sport 251 | Next Game: Venezia - Udinese on 2026-11-06 at 02:00PM EST | unknown |  |
-| 06/11 18:00 | 06/11 20:00 | IT - Sky Sport 252 | Next Game: Union Brescia - Arzignano on 2026-11-06 at 02:00PM EST | unknown |  |
-| 06/11 18:00 | 06/11 20:00 | IT - Sky Sport 253 | Next Game: Alcione Milano - Lumezzane on 2026-11-06 at 02:00PM EST | unknown |  |
-| 06/11 18:00 | 06/11 20:30 | IT - Sky Sport 254 | Next Game: Everton - Coventry City on 2026-11-06 at 02:30PM EST | unknown |  |
-| 06/11 18:00 | 06/11 22:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
-| 06/11 18:00 | 06/11 22:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 06/11 18:00 | 06/11 22:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 06/11 18:00 | 06/11 22:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 06/11 18:00 | 06/11 19:55 | IT - ZONA DAZN | Sassuolo - Lazio | unknown | serie-a |
-| 06/11 18:00 | 07/11 00:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 06/11 18:05 | 06/11 18:25 | IT - Sky Sport Arena | La Giovane Italia 2026 Ep.26 05/11/2026 | unknown |  |
-| 06/11 18:15 | 06/11 18:30 | IT - Sky Sport Calcio | Porto - Napoli | unknown |  |
-| 06/11 18:25 | 06/11 18:55 | IT - Sky Sport Arena | Manchester United - Roma | unknown | champions-league |
-| 06/11 18:25 | 06/11 18:40 | IT - Sky Sport Max | Feyenoord - Inter UEFA Champions League | unknown | champions-league |
-| 06/11 18:30 | 06/11 18:50 | IT - Sky Sport Calcio | AZ - Juventus | unknown |  |
-| 06/11 18:50 | 06/11 19:30 | IT - Sky Sport Calcio | Champions League Remix Ep.4 06/11/2026 | unknown | champions-league |
-| 06/11 18:55 | 06/11 19:25 | IT - Sky Sport Arena | Milan - Ferencváros | unknown |  |
-| 06/11 19:30 | 06/11 20:00 | IT - Sky Sport 4K | Porto - Napoli | unknown |  |
-| 06/11 19:30 | 06/11 20:00 | IT - Sky Sport Calcio | Europa E Conference League Remix Ep.4 06/11/2026 | unknown |  |
-| 06/11 19:50 | 06/11 20:50 | IT - Sky Sport Legend | Lippi | unknown |  |
 | 06/11 20:00 | 07/11 00:30 | IT - Sky Sport 251 | Venezia - Udinese | live | serie-a |
-| 06/11 20:00 | 07/11 00:00 | IT - Sky Sport 252 | Union Brescia - Arzignano | live |  |
-| 06/11 20:00 | 07/11 00:00 | IT - Sky Sport 253 | Alcione Milano - Lumezzane | live |  |
-| 06/11 20:00 | 06/11 20:40 | IT - Sky Sport 4K | Sky Friday Night Football Prepartita | live | serie-a |
-| 06/11 20:00 | 06/11 20:40 | IT - Sky Sport Calcio | Sky Friday Night Football Prepartita | live | serie-a |
-| 06/11 20:15 | 06/11 20:30 | IT - ZONA DAZN | Bordocam Juventus - Milan 2026/27 | unknown |  |
-| 06/11 20:20 | 06/11 23:00 | IT - RAI Sport | Pallavolo: Serie A Femminile | unknown | serie-a |
-| 06/11 20:20 | 06/11 23:00 | IT - Rai Sport 1 | Pallavolo: Serie A Femminile | unknown | serie-a |
 | 06/11 20:30 | 07/11 00:30 | IT - Sky Sport 254 | Everton - Coventry City | live |  |
-| 06/11 20:30 | 06/11 21:00 | IT - ZONA DAZN | Bordocam Inter - Napoli 2026/27 | unknown |  |
-| 06/11 20:40 | 06/11 22:45 | IT - Sky Sport 4K | Venezia - Udinese | live |  |
-| 06/11 20:40 | 06/11 22:45 | IT - Sky Sport Calcio | Venezia - Udinese | live |  |
-| 06/11 20:50 | 06/11 21:50 | IT - Sky Sport Legend | Pistole e Palloni | unknown |  |
-| 06/11 21:00 | 06/11 23:10 | IT - ZONA DAZN | Siviglia - Alaves | live |  |
 | 06/11 22:00 | 07/11 02:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
 | 06/11 22:00 | 07/11 02:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
 | 06/11 22:00 | 07/11 02:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
 | 06/11 22:00 | 07/11 02:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 06/11 22:30 | 06/11 23:05 | IT - Sky Sport Max | Champions League Remix Ep.4... | unknown | champions-league |
 | 06/11 22:45 | 07/11 00:05 | IT - Sky Sport 4K | Sky Friday Night...... (Diretta) | live | serie-a |
-| 06/11 22:45 | 07/11 00:00 | IT - Sky Sport Calcio | Sky Friday Night Football Postpartita | live | serie-a |
 | 06/11 23:05 | 07/11 01:00 | IT - Sky Sport Max | Venezia - Udinese Serie A | unknown | serie-a |
-| 06/11 23:10 | 06/11 23:30 | IT - ZONA DAZN | La visione di Spalletti | unknown |  |
 | 06/11 23:30 | 07/11 00:30 | IT - ZONA DAZN | Bordocam corsa Champions MD38 | unknown | serie-a |
 | 07/11 00:00 | 07/11 04:00 | IT - Sky Sport 252 | Signing Off | unknown |  |
 | 07/11 00:00 | 07/11 04:00 | IT - Sky Sport 253 | Signing Off | unknown |  |

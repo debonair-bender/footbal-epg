@@ -1,6 +1,6 @@
 # Programmazione calcio
 
-Ultima acquisizione riuscita: 2026-11-08T18:58:50.264363Z. Orari: Europe/Rome.
+Ultima acquisizione riuscita: 2026-11-08T19:55:17.079205Z. Orari: Europe/Rome.
 
 Solo Sky Calcio, Sky Sport, DAZN/Zona DAZN, TV8 e RAI secondo config.json.
 

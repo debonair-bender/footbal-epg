@@ -1,9 +1,18 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-08T05:04:16.245216Z",
-  "state": "error",
-  "sources": [],
-  "errors": [
-    "The read operation timed out"
-  ]
+  "checkedAt": "2026-11-08T05:59:35.287250Z",
+  "state": "ok",
+  "sources": [
+    {
+      "id": "it",
+      "url": "https://iptv-epg.org/files/epg-it.xml",
+      "lastModified": "Sun, 08 Nov 2026 03:10:39 GMT",
+      "sha256": "1b35a62ca9b7ad2d798fccf29df2754cad36c486433c7a8204750b257e80e96e",
+      "channels": 145,
+      "programmes": 508,
+      "invalidProgrammes": 15
+    }
+  ],
+  "errors": [],
+  "calendarState": "disabled"
 }

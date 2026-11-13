@@ -1,6 +1,6 @@
 # Programmazione calcio
 
-Ultima acquisizione riuscita: 2026-11-13T06:16:30.740684Z. Orari: Europe/Rome.
+Ultima acquisizione riuscita: 2026-11-13T07:40:41.684119Z. Orari: Europe/Rome.
 
 Solo Sky Calcio, Sky Sport, DAZN/Zona DAZN, TV8 e RAI secondo config.json.
 
@@ -21,22 +21,10 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 
 | Inizio | Fine | Canale | Programma | Tipo | Competizioni rilevate |
 | --- | --- | --- | --- | --- | --- |
-| 12/11 22:00 | 13/11 02:00 | IT - Sky Sport 252 | No Game Today | unknown |  |
-| 12/11 22:00 | 13/11 02:00 | IT - Sky Sport 253 | No Game Today | unknown |  |
-| 12/11 22:00 | 13/11 02:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
-| 12/11 22:00 | 13/11 02:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 12/11 22:00 | 13/11 02:00 | IT - Sky Sport 257 | No Game Today | live |  |
-| 12/11 22:00 | 13/11 02:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 12/11 23:45 | 13/11 01:35 | IT - Sky Sport Arena | Inghilterra - Croazia | unknown |  |
-| 12/11 23:48 | 13/11 00:30 | IT - ZONA DAZN | Tarik Muharemovic | unknown |  |
-| 12/11 23:50 | 13/11 00:10 | IT - Sky Sport Calcio | La Giovane Italia 2026 Ep.27 12/11/2026 | unknown |  |
-| 13/11 00:00 | 13/11 04:00 | IT - Sky Sport 251 | Signing Off | unknown |  |
-| 13/11 00:00 | 13/11 06:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 13/11 00:05 | 13/11 01:35 | IT - Sky Sport Legend | Il Processo del 6 Dicembre 1993 | unknown |  |
-| 13/11 00:10 | 13/11 02:00 | IT - Sky Sport Calcio | Italia - Francia | unknown |  |
 | 13/11 00:30 | 13/11 01:00 | IT - Sky Sport NBA | 10/11/2026 Basket Room Serie A | unknown | serie-a |
 | 13/11 01:10 | 13/11 02:50 | IT - Sky Sport 4K | Roma - Sassuolo | unknown |  |
 | 13/11 01:35 | 13/11 02:30 | IT - Sky Sport Legend | Ep. 2 | unknown |  |
+| 13/11 02:00 | 13/11 06:00 | IT - Sky Sport 251 | Next Game: Latina - Campobasso on 2026-11-13 at 02:00PM EST | unknown |  |
 | 13/11 02:00 | 13/11 06:00 | IT - Sky Sport 252 | Next Game: Ospitaletto F. - Dolomiti B. on 2026-11-13 at 02:00PM EST | unknown |  |
 | 13/11 02:00 | 13/11 06:00 | IT - Sky Sport 253 | Next Game: S. S. Consilina - A. Network on 2026-11-13 at 02:00PM EST | unknown |  |
 | 13/11 02:00 | 13/11 06:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
@@ -47,11 +35,11 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 13/11 02:30 | 13/11 03:30 | IT - Sky Sport Calcio | Italia Mundial (Spagna 1982) | unknown |  |
 | 13/11 02:30 | 13/11 04:15 | IT - Sky Sport Legend | Milan - Barcellona 1994 | unknown | champions-league |
 | 13/11 03:30 | 13/11 04:00 | IT - Sky Sport Calcio | Bundesliga Weekly | unknown |  |
-| 13/11 04:00 | 13/11 08:00 | IT - Sky Sport 251 | Signing Off | unknown |  |
 | 13/11 04:00 | 13/11 06:00 | IT - Sky Sport Calcio | Inghilterra - Croazia | unknown |  |
 | 13/11 04:20 | 13/11 06:00 | IT - Sky Sport 4K | Inter - Como | unknown |  |
 | 13/11 04:30 | 13/11 06:00 | IT - RAI Sport | Pallavolo: Serie A Femminile | unknown | serie-a |
 | 13/11 04:30 | 13/11 06:00 | IT - Rai Sport 1 | Pallavolo: Serie A Femminile | unknown | serie-a |
+| 13/11 06:00 | 13/11 10:00 | IT - Sky Sport 251 | Next Game: Latina - Campobasso on 2026-11-13 at 02:00PM EST | unknown |  |
 | 13/11 06:00 | 13/11 10:00 | IT - Sky Sport 252 | Next Game: Ospitaletto F. - Dolomiti B. on 2026-11-13 at 02:00PM EST | unknown |  |
 | 13/11 06:00 | 13/11 10:00 | IT - Sky Sport 253 | Next Game: S. S. Consilina - A. Network on 2026-11-13 at 02:00PM EST | unknown |  |
 | 13/11 06:00 | 13/11 10:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
@@ -63,15 +51,14 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 13/11 06:00 | 13/11 08:45 | IT - Sky Sport Legend | Volley Femminile Cev Champions League 2020/2021 - Stag. -3 - Conegliano - Istanbul. Finale | unknown | champions-league |
 | 13/11 06:00 | 13/11 06:30 | IT - Sky Sport NBA | 10/11/2026 Basket Room Serie A | unknown | serie-a |
 | 13/11 06:00 | 13/11 12:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 13/11 08:00 | 13/11 09:00 | IT - Sky Sport 251 | Signing Off | unknown |  |
 | 13/11 08:00 | 13/11 08:30 | IT - Sky Sport 4K | Manchester United - Roma | unknown | champions-league |
 | 13/11 08:00 | 13/11 08:30 | IT - Sky Sport Calcio | Uefa Champions League Magazine 2026/2027 Ep.10 09/11/2026 | unknown | champions-league |
 | 13/11 08:00 | 13/11 09:45 | IT - ZONA DAZN | Fiorentina - Juventus | unknown | serie-a |
 | 13/11 08:30 | 13/11 10:15 | IT - Sky Sport 4K | Sassuolo - Fiorentina | unknown |  |
 | 13/11 08:30 | 13/11 09:00 | IT - Sky Sport Calcio | Europa E Conference League Remix Ep.4 06/11/2026 | unknown |  |
 | 13/11 08:45 | 13/11 09:45 | IT - Sky Sport Legend | Ep. 3 | unknown |  |
-| 13/11 09:00 | 13/11 13:00 | IT - Sky Sport 251 | Next Game: Latina - Campobasso on 2026-11-13 at 02:00PM EST | unknown |  |
 | 13/11 09:00 | 13/11 11:00 | IT - Sky Sport Calcio | Repubblica Ceca - Spagna | unknown |  |
+| 13/11 10:00 | 13/11 14:00 | IT - Sky Sport 251 | Next Game: Latina - Campobasso on 2026-11-13 at 02:00PM EST | unknown |  |
 | 13/11 10:00 | 13/11 14:00 | IT - Sky Sport 252 | Next Game: Ospitaletto F. - Dolomiti B. on 2026-11-13 at 02:00PM EST | unknown |  |
 | 13/11 10:00 | 13/11 14:00 | IT - Sky Sport 253 | Next Game: S. S. Consilina - A. Network on 2026-11-13 at 02:00PM EST | unknown |  |
 | 13/11 10:00 | 13/11 14:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
@@ -81,41 +68,41 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 13/11 10:11 | 13/11 12:02 | IT - ZONA DAZN | Parma - Bologna | unknown | serie-a |
 | 13/11 10:15 | 13/11 10:30 | IT - Sky Sport 4K | Feyenoord - Inter | unknown |  |
 | 13/11 10:30 | 13/11 12:15 | IT - Sky Sport 4K | Lecce - Genoa | unknown |  |
-| 13/11 11:00 | 13/11 13:00 | IT - Sky Sport Calcio | Turchia - Belgio | unknown |  |
+| 13/11 11:00 | 13/11 12:50 | IT - Sky Sport Calcio | Turchia - Belgio | unknown |  |
 | 13/11 12:00 | 13/11 18:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
 | 13/11 12:02 | 13/11 12:33 | IT - ZONA DAZN | My Skills 1 Marco Palestra - Stag. 1 Ep. 26 - Marco Palestra | unknown | serie-a |
 | 13/11 12:15 | 13/11 14:00 | IT - Sky Sport 4K | Roma - Sassuolo | unknown |  |
 | 13/11 12:33 | 13/11 14:22 | IT - ZONA DAZN | Genoa - Milan | unknown | serie-a |
+| 13/11 12:50 | 13/11 14:00 | IT - Sky Sport Calcio | Lippi | unknown |  |
 | 13/11 13:00 | 13/11 13:30 | IT - Sky Sport24 | Il Calcio e' Servito | unknown |  |
-| 13/11 13:00 | 13/11 17:00 | IT - Sky Sport 251 | Next Game: Latina - Campobasso on 2026-11-13 at 02:00PM EST | unknown |  |
-| 13/11 13:00 | 13/11 14:00 | IT - Sky Sport Calcio | Lippi | unknown |  |
 | 13/11 13:30 | 13/11 14:00 | IT - Sky Sport24 | Il Calcio e' Servito | unknown |  |
+| 13/11 14:00 | 13/11 18:00 | IT - Sky Sport 251 | Next Game: Latina - Campobasso on 2026-11-13 at 02:00PM EST | unknown |  |
 | 13/11 14:00 | 13/11 18:00 | IT - Sky Sport 252 | Next Game: Ospitaletto F. - Dolomiti B. on 2026-11-13 at 02:00PM EST | unknown |  |
 | 13/11 14:00 | 13/11 18:00 | IT - Sky Sport 253 | Next Game: S. S. Consilina - A. Network on 2026-11-13 at 02:00PM EST | unknown |  |
 | 13/11 14:00 | 13/11 18:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
 | 13/11 14:00 | 13/11 18:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
 | 13/11 14:00 | 13/11 18:00 | IT - Sky Sport 257 | No Game Today | live |  |
 | 13/11 14:00 | 13/11 18:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 13/11 14:00 | 13/11 15:45 | IT - Sky Sport 4K | Inter - Como | unknown |  |
+| 13/11 14:00 | 13/11 15:40 | IT - Sky Sport 4K | Inter - Como | unknown |  |
 | 13/11 14:00 | 13/11 16:00 | IT - Sky Sport Calcio | Italia - Francia | unknown |  |
 | 13/11 14:50 | 13/11 17:25 | IT - RAI Sport | Pallavolo: Serie A Femminile | unknown | serie-a |
 | 13/11 14:50 | 13/11 17:25 | IT - Rai Sport 1 | Pallavolo: Serie A Femminile | unknown | serie-a |
 | 13/11 15:06 | 13/11 16:48 | IT - ZONA DAZN | Napoli - Lazio | unknown | serie-a |
-| 13/11 16:00 | 13/11 18:00 | IT - Sky Sport Calcio | Inghilterra - Croazia | unknown |  |
-| 13/11 16:30 | 13/11 18:15 | IT - Sky Sport Max | Roma - Sassuolo Serie A Enilive | unknown | serie-a |
+| 13/11 16:00 | 13/11 17:50 | IT - Sky Sport Calcio | Inghilterra - Croazia | unknown |  |
+| 13/11 16:30 | 13/11 18:15 | IT - Sky Sport Max | Roma - Sassuolo Serie A | unknown | serie-a |
 | 13/11 16:48 | 13/11 17:34 | IT - ZONA DAZN | Interna21onale Uno Scudetto firmato Chivu | unknown |  |
-| 13/11 17:00 | 13/11 20:00 | IT - Sky Sport 251 | Next Game: Latina - Campobasso on 2026-11-13 at 02:00PM EST | unknown |  |
-| 13/11 17:30 | 13/11 17:45 | IT - Sky Sport Legend | Gli invincibili | unknown |  |
+| 13/11 17:25 | 13/11 17:40 | IT - Sky Sport Legend | Gli invincibili | unknown |  |
 | 13/11 17:34 | 13/11 17:51 | IT - ZONA DAZN | Bordocam Napoli - Como 2026/27 | unknown |  |
-| 13/11 17:45 | 13/11 19:30 | IT - Sky Sport Legend | Bayern M. - Inter 2010 | unknown | champions-league |
+| 13/11 17:40 | 13/11 19:30 | IT - Sky Sport Legend | Bayern M. - Inter 2010 | unknown | champions-league |
+| 13/11 17:50 | 13/11 20:00 | IT - Sky Sport Calcio | Moldavia - Kazakistan | live |  |
 | 13/11 17:51 | 13/11 18:30 | IT - ZONA DAZN | Leonardo Pavoletti | unknown |  |
+| 13/11 18:00 | 13/11 20:00 | IT - Sky Sport 251 | Next Game: Latina - Campobasso on 2026-11-13 at 02:00PM EST | unknown |  |
 | 13/11 18:00 | 13/11 20:00 | IT - Sky Sport 252 | Next Game: Ospitaletto F. - Dolomiti B. on 2026-11-13 at 02:00PM EST | unknown |  |
 | 13/11 18:00 | 13/11 20:00 | IT - Sky Sport 253 | Next Game: S. S. Consilina - A. Network on 2026-11-13 at 02:00PM EST | unknown |  |
 | 13/11 18:00 | 13/11 22:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
 | 13/11 18:00 | 13/11 22:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
 | 13/11 18:00 | 13/11 22:00 | IT - Sky Sport 257 | No Game Today | live |  |
 | 13/11 18:00 | 13/11 22:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 13/11 18:00 | 13/11 20:00 | IT - Sky Sport Calcio | Moldavia - Kazakistan | live |  |
 | 13/11 18:00 | 14/11 00:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
 | 13/11 18:20 | 13/11 20:30 | IT - Rai 2 | Nazionale di calcio | unknown |  |
 | 13/11 19:30 | 13/11 21:00 | IT - Sky Sport Legend | Il Processo del 10 Gennaio 1994 | unknown |  |
@@ -123,20 +110,20 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 13/11 20:00 | 14/11 00:00 | IT - Sky Sport 252 | Ospitaletto F. - Dolomiti B. | live |  |
 | 13/11 20:00 | 14/11 00:00 | IT - Sky Sport 253 | S. S. Consilina - A. Network | live | serie-a |
 | 13/11 20:00 | 13/11 20:30 | IT - Sky Sport 4K | Feyenoord - Inter | unknown |  |
-| 13/11 20:00 | 13/11 20:45 | IT - Sky Sport Calcio | Prepartita Nations League 13/11/2026 | live |  |
+| 13/11 20:00 | 13/11 20:35 | IT - Sky Sport Calcio | Prepartita Nations League 13/11/2026 | live |  |
 | 13/11 20:01 | 13/11 20:30 | IT - ZONA DAZN | La voce di Giorgio | unknown |  |
-| 13/11 20:30 | 13/11 22:30 | IT - Sky Sport Max | Latina - Campobasso Serie C (Diretta) | live |  |
+| 13/11 20:20 | 13/11 22:30 | IT - Sky Sport Max | Latina - Campobasso Serie C (Diretta) | live |  |
 | 13/11 20:30 | 13/11 22:28 | IT - ZONA DAZN | Torino - Lecce | unknown | serie-a |
-| 13/11 20:45 | 13/11 22:45 | IT - Sky Sport Calcio | Calcio Uefa Nations League 5ga Diretta Gol 13/11/2026 | live |  |
-| 13/11 21:55 | 14/11 00:00 | IT - RAI Sport | Nazionale di calcio | unknown |  |
-| 13/11 21:55 | 14/11 00:00 | IT - Rai Sport 1 | Nazionale di calcio | unknown |  |
+| 13/11 20:35 | 13/11 22:45 | IT - Sky Sport Calcio | Calcio Uefa Nations League 5ga Diretta Gol 13/11/2026 | live |  |
 | 13/11 22:00 | 14/11 02:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
 | 13/11 22:00 | 14/11 02:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
 | 13/11 22:00 | 14/11 02:00 | IT - Sky Sport 257 | No Game Today | live |  |
 | 13/11 22:00 | 14/11 02:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 13/11 22:30 | 13/11 22:45 | IT - Sky Sport 4K | Lens - Como | unknown |  |
-| 13/11 22:45 | 13/11 23:15 | IT - Sky Sport 4K | Manchester United - Roma | unknown | champions-league |
+| 13/11 22:05 | 14/11 00:00 | IT - RAI Sport | Nazionale di calcio | unknown |  |
+| 13/11 22:05 | 14/11 00:00 | IT - Rai Sport 1 | Nazionale di calcio | unknown |  |
+| 13/11 22:40 | 13/11 22:55 | IT - Sky Sport 4K | Lens - Como | unknown |  |
 | 13/11 22:45 | 13/11 23:30 | IT - Sky Sport Calcio | Postpartita Nations League 13/11/2026 | live |  |
+| 13/11 22:55 | 13/11 23:25 | IT - Sky Sport 4K | Manchester United - Roma | unknown | champions-league |
 | 13/11 23:10 | 14/11 00:50 | IT - Rai Premium | Squadra Omicidi Spalato | unknown |  |
 | 13/11 23:14 | 14/11 00:30 | IT - ZONA DAZN | 7a g | unknown | serie-a |
 | 13/11 23:30 | 14/11 00:00 | IT - Sky Sport Calcio | Champions League Remix Ep.4 06/11/2026 | unknown | champions-league |
@@ -146,33 +133,33 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 14/11 00:00 | 14/11 04:00 | IT - Sky Sport 254 | Signing Off | unknown |  |
 | 14/11 00:00 | 14/11 02:00 | IT - Sky Sport Calcio | Serbia - Germania | unknown |  |
 | 14/11 00:00 | 14/11 06:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 14/11 01:00 | 14/11 03:45 | IT - Sky Sport Legend | Volley Femminile Cev Champions League 2020/2021 - Stag. -3 - Conegliano - Istanbul. Finale | unknown | champions-league |
-| 14/11 01:30 | 14/11 01:45 | IT - Sky Sport 4K | Lens - Como | unknown |  |
+| 14/11 01:05 | 14/11 03:50 | IT - Sky Sport Legend | Volley Femminile Cev Champions League 2020/2021 - Stag. -3 - Conegliano - Istanbul. Finale | unknown | champions-league |
+| 14/11 01:35 | 14/11 01:55 | IT - Sky Sport 4K | Lens - Como | unknown |  |
 | 14/11 01:45 | 14/11 04:00 | IT - RAI Sport | Nazionale di calcio | unknown |  |
 | 14/11 01:45 | 14/11 04:00 | IT - Rai Sport 1 | Nazionale di calcio | unknown |  |
-| 14/11 01:45 | 14/11 03:30 | IT - Sky Sport 4K | Inter - Como | unknown |  |
+| 14/11 01:55 | 14/11 03:30 | IT - Sky Sport 4K | Inter - Como | unknown |  |
 | 14/11 02:00 | 14/11 06:00 | IT - Sky Sport 255 | Next Game: Arzignano V. - Alcione Milano on 2026-11-14 at 08:00AM EST | unknown |  |
 | 14/11 02:00 | 14/11 06:00 | IT - Sky Sport 256 | Next Game: Renate - Desenzano on 2026-11-14 at 08:00AM EST | unknown |  |
 | 14/11 02:00 | 14/11 06:00 | IT - Sky Sport 257 | No Game Today | live |  |
 | 14/11 02:00 | 14/11 06:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 14/11 02:00 | 14/11 04:00 | IT - Sky Sport Calcio | Italia - Francia | unknown |  |
+| 14/11 02:00 | 14/11 04:05 | IT - Sky Sport Calcio | Italia - Francia | unknown |  |
 | 14/11 03:30 | 14/11 04:00 | IT - Sky Sport 4K | AZ - Juventus | unknown |  |
-| 14/11 03:45 | 14/11 04:45 | IT - Sky Sport Legend | Ep. 3 | unknown |  |
+| 14/11 03:50 | 14/11 04:50 | IT - Sky Sport Legend | Ep. 3 | unknown |  |
 | 14/11 04:00 | 14/11 08:00 | IT - Sky Sport 251 | Signing Off | unknown |  |
 | 14/11 04:00 | 14/11 08:00 | IT - Sky Sport 252 | Signing Off | unknown |  |
 | 14/11 04:00 | 14/11 08:00 | IT - Sky Sport 253 | Signing Off | unknown |  |
 | 14/11 04:00 | 14/11 08:00 | IT - Sky Sport 254 | Signing Off | unknown |  |
-| 14/11 04:00 | 14/11 06:00 | IT - Sky Sport Calcio | Moldavia - Kazakistan | unknown |  |
-| 14/11 04:45 | 14/11 05:00 | IT - Sky Sport Legend | Kakà: tutti i gol in Champions League | unknown | champions-league |
+| 14/11 04:05 | 14/11 06:00 | IT - Sky Sport Calcio | Moldavia - Kazakistan | unknown |  |
+| 14/11 04:50 | 14/11 05:05 | IT - Sky Sport Legend | Kakà: tutti i gol in Champions League | unknown | champions-league |
 | 14/11 06:00 | 14/11 10:00 | IT - Sky Sport 255 | Next Game: Arzignano V. - Alcione Milano on 2026-11-14 at 08:00AM EST | unknown |  |
 | 14/11 06:00 | 14/11 10:00 | IT - Sky Sport 256 | Next Game: Renate - Desenzano on 2026-11-14 at 08:00AM EST | unknown |  |
 | 14/11 06:00 | 14/11 10:00 | IT - Sky Sport 257 | No Game Today | live |  |
 | 14/11 06:00 | 14/11 10:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 14/11 06:00 | 14/11 07:45 | IT - Sky Sport 4K | Roma - Sassuolo | unknown |  |
 | 14/11 06:00 | 14/11 08:00 | IT - Sky Sport Calcio | Serbia - Germania | unknown |  |
 | 14/11 06:00 | 14/11 07:45 | IT - Sky Sport Legend | Bayern M. - Inter 2010 | unknown | champions-league |
 | 14/11 06:00 | 14/11 12:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 14/11 07:45 | 14/11 09:30 | IT - Sky Sport 4K | Venezia - Udinese | unknown |  |
+| 14/11 06:05 | 14/11 07:50 | IT - Sky Sport 4K | Roma - Sassuolo | unknown |  |
+| 14/11 07:50 | 14/11 09:30 | IT - Sky Sport 4K | Venezia - Udinese | unknown |  |
 | 14/11 08:00 | 14/11 09:00 | IT - Sky Sport 251 | Signing Off | unknown |  |
 | 14/11 08:00 | 14/11 09:00 | IT - Sky Sport 252 | Signing Off | unknown |  |
 | 14/11 08:00 | 14/11 09:00 | IT - Sky Sport 253 | Signing Off | unknown |  |
@@ -180,7 +167,7 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 14/11 08:00 | 14/11 08:30 | IT - Sky Sport Calcio | Mikel Arteta | unknown |  |
 | 14/11 08:00 | 14/11 09:51 | IT - ZONA DAZN | Parma - Bologna | unknown | serie-a |
 | 14/11 08:30 | 14/11 08:45 | IT - Sky Sport Calcio | La Giovane Italia 2026 Ep.27 12/11/2026 | unknown |  |
-| 14/11 08:45 | 14/11 10:45 | IT - Sky Sport Calcio | Turchia - Belgio | unknown |  |
+| 14/11 08:45 | 14/11 10:40 | IT - Sky Sport Calcio | Turchia - Belgio | unknown |  |
 | 14/11 09:00 | 14/11 13:00 | IT - Sky Sport 251 | Next Game: Albinoleffe - Union Brescia on 2026-11-14 at 08:00AM EST | unknown |  |
 | 14/11 09:00 | 14/11 13:00 | IT - Sky Sport 252 | Next Game: Reggiana - Livorno on 2026-11-14 at 08:00AM EST | unknown |  |
 | 14/11 09:00 | 14/11 13:00 | IT - Sky Sport 253 | Next Game: Casarano - Picerno on 2026-11-14 at 08:00AM EST | unknown |  |
@@ -194,13 +181,13 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 14/11 10:00 | 14/11 14:00 | IT - Sky Sport 257 | No Game Today | live |  |
 | 14/11 10:00 | 14/11 14:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
 | 14/11 10:30 | 14/11 11:00 | IT - ZONA DAZN | Bordocam corsa Champions MD37 | unknown |  |
-| 14/11 10:45 | 14/11 12:45 | IT - Sky Sport Calcio | Italia - Francia | unknown |  |
+| 14/11 10:40 | 14/11 12:30 | IT - Sky Sport Calcio | Italia - Francia | unknown |  |
 | 14/11 11:00 | 14/11 11:30 | IT - Sky Sport Max | Champions League Remix Ep.4... | unknown | champions-league |
 | 14/11 11:30 | 14/11 13:15 | IT - Sky Sport 4K | Roma - Sassuolo | unknown |  |
 | 14/11 11:30 | 14/11 12:25 | IT - ZONA DAZN | Chivu: La migliore versione di Noi | unknown |  |
 | 14/11 12:00 | 14/11 18:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
 | 14/11 12:25 | 14/11 14:30 | IT - ZONA DAZN | Serie A F 2026 Napoli - Milan | live | serie-a |
-| 14/11 12:45 | 14/11 14:30 | IT - Sky Sport Calcio | Serbia - Germania | unknown |  |
+| 14/11 12:30 | 14/11 14:20 | IT - Sky Sport Calcio | Serbia - Germania | unknown |  |
 | 14/11 13:00 | 14/11 14:00 | IT - Sky Sport 251 | Next Game: Albinoleffe - Union Brescia on 2026-11-14 at 08:00AM EST | unknown |  |
 | 14/11 13:00 | 14/11 14:00 | IT - Sky Sport 252 | Next Game: Reggiana - Livorno on 2026-11-14 at 08:00AM EST | unknown |  |
 | 14/11 13:00 | 14/11 14:00 | IT - Sky Sport 253 | Next Game: Casarano - Picerno on 2026-11-14 at 08:00AM EST | unknown |  |
@@ -215,22 +202,22 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 14/11 14:00 | 14/11 18:00 | IT - Sky Sport 256 | Renate - Desenzano | live |  |
 | 14/11 14:00 | 14/11 18:00 | IT - Sky Sport 257 | No Game Today | live |  |
 | 14/11 14:00 | 14/11 18:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 14/11 14:30 | 14/11 16:30 | IT - Sky Sport Calcio | Reggiana - Livorno | live |  |
-| 14/11 14:30 | 14/11 15:00 | IT - Sky Sport Max | Europa E Conference League Remix Ep | unknown |  |
+| 14/11 14:20 | 14/11 16:25 | IT - Sky Sport Calcio | Reggiana - Livorno | live |  |
+| 14/11 14:20 | 14/11 14:50 | IT - Sky Sport Max | Europa E Conference League Remix Ep | unknown |  |
 | 14/11 14:30 | 14/11 14:55 | IT - ZONA DAZN | La visione di Spalletti | unknown |  |
 | 14/11 14:55 | 14/11 16:55 | IT - ZONA DAZN | Serie A F 2026 Roma - Parma | live | serie-a |
 | 14/11 15:00 | 14/11 16:45 | IT - Sky Sport 4K | Milan - Inter | unknown |  |
-| 14/11 16:30 | 14/11 17:00 | IT - Sky Sport Calcio | Champions League Remix Ep.4 06/11/2026 | unknown | champions-league |
-| 14/11 16:30 | 14/11 17:00 | IT - Sky Sport Legend | Lo sbarco del fenomeno: Ronnie e l'Inter | unknown |  |
+| 14/11 16:25 | 14/11 17:00 | IT - Sky Sport Calcio | Champions League Remix Ep.4 06/11/2026 | unknown | champions-league |
+| 14/11 16:30 | 14/11 16:55 | IT - Sky Sport Legend | Lo sbarco del fenomeno: Ronnie e l'Inter | unknown |  |
 | 14/11 16:45 | 14/11 18:30 | IT - Sky Sport 4K | Inter - Como | unknown |  |
 | 14/11 16:55 | 14/11 17:45 | IT - ZONA DAZN | Inter: Tutti i gol della stagione 25-26 | unknown |  |
-| 14/11 17:15 | 14/11 17:30 | IT - Sky Sport Calcio | Programmazione non disponibile | unknown |  |
+| 14/11 17:15 | 14/11 17:20 | IT - Sky Sport Calcio | Programmazione non disponibile | unknown |  |
+| 14/11 17:20 | 14/11 19:30 | IT - Sky Sport Calcio | Bari - Foggia | live |  |
 | 14/11 17:25 | 14/11 21:00 | IT - Sky Sport 251 | Bari - Foggia | live |  |
 | 14/11 17:25 | 14/11 21:00 | IT - Sky Sport 252 | Lumezzane - Trento | live |  |
 | 14/11 17:25 | 14/11 21:00 | IT - Sky Sport 253 | Gubbio - Grosseto | live |  |
 | 14/11 17:25 | 14/11 21:00 | IT - Sky Sport 254 | Carpi - Giana Erminio | live |  |
 | 14/11 17:25 | 14/11 21:30 | IT - Sky Sport 255 | Georgia - Ungheria | live |  |
-| 14/11 17:30 | 14/11 19:30 | IT - Sky Sport Calcio | Bari - Foggia | live |  |
 | 14/11 17:45 | 14/11 18:30 | IT - ZONA DAZN | Come l'Inter ha vinto lo Scudetto | unknown |  |
 | 14/11 18:00 | 14/11 22:00 | IT - Sky Sport 256 | Signing Off | unknown |  |
 | 14/11 18:00 | 14/11 22:00 | IT - Sky Sport 257 | No Game Today | live |  |
@@ -239,35 +226,35 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 14/11 18:30 | 14/11 19:00 | IT - Sky Sport 4K | Feyenoord - Inter | unknown |  |
 | 14/11 19:15 | 14/11 20:00 | IT - Sky Sport Legend | Parte 1 | unknown |  |
 | 14/11 19:30 | 14/11 20:00 | IT - Sky Sport Calcio | Totti | unknown |  |
-| 14/11 20:00 | 14/11 20:45 | IT - Sky Sport Calcio | Prepartita Nations League 14/11/2026 | live |  |
-| 14/11 20:00 | 14/11 20:45 | IT - Sky Sport Legend | Parte 2 | unknown |  |
+| 14/11 20:00 | 14/11 20:35 | IT - Sky Sport Calcio | Prepartita Nations League 14/11/2026 | live |  |
+| 14/11 20:00 | 14/11 20:50 | IT - Sky Sport Legend | Parte 2 | unknown |  |
 | 14/11 20:01 | 14/11 21:45 | IT - ZONA DAZN | Fiorentina - Juventus | unknown | serie-a |
-| 14/11 20:45 | 14/11 22:45 | IT - Sky Sport Calcio | Calcio Uefa Nations League 5ga Diretta Gol 14/11/2026 | live |  |
-| 14/11 20:45 | 14/11 21:15 | IT - Sky Sport Legend | Leicester, Storia Di Un Miracolo | unknown |  |
-| 14/11 20:45 | 14/11 22:45 | IT - TV8 | Portogallo - Danimarca | live |  |
+| 14/11 20:35 | 14/11 22:40 | IT - Sky Sport Calcio | Calcio Uefa Nations League 5ga Diretta Gol 14/11/2026 | live |  |
+| 14/11 20:35 | 14/11 22:40 | IT - TV8 | Portogallo - Danimarca | live |  |
 | 14/11 20:50 | 14/11 23:30 | IT - RAI Sport | Pallavolo: Serie A Femminile | unknown | serie-a |
 | 14/11 20:50 | 14/11 23:30 | IT - Rai Sport 1 | Pallavolo: Serie A Femminile | unknown | serie-a |
+| 14/11 20:50 | 14/11 21:20 | IT - Sky Sport Legend | Leicester, Storia Di Un Miracolo | unknown |  |
 | 14/11 21:00 | 15/11 01:00 | IT - Sky Sport 251 | Signing Off | unknown |  |
 | 14/11 21:00 | 15/11 01:00 | IT - Sky Sport 252 | Signing Off | unknown |  |
 | 14/11 21:00 | 15/11 01:00 | IT - Sky Sport 253 | Signing Off | unknown |  |
 | 14/11 21:00 | 15/11 01:00 | IT - Sky Sport 254 | Signing Off | unknown |  |
-| 14/11 21:00 | 14/11 23:00 | IT - Sky Sport 4K | Milan - Ferencváros | unknown |  |
-| 14/11 21:15 | 14/11 21:45 | IT - Sky Sport Legend | Jamie Vardy - La Mia Stagione Da Sogno | unknown |  |
+| 14/11 21:10 | 14/11 22:55 | IT - Sky Sport 4K | Milan - Ferencváros | unknown |  |
+| 14/11 21:20 | 14/11 21:50 | IT - Sky Sport Legend | Jamie Vardy - La Mia Stagione Da Sogno | unknown |  |
 | 14/11 21:30 | 15/11 01:30 | IT - Sky Sport 255 | Signing Off | unknown |  |
-| 14/11 21:45 | 14/11 22:15 | IT - Sky Sport Legend | Claudio Ranieri - La Mia Storia | unknown |  |
+| 14/11 21:50 | 14/11 22:15 | IT - Sky Sport Legend | Claudio Ranieri - La Mia Storia | unknown |  |
 | 14/11 22:00 | 15/11 02:00 | IT - Sky Sport 256 | Signing Off | unknown |  |
 | 14/11 22:00 | 15/11 02:00 | IT - Sky Sport 257 | No Game Today | live |  |
 | 14/11 22:00 | 15/11 02:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 14/11 22:15 | 14/11 22:30 | IT - Sky Sport Legend | Generazione Leicester: 10 anni dopo | unknown |  |
-| 14/11 22:30 | 14/11 23:30 | IT - Sky Sport Legend | Parte 1 | unknown |  |
+| 14/11 22:15 | 14/11 22:35 | IT - Sky Sport Legend | Generazione Leicester: 10 anni dopo | unknown |  |
+| 14/11 22:35 | 14/11 23:30 | IT - Sky Sport Legend | Parte 1 | unknown |  |
 | 14/11 22:35 | 14/11 23:30 | IT - ZONA DAZN | 8a g | unknown | serie-a |
-| 14/11 22:45 | 14/11 23:30 | IT - Sky Sport Calcio | Postpartita Nations League 14/11/2026 | live |  |
-| 14/11 23:00 | 14/11 23:15 | IT - Sky Sport 4K | Lens - Como | unknown |  |
-| 14/11 23:15 | 15/11 01:00 | IT - Sky Sport 4K | Inter - Como | unknown |  |
-| 14/11 23:30 | 15/11 00:00 | IT - Sky Sport Calcio | Europa E Conference League Remix Ep.4 06/11/2026 | unknown |  |
+| 14/11 22:40 | 14/11 23:25 | IT - Sky Sport Calcio | Postpartita Nations League 14/11/2026 | live |  |
+| 14/11 22:55 | 14/11 23:10 | IT - Sky Sport 4K | Lens - Como | unknown |  |
+| 14/11 23:10 | 15/11 01:00 | IT - Sky Sport 4K | Inter - Como | unknown |  |
+| 14/11 23:25 | 15/11 00:00 | IT - Sky Sport Calcio | Europa E Conference League Remix Ep.4 06/11/2026 | unknown |  |
 | 14/11 23:30 | 15/11 00:30 | IT - Sky Sport Legend | Parte 2 | unknown |  |
 | 14/11 23:30 | 15/11 00:30 | IT - ZONA DAZN | Ezequiel Lavezzi | unknown |  |
-| 15/11 00:00 | 15/11 02:00 | IT - Sky Sport Calcio | Portogallo - Danimarca | unknown |  |
+| 15/11 00:00 | 15/11 02:05 | IT - Sky Sport Calcio | Portogallo - Danimarca | unknown |  |
 | 15/11 00:00 | 15/11 06:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
 | 15/11 01:00 | 15/11 05:00 | IT - Sky Sport 251 | Signing Off | unknown |  |
 | 15/11 01:00 | 15/11 05:00 | IT - Sky Sport 252 | Signing Off | unknown |  |
@@ -278,11 +265,11 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 15/11 02:00 | 15/11 06:00 | IT - Sky Sport 256 | Signing Off | unknown |  |
 | 15/11 02:00 | 15/11 06:00 | IT - Sky Sport 257 | Next Game: Novara - Lecco (diretta) on 2026-11-15 at 06:00AM EST | live |  |
 | 15/11 02:00 | 15/11 06:00 | IT - Sky Sport 258 | Next Game: Giugliano - Savoia on 2026-11-15 at 06:00AM EST | unknown |  |
-| 15/11 02:00 | 15/11 04:00 | IT - Sky Sport Calcio | Norvegia - Galles | unknown |  |
 | 15/11 02:00 | 15/11 04:00 | IT - Sky Sport Legend | Inter - Real Madrid 25/11/98 | unknown | champions-league |
+| 15/11 02:05 | 15/11 04:05 | IT - Sky Sport Calcio | Norvegia - Galles | unknown |  |
 | 15/11 02:30 | 15/11 04:15 | IT - Sky Sport 4K | Roma - Sassuolo | unknown |  |
-| 15/11 04:00 | 15/11 06:00 | IT - Sky Sport Calcio | Italia - Francia | unknown |  |
 | 15/11 04:00 | 15/11 04:30 | IT - Sky Sport Legend | Totti | unknown |  |
+| 15/11 04:05 | 15/11 06:00 | IT - Sky Sport Calcio | Italia - Francia | unknown |  |
 | 15/11 04:15 | 15/11 06:00 | IT - Sky Sport 4K | Venezia - Udinese | unknown |  |
 | 15/11 04:30 | 15/11 05:30 | IT - Sky Sport Legend | Ep. 3 | unknown |  |
 | 15/11 05:00 | 15/11 09:00 | IT - Sky Sport 251 | Signing Off | unknown |  |
@@ -313,6 +300,7 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 15/11 10:30 | 15/11 12:30 | IT - Sky Sport Calcio | Portogallo - Danimarca | unknown |  |
 | 15/11 10:36 | 15/11 12:25 | IT - ZONA DAZN | Parma - Bologna | unknown | serie-a |
 | 15/11 10:45 | 15/11 12:30 | IT - Sky Sport 4K | Inter - Como | unknown |  |
+| 15/11 11:30 | 15/11 12:00 | IT - Sky Sport Max | Europa E Conference League Remix Ep | unknown |  |
 | 15/11 12:00 | 15/11 16:00 | IT - Sky Sport | Giugliano - Savoia | live |  |
 | 15/11 12:00 | 15/11 14:55 | IT - Sky Sport 257 | Novara - Lecco (diretta) | live |  |
 | 15/11 12:00 | 15/11 16:00 | IT - Sky Sport 258 | Giugliano - Savoia | live |  |
@@ -335,15 +323,20 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 15/11 14:00 | 15/11 17:25 | IT - Sky Sport 254 | Potenza - Scafatese | live |  |
 | 15/11 14:00 | 15/11 17:25 | IT - Sky Sport 255 | Guidonia M. - Ostiamare | live |  |
 | 15/11 14:00 | 15/11 17:25 | IT - Sky Sport 256 | Cavese - Crotone | live |  |
+| 15/11 14:10 | 15/11 16:15 | IT - RAI Sport | Rugby: Serie A Elite maschile | unknown | serie-a |
+| 15/11 14:10 | 15/11 16:15 | IT - Rai Sport 1 | Rugby: Serie A Elite maschile | unknown | serie-a |
 | 15/11 14:15 | 15/11 14:45 | IT - Sky Sport 4K | Porto - Napoli | unknown |  |
 | 15/11 14:30 | 15/11 16:30 | IT - Sky Sport Calcio | Salernitana - Catania | live |  |
 | 15/11 14:45 | 15/11 16:45 | IT - Sky Sport 4K | Milan - Ferencváros | unknown |  |
 | 15/11 14:45 | 15/11 15:45 | IT - Sky Sport Legend | Enzo Ferrari | unknown |  |
+| 15/11 14:55 | 15/11 17:00 | IT - Rai 2 | Serie A Women Athora | unknown | serie-a |
 | 15/11 14:55 | 15/11 17:55 | IT - Sky Sport 257 | Lettonia - Armenia | live |  |
 | 15/11 15:10 | 15/11 15:50 | IT - ZONA DAZN | Bordocam corsa Champions MD38 | unknown | serie-a |
 | 15/11 15:45 | 15/11 16:45 | IT - Sky Sport Legend | Gattuso | unknown |  |
 | 15/11 16:00 | 15/11 17:00 | IT - Sky Sport 258 | Next Game: Arsenal-London City Lionesses on 2026-11-15 at 11:00AM EST | unknown |  |
-| 15/11 16:30 | 15/11 17:00 | IT - Sky Sport Calcio | Europa E Conference League Remix Ep.4 06/11/2026 | unknown |  |
+| 15/11 16:15 | 15/11 18:05 | IT - RAI Sport | Pallavolo: Serie A Femminile | unknown | serie-a |
+| 15/11 16:15 | 15/11 18:05 | IT - Rai Sport 1 | Pallavolo: Serie A Femminile | unknown | serie-a |
+| 15/11 16:30 | 15/11 17:00 | IT - Sky Sport Calcio | Ronaldinho | unknown | champions-league |
 | 15/11 16:45 | 15/11 18:30 | IT - Sky Sport 4K | Milan - Inter | unknown |  |
 | 15/11 17:00 | 15/11 21:00 | IT - Sky Sport | Arsenal-London City Lionesses - Stag. 2026 Ep. 11 - Arsenal-London City Lionesses (diretta) | live |  |
 | 15/11 17:00 | 15/11 20:35 | IT - Sky Sport 251 | Ravenna - Forlì | live |  |
@@ -356,15 +349,20 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 15/11 17:25 | 15/11 21:00 | IT - Sky Sport 255 | Cosenza - Casertana | live |  |
 | 15/11 17:25 | 15/11 21:00 | IT - Sky Sport 256 | Pergolettese - Pro Vercelli | live |  |
 | 15/11 17:30 | 15/11 19:30 | IT - Sky Sport Calcio | Ravenna - Forlì | live |  |
+| 15/11 17:45 | 15/11 18:00 | IT - Sky Sport Max | Highlights Calcio | unknown |  |
+| 15/11 17:50 | 15/11 20:30 | IT - Rai 2 | Pallavolo: Serie A Maschile | unknown | serie-a |
 | 15/11 17:55 | 15/11 21:30 | IT - Sky Sport 257 | Finlandia - San Marino | live |  |
+| 15/11 18:00 | 15/11 18:15 | IT - Sky Sport NBA | Studio Basket Serie A... (Diretta) | live | serie-a |
 | 15/11 18:00 | 16/11 00:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
 | 15/11 18:30 | 15/11 19:00 | IT - Sky Sport 4K | AZ - Juventus | unknown |  |
 | 15/11 18:30 | 15/11 18:45 | IT - Sky Sport Legend | Tutti i gol di Del Piero in Champions | unknown | champions-league |
 | 15/11 19:00 | 15/11 20:45 | IT - Sky Sport 4K | Venezia - Udinese | unknown |  |
-| 15/11 19:30 | 15/11 20:00 | IT - Sky Sport Calcio | Vialli | unknown |  |
+| 15/11 19:30 | 15/11 20:00 | IT - Sky Sport Calcio | Ronaldinho | unknown | champions-league |
 | 15/11 20:00 | 15/11 20:45 | IT - Sky Sport Calcio | Prepartita Nations League 15/11/2026 | live |  |
+| 15/11 20:00 | 15/11 20:30 | IT - Sky Sport Max | Champions League Remix Ep.4... | unknown | champions-league |
 | 15/11 20:15 | 15/11 20:30 | IT - Sky Sport Legend | Tutti i gol di Henry nelle Coppe Europee | unknown |  |
 | 15/11 20:30 | 15/11 22:30 | IT - Sky Sport Legend | È stato tutto bello - Storia di Paolino e Pablito | unknown |  |
+| 15/11 20:30 | 15/11 20:45 | IT - Sky Sport Max | Highlights Calcio | unknown |  |
 | 15/11 20:35 | 16/11 00:00 | IT - Sky Sport 251 | Spagna - Inghilterra | live |  |
 | 15/11 20:45 | 15/11 22:45 | IT - Sky Sport Calcio | Calcio Uefa Nations League 5ga Diretta Gol 15/11/2026 | live |  |
 | 15/11 20:51 | 15/11 22:33 | IT - ZONA DAZN | Napoli - Lazio | unknown | serie-a |
@@ -377,6 +375,8 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 16/11 00:00 | 16/11 04:00 | IT - Sky Sport 251 | Signing Off | unknown |  |
 | 16/11 00:00 | 16/11 02:00 | IT - Sky Sport Calcio | Belgio - Italia | unknown |  |
 | 16/11 00:00 | 16/11 06:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
+| 16/11 00:30 | 16/11 02:45 | IT - RAI Sport | Nazionale di calcio | unknown |  |
+| 16/11 00:30 | 16/11 02:45 | IT - Rai Sport 1 | Nazionale di calcio | unknown |  |
 | 16/11 01:00 | 16/11 05:00 | IT - Sky Sport 252 | Signing Off | unknown |  |
 | 16/11 01:15 | 16/11 02:00 | IT - Sky Sport Legend | Parte 1 | unknown |  |
 | 16/11 02:00 | 16/11 04:00 | IT - Sky Sport Calcio | Francia - Turchia | unknown |  |
@@ -384,6 +384,7 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 16/11 02:45 | 16/11 04:30 | IT - Sky Sport 4K | Inter - Como | unknown |  |
 | 16/11 04:00 | 16/11 08:00 | IT - Sky Sport 251 | Signing Off | unknown |  |
 | 16/11 04:00 | 16/11 06:00 | IT - Sky Sport Calcio | Spagna - Inghilterra | unknown |  |
+| 16/11 04:00 | 16/11 06:00 | IT - Sky Sport NBA | Udine - EA7 Emporio Armani Milano Serie A Basket | unknown | serie-a |
 | 16/11 05:00 | 16/11 09:00 | IT - Sky Sport 252 | Signing Off | unknown |  |
 | 16/11 06:00 | 16/11 07:45 | IT - Sky Sport 4K | Venezia - Udinese | unknown |  |
 | 16/11 06:00 | 16/11 08:00 | IT - Sky Sport Calcio | Belgio - Italia | unknown |  |
@@ -546,10 +547,10 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 18/11 18:00 | 19/11 00:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
 | 18/11 18:45 | 18/11 19:45 | IT - Sky Sport Legend | 1a parte | unknown | serie-b |
 | 18/11 19:08 | 18/11 19:36 | IT - ZONA DAZN | My Skills 1 Franco Mastantuono | unknown |  |
+| 18/11 19:30 | 18/11 20:00 | IT - Sky Sport Arena | Basket Room Serie A 2026/2027 17/11/2026 | unknown | serie-a |
 | 18/11 19:36 | 18/11 19:51 | IT - ZONA DAZN | Remember the name 2026 Diego Moreira | unknown |  |
 | 18/11 19:45 | 18/11 20:45 | IT - Sky Sport Legend | Pistole e Palloni | unknown |  |
 | 18/11 19:51 | 18/11 21:38 | IT - ZONA DAZN | Inter-Napoli 26/27 | unknown | serie-a |
-| 18/11 20:00 | 18/11 20:30 | IT - Sky Sport Arena | Basket Room Serie A 2026/2027 17/11/2026 | unknown | serie-a |
 | 18/11 20:00 | 18/11 20:30 | IT - Sky Sport Calcio | Uefa Champions League Magazine 2026/2027 Ep.11 16/11/2026 | unknown | champions-league |
 | 18/11 20:30 | 18/11 22:00 | IT - Sky Sport Arena | Pro Recco - Brescia | live | champions-league |
 | 18/11 20:30 | 18/11 21:00 | IT - Sky Sport Calcio | Totti | unknown |  |
@@ -564,3 +565,65 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 19/11 00:00 | 19/11 06:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
 | 19/11 00:30 | 19/11 01:30 | IT - Sky Sport Calcio | Calcio Wsl Highlights Ep.10 18/11/2026 | unknown |  |
 | 19/11 00:30 | 19/11 02:15 | IT - Sky Sport Legend | Man City - Roma 30/09/14 | unknown | champions-league |
+| 19/11 01:30 | 19/11 03:30 | IT - Sky Sport Calcio | Italia - Francia | unknown |  |
+| 19/11 02:00 | 19/11 03:45 | IT - Sky Sport 4K | Inter - Como | unknown |  |
+| 19/11 02:15 | 19/11 03:45 | IT - Sky Sport Legend | King Otto - L'Olimpo del calcio | unknown |  |
+| 19/11 03:30 | 19/11 04:00 | IT - Sky Sport Calcio | Vialli | unknown |  |
+| 19/11 04:00 | 19/11 06:00 | IT - Sky Sport Arena | Nutribullet Treviso Basket - Longobardi Scafati Basket | unknown | serie-a |
+| 19/11 04:00 | 19/11 06:00 | IT - Sky Sport Calcio | Spagna - Inghilterra | unknown |  |
+| 19/11 05:45 | 19/11 06:00 | IT - Sky Sport Legend | Tutti i gol di Del Piero in Champions | unknown | champions-league |
+| 19/11 06:00 | 19/11 07:45 | IT - Sky Sport Calcio | Feyenoord - Inter | unknown |  |
+| 19/11 06:00 | 19/11 08:00 | IT - Sky Sport Legend | Roma - Feyenoord | unknown |  |
+| 19/11 06:00 | 19/11 12:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
+| 19/11 07:45 | 19/11 08:45 | IT - Sky Sport Calcio | Parte 1 | unknown |  |
+| 19/11 08:00 | 19/11 08:30 | IT - Sky Sport Legend | Batistuta | unknown |  |
+| 19/11 08:00 | 19/11 09:43 | IT - ZONA DAZN | Genoa - Como | unknown | serie-a |
+| 19/11 08:15 | 19/11 08:45 | IT - Sky Sport 4K | Feyenoord - Inter | unknown |  |
+| 19/11 08:45 | 19/11 10:30 | IT - Sky Sport Calcio | Lens - Como | unknown |  |
+| 19/11 09:43 | 19/11 10:39 | IT - ZONA DAZN | Winning Jose' Mourinho | unknown |  |
+| 19/11 10:30 | 19/11 12:30 | IT - Sky Sport Calcio | Spagna - Inghilterra | unknown |  |
+| 19/11 10:39 | 19/11 12:21 | IT - ZONA DAZN | Lazio - Milan | unknown | serie-a |
+| 19/11 10:45 | 19/11 12:30 | IT - Sky Sport 4K | Venezia - Udinese | unknown |  |
+| 19/11 11:15 | 19/11 12:00 | IT - Sky Sport Legend | Forti come un leone | unknown |  |
+| 19/11 12:00 | 19/11 12:45 | IT - Sky Sport Legend | Ep.2 | unknown |  |
+| 19/11 12:00 | 19/11 18:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
+| 19/11 12:21 | 19/11 12:57 | IT - ZONA DAZN | Ep. 4 | unknown |  |
+| 19/11 12:30 | 19/11 14:15 | IT - Sky Sport 4K | Venezia - Udinese | unknown |  |
+| 19/11 12:30 | 19/11 13:00 | IT - Sky Sport Calcio | Uefa Champions League Magazine 2026/2027 Ep.11 16/11/2026 | unknown | champions-league |
+| 19/11 12:45 | 19/11 13:30 | IT - Sky Sport Legend | Ep.3 | unknown |  |
+| 19/11 12:57 | 19/11 14:40 | IT - ZONA DAZN | Milan - Lecce | unknown | serie-a |
+| 19/11 13:00 | 19/11 14:00 | IT - Sky Sport Calcio | Football Back Home (1966) | unknown |  |
+| 19/11 13:30 | 19/11 14:00 | IT - Sky Sport Legend | Totti | unknown |  |
+| 19/11 14:00 | 19/11 14:15 | IT - Sky Sport Calcio | La Giovane Italia 2026 Ep.28 19/11/2026 | unknown |  |
+| 19/11 14:15 | 19/11 16:00 | IT - Sky Sport 4K | Inter - Como | unknown |  |
+| 19/11 14:15 | 19/11 16:15 | IT - Sky Sport Calcio | Francia - Turchia | unknown |  |
+| 19/11 15:26 | 19/11 17:09 | IT - ZONA DAZN | Venezia - Fiorentina | unknown | serie-a |
+| 19/11 16:00 | 19/11 16:30 | IT - Sky Sport 4K | Porto - Napoli | unknown |  |
+| 19/11 16:15 | 19/11 17:45 | IT - Sky Sport Calcio | Padovano innocente, 17 anni senza liberta | unknown |  |
+| 19/11 16:30 | 19/11 18:15 | IT - Sky Sport 4K | Roma - Sassuolo | unknown |  |
+| 19/11 17:45 | 19/11 18:00 | IT - Sky Sport Calcio | La Giovane Italia 2026 Ep.28 19/11/2026 | unknown |  |
+| 19/11 17:59 | 19/11 19:40 | IT - ZONA DAZN | Sassuolo - Juventus | unknown | serie-a |
+| 19/11 18:00 | 19/11 20:00 | IT - Sky Sport Calcio | Italia - Francia | unknown |  |
+| 19/11 18:00 | 20/11 00:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
+| 19/11 18:15 | 19/11 20:00 | IT - Sky Sport 4K | Inter - Como | unknown |  |
+| 19/11 19:00 | 19/11 21:00 | IT - Sky Sport Legend | Conegliano - Scandicci | unknown | champions-league |
+| 19/11 19:40 | 19/11 19:56 | IT - ZONA DAZN | Bordocam Juventus - Lazio 2026/27 | unknown |  |
+| 19/11 19:56 | 19/11 20:17 | IT - ZONA DAZN | Davide Frattesi | unknown |  |
+| 19/11 20:00 | 19/11 21:45 | IT - Sky Sport 4K | Venezia - Udinese | unknown |  |
+| 19/11 20:00 | 19/11 20:30 | IT - Sky Sport Calcio | Nemanja Matic | unknown |  |
+| 19/11 20:17 | 19/11 22:03 | IT - ZONA DAZN | Roma - Inter | unknown | serie-a |
+| 19/11 20:30 | 19/11 21:00 | IT - Sky Sport Calcio | Uefa Champions League Magazine 2026/2027 Ep.11 16/11/2026 | unknown | champions-league |
+| 19/11 21:00 | 19/11 21:45 | IT - Sky Sport Calcio | Forti come un leone | unknown |  |
+| 19/11 21:00 | 19/11 22:00 | IT - Sky Sport Legend | Enzo Ferrari | unknown |  |
+| 19/11 21:45 | 19/11 23:45 | IT - Sky Sport 4K | Milan - Ferencváros | unknown |  |
+| 19/11 21:45 | 19/11 22:30 | IT - Sky Sport Calcio | Ep.2 | unknown |  |
+| 19/11 22:00 | 20/11 00:45 | IT - Sky Sport Legend | Volley Femminile Cev Champions League 2020/2021 - Stag. -3 - Conegliano - Istanbul. Finale | unknown | champions-league |
+| 19/11 22:03 | 19/11 23:00 | IT - ZONA DAZN | Chivu: La migliore versione di Noi | unknown |  |
+| 19/11 22:30 | 19/11 23:15 | IT - Sky Sport Calcio | Ep.3 | unknown |  |
+| 19/11 23:00 | 19/11 23:22 | IT - ZONA DAZN | Bordocam Roma - Inter 2026/27 | unknown |  |
+| 19/11 23:15 | 19/11 23:30 | IT - Sky Sport Calcio | La Giovane Italia 2026 Ep.28 19/11/2026 | unknown |  |
+| 19/11 23:22 | 19/11 23:37 | IT - ZONA DAZN | Bordocam Lazio - Milan 2026/27 | unknown |  |
+| 19/11 23:30 | 20/11 00:00 | IT - Sky Sport Calcio | Nemanja Matic | unknown |  |
+| 19/11 23:37 | 20/11 00:30 | IT - ZONA DAZN | Bordocam Juventus - Milan 2026/27 | unknown |  |
+| 20/11 00:00 | 20/11 01:30 | IT - Sky Sport Calcio | Aldair: Cuore giallorosso | unknown |  |
+| 20/11 00:00 | 20/11 06:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |

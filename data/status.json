@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-14T10:55:41.101644Z",
+  "checkedAt": "2026-11-14T11:52:15.637384Z",
   "state": "ok",
   "sources": [
     {
       "id": "it",
       "url": "https://iptv-epg.org/files/epg-it.xml",
-      "lastModified": "Sat, 14 Nov 2026 08:05:16 GMT",
+      "lastModified": "Sat, 14 Nov 2026 08:21:35 GMT",
       "sha256": "16a6b451286e5657a8b290b5cb86667e96abfbc56f43c28eacadbc5ec07e1952",
       "channels": 145,
       "programmes": 567,

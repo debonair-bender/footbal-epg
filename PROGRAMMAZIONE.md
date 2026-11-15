@@ -1,6 +1,6 @@
 # Programmazione calcio
 
-Ultima acquisizione riuscita: 2026-11-15T22:52:15.618791Z. Orari: Europe/Rome.
+Ultima acquisizione riuscita: 2026-11-15T23:56:50.832352Z. Orari: Europe/Rome.
 
 Solo Sky Calcio, Sky Sport, DAZN/Zona DAZN, TV8 e RAI secondo config.json.
 
@@ -21,114 +21,8 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 
 | Inizio | Fine | Canale | Programma | Tipo | Competizioni rilevate |
 | --- | --- | --- | --- | --- | --- |
-| 15/11 01:30 | 15/11 02:00 | IT - Sky Sport Legend | Roberto Baggio: Pallone d'oro 1993 | unknown |  |
-| 15/11 02:00 | 15/11 06:00 | IT - Sky Sport 251 | Next Game: Salernitana - Catania on 2026-11-15 at 08:00AM EST | unknown |  |
-| 15/11 02:00 | 15/11 06:00 | IT - Sky Sport 252 | Next Game: Pescara - Sambenedettese on 2026-11-15 at 08:00AM EST | unknown |  |
-| 15/11 02:00 | 15/11 06:00 | IT - Sky Sport 253 | Next Game: Spezia - Vado on 2026-11-15 at 08:00AM EST | unknown |  |
-| 15/11 02:00 | 15/11 06:00 | IT - Sky Sport 254 | Next Game: Potenza - Scafatese on 2026-11-15 at 08:00AM EST | unknown |  |
-| 15/11 02:00 | 15/11 06:00 | IT - Sky Sport 255 | Next Game: Guidonia M. - Ostiamare on 2026-11-15 at 08:00AM EST | unknown |  |
-| 15/11 02:00 | 15/11 06:00 | IT - Sky Sport 256 | Next Game: Cavese - Crotone on 2026-11-15 at 08:00AM EST | unknown |  |
-| 15/11 02:00 | 15/11 06:00 | IT - Sky Sport 257 | Next Game: Novara - Lecco (diretta) on 2026-11-15 at 06:00AM EST | live |  |
-| 15/11 02:00 | 15/11 06:00 | IT - Sky Sport 258 | Next Game: Giugliano - Savoia on 2026-11-15 at 06:00AM EST | unknown |  |
-| 15/11 02:00 | 15/11 04:00 | IT - Sky Sport Legend | Inter - Real Madrid 25/11/98 | unknown | champions-league |
-| 15/11 02:05 | 15/11 04:05 | IT - Sky Sport Calcio | Norvegia - Galles | unknown |  |
-| 15/11 02:30 | 15/11 04:15 | IT - Sky Sport 4K | Roma - Sassuolo | unknown |  |
-| 15/11 04:00 | 15/11 04:30 | IT - Sky Sport Legend | Totti | unknown |  |
-| 15/11 04:05 | 15/11 06:00 | IT - Sky Sport Calcio | Italia - Francia | unknown |  |
-| 15/11 04:15 | 15/11 06:00 | IT - Sky Sport 4K | Venezia - Udinese | unknown |  |
-| 15/11 04:30 | 15/11 05:30 | IT - Sky Sport Legend | Ep. 3 | unknown |  |
-| 15/11 05:30 | 15/11 06:00 | IT - Sky Sport Legend | Vialli | unknown |  |
-| 15/11 06:00 | 15/11 10:00 | IT - Sky Sport 251 | Next Game: Salernitana - Catania on 2026-11-15 at 08:00AM EST | unknown |  |
-| 15/11 06:00 | 15/11 10:00 | IT - Sky Sport 252 | Next Game: Pescara - Sambenedettese on 2026-11-15 at 08:00AM EST | unknown |  |
-| 15/11 06:00 | 15/11 10:00 | IT - Sky Sport 253 | Next Game: Spezia - Vado on 2026-11-15 at 08:00AM EST | unknown |  |
-| 15/11 06:00 | 15/11 10:00 | IT - Sky Sport 254 | Next Game: Potenza - Scafatese on 2026-11-15 at 08:00AM EST | unknown |  |
-| 15/11 06:00 | 15/11 10:00 | IT - Sky Sport 255 | Next Game: Guidonia M. - Ostiamare on 2026-11-15 at 08:00AM EST | unknown |  |
-| 15/11 06:00 | 15/11 10:00 | IT - Sky Sport 256 | Next Game: Cavese - Crotone on 2026-11-15 at 08:00AM EST | unknown |  |
-| 15/11 06:00 | 15/11 10:00 | IT - Sky Sport 257 | Next Game: Novara - Lecco (diretta) on 2026-11-15 at 06:00AM EST | live |  |
-| 15/11 06:00 | 15/11 10:00 | IT - Sky Sport 258 | Next Game: Giugliano - Savoia on 2026-11-15 at 06:00AM EST | unknown |  |
-| 15/11 06:00 | 15/11 07:45 | IT - Sky Sport 4K | Milan - Ferencváros | unknown |  |
-| 15/11 06:00 | 15/11 08:00 | IT - Sky Sport Calcio | Portogallo - Danimarca | unknown |  |
-| 15/11 06:00 | 15/11 12:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 15/11 08:00 | 15/11 10:00 | IT - Sky Sport Calcio | Norvegia - Galles | unknown |  |
-| 15/11 08:00 | 15/11 09:58 | IT - ZONA DAZN | Torino - Lecce | unknown | serie-a |
-| 15/11 09:58 | 15/11 10:35 | IT - ZONA DAZN | Pierluigi Collina | unknown |  |
-| 15/11 10:00 | 15/11 14:00 | IT - Sky Sport 251 | Next Game: Salernitana - Catania on 2026-11-15 at 08:00AM EST | unknown |  |
-| 15/11 10:00 | 15/11 14:00 | IT - Sky Sport 252 | Next Game: Pescara - Sambenedettese on 2026-11-15 at 08:00AM EST | unknown |  |
-| 15/11 10:00 | 15/11 14:00 | IT - Sky Sport 253 | Next Game: Spezia - Vado on 2026-11-15 at 08:00AM EST | unknown |  |
-| 15/11 10:00 | 15/11 14:00 | IT - Sky Sport 254 | Next Game: Potenza - Scafatese on 2026-11-15 at 08:00AM EST | unknown |  |
-| 15/11 10:00 | 15/11 14:00 | IT - Sky Sport 255 | Next Game: Guidonia M. - Ostiamare on 2026-11-15 at 08:00AM EST | unknown |  |
-| 15/11 10:00 | 15/11 14:00 | IT - Sky Sport 256 | Next Game: Cavese - Crotone on 2026-11-15 at 08:00AM EST | unknown |  |
-| 15/11 10:00 | 15/11 12:00 | IT - Sky Sport 257 | Next Game: Novara - Lecco (diretta) on 2026-11-15 at 06:00AM EST | live |  |
-| 15/11 10:00 | 15/11 12:00 | IT - Sky Sport 258 | Next Game: Giugliano - Savoia on 2026-11-15 at 06:00AM EST | unknown |  |
-| 15/11 10:00 | 15/11 10:30 | IT - Sky Sport Calcio | Mikel Arteta | unknown |  |
-| 15/11 10:10 | 15/11 10:45 | IT - Sky Sport 4K | Feyenoord - Inter | unknown |  |
-| 15/11 10:30 | 15/11 12:20 | IT - Sky Sport Calcio | Portogallo - Danimarca | unknown |  |
-| 15/11 10:35 | 15/11 12:25 | IT - ZONA DAZN | Parma - Bologna | unknown | serie-a |
-| 15/11 10:45 | 15/11 12:30 | IT - Sky Sport 4K | Inter - Como | unknown |  |
-| 15/11 11:30 | 15/11 12:00 | IT - Sky Sport Max | Europa E Conference League Remix Ep | unknown |  |
-| 15/11 11:55 | 15/11 12:20 | IT - Sky Sport Arena | Batistuta | unknown |  |
-| 15/11 12:00 | 15/11 16:00 | IT - Sky Sport | Giugliano - Savoia | live |  |
-| 15/11 12:00 | 15/11 14:55 | IT - Sky Sport 257 | Novara - Lecco (diretta) | live |  |
-| 15/11 12:00 | 15/11 16:00 | IT - Sky Sport 258 | Giugliano - Savoia | live |  |
-| 15/11 12:00 | 15/11 13:50 | IT - Sky Sport Legend | Milan - Juventus 2003 | unknown | champions-league |
-| 15/11 12:00 | 15/11 18:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 15/11 12:20 | 15/11 14:25 | IT - Sky Sport Arena | Giugliano - Savoia | live |  |
-| 15/11 12:20 | 15/11 14:20 | IT - Sky Sport Calcio | Novara - Lecco | live |  |
-| 15/11 12:25 | 15/11 14:29 | IT - ZONA DAZN | Sassuolo - Ternana | live | serie-a |
-| 15/11 12:30 | 15/11 14:15 | IT - Sky Sport 4K | Venezia - Udinese | unknown |  |
-| 15/11 14:00 | 15/11 17:00 | IT - Sky Sport 251 | Salernitana - Catania | live |  |
-| 15/11 14:00 | 15/11 17:25 | IT - Sky Sport 252 | Pescara - Sambenedettese | live |  |
-| 15/11 14:00 | 15/11 17:25 | IT - Sky Sport 253 | Spezia - Vado | live |  |
-| 15/11 14:00 | 15/11 17:25 | IT - Sky Sport 254 | Potenza - Scafatese | live |  |
-| 15/11 14:00 | 15/11 17:25 | IT - Sky Sport 255 | Guidonia M. - Ostiamare | live |  |
-| 15/11 14:00 | 15/11 17:25 | IT - Sky Sport 256 | Cavese - Crotone | live |  |
-| 15/11 14:10 | 15/11 16:10 | IT - RAI Sport | Rugby: Serie A Elite maschile | unknown | serie-a |
-| 15/11 14:10 | 15/11 16:10 | IT - Rai Sport 1 | Rugby: Serie A Elite maschile | unknown | serie-a |
-| 15/11 14:15 | 15/11 14:45 | IT - Sky Sport 4K | Porto - Napoli | unknown |  |
-| 15/11 14:20 | 15/11 16:30 | IT - Sky Sport Calcio | Salernitana - Catania | live |  |
-| 15/11 14:45 | 15/11 16:40 | IT - Sky Sport 4K | Milan - Ferencváros | unknown |  |
-| 15/11 14:50 | 15/11 17:00 | IT - Rai 2 | Serie A Women Athora | unknown | serie-a |
-| 15/11 14:50 | 15/11 15:50 | IT - Sky Sport Legend | Enzo Ferrari | unknown |  |
-| 15/11 14:55 | 15/11 17:55 | IT - Sky Sport 257 | Lettonia - Armenia | live |  |
-| 15/11 15:17 | 15/11 15:50 | IT - ZONA DAZN | Bordocam corsa Champions MD38 | unknown | serie-a |
-| 15/11 15:50 | 15/11 16:50 | IT - Sky Sport Legend | Gattuso | unknown |  |
-| 15/11 16:00 | 15/11 17:00 | IT - Sky Sport 258 | Next Game: Arsenal-London City Lionesses on 2026-11-15 at 11:00AM EST | unknown |  |
-| 15/11 16:10 | 15/11 18:05 | IT - RAI Sport | Pallavolo: Serie A Femminile | unknown | serie-a |
-| 15/11 16:10 | 15/11 18:05 | IT - Rai Sport 1 | Pallavolo: Serie A Femminile | unknown | serie-a |
-| 15/11 16:30 | 15/11 17:00 | IT - Sky Sport Calcio | Ronaldinho | unknown | champions-league |
-| 15/11 16:40 | 15/11 18:30 | IT - Sky Sport 4K | Milan - Inter | unknown |  |
-| 15/11 17:00 | 15/11 21:00 | IT - Sky Sport | Arsenal-London City Lionesses | live |  |
-| 15/11 17:00 | 15/11 20:35 | IT - Sky Sport 251 | Ravenna - Forlì | live |  |
-| 15/11 17:00 | 15/11 21:00 | IT - Sky Sport 258 | Arsenal-London City Lionesses | live |  |
-| 15/11 17:00 | 15/11 17:15 | IT - Sky Sport Calcio | La Giovane Italia 2026 Ep.27 12/11/2026 | unknown |  |
-| 15/11 17:20 | 15/11 19:30 | IT - Sky Sport Calcio | Ravenna - Forlì | live |  |
-| 15/11 17:25 | 15/11 21:00 | IT - Sky Sport 252 | Juventus Next Gen - Treviso | live |  |
-| 15/11 17:25 | 15/11 21:00 | IT - Sky Sport 253 | Cittadella - F. Caratese | live |  |
-| 15/11 17:25 | 15/11 21:00 | IT - Sky Sport 254 | Barletta - Altamura | live |  |
-| 15/11 17:25 | 15/11 21:00 | IT - Sky Sport 255 | Cosenza - Casertana | live |  |
-| 15/11 17:25 | 15/11 21:00 | IT - Sky Sport 256 | Pergolettese - Pro Vercelli | live |  |
-| 15/11 17:45 | 15/11 17:50 | IT - Sky Sport Max | Highlights Calcio | unknown |  |
-| 15/11 17:50 | 15/11 20:30 | IT - Rai 2 | Pallavolo: Serie A Maschile | unknown | serie-a |
-| 15/11 17:55 | 15/11 21:30 | IT - Sky Sport 257 | Finlandia - San Marino | live |  |
-| 15/11 18:00 | 15/11 18:05 | IT - Sky Sport NBA | Studio Basket Serie A... (Diretta) | live | serie-a |
-| 15/11 18:00 | 16/11 00:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 15/11 18:25 | 15/11 18:45 | IT - Sky Sport Legend | Tutti i gol di Del Piero in Champions | unknown | champions-league |
-| 15/11 18:30 | 15/11 19:00 | IT - Sky Sport 4K | AZ - Juventus | unknown |  |
-| 15/11 19:00 | 15/11 20:45 | IT - Sky Sport 4K | Venezia - Udinese | unknown |  |
-| 15/11 19:30 | 15/11 20:00 | IT - Sky Sport Calcio | Ronaldinho | unknown | champions-league |
-| 15/11 20:00 | 15/11 20:35 | IT - Sky Sport Calcio | Prepartita Nations League 15/11/2026 | live |  |
-| 15/11 20:00 | 15/11 20:25 | IT - Sky Sport Max | Champions League Remix Ep.4... | unknown | champions-league |
-| 15/11 20:15 | 15/11 20:30 | IT - Sky Sport Legend | Tutti i gol di Henry nelle Coppe Europee | unknown |  |
-| 15/11 20:25 | 15/11 20:35 | IT - Sky Sport Max | Highlights Calcio | unknown |  |
-| 15/11 20:30 | 15/11 22:30 | IT - Sky Sport Legend | È stato tutto bello - Storia di Paolino e Pablito | unknown |  |
-| 15/11 20:35 | 16/11 00:00 | IT - Sky Sport 251 | Spagna - Inghilterra | live |  |
-| 15/11 20:35 | 15/11 22:45 | IT - Sky Sport Calcio | Calcio Uefa Nations League 5ga Diretta Gol 15/11/2026 | live |  |
-| 15/11 20:51 | 15/11 22:34 | IT - ZONA DAZN | Napoli - Lazio | unknown | serie-a |
 | 15/11 21:00 | 16/11 01:00 | IT - Sky Sport 252 | Signing Off | unknown |  |
 | 15/11 22:45 | 16/11 00:35 | IT - Sky Sport 4K | Milan - Ferencváros | unknown |  |
-| 15/11 22:45 | 15/11 23:15 | IT - Sky Sport Calcio | Postpartita Nations League 15/11/2026 | live |  |
-| 15/11 23:13 | 15/11 23:49 | IT - ZONA DAZN | Ep. 4 | unknown |  |
-| 15/11 23:15 | 15/11 23:45 | IT - Sky Sport Calcio | Totti | unknown |  |
 | 15/11 23:49 | 16/11 00:30 | IT - ZONA DAZN | Bordocam Inter - Monza 2026/27 | unknown |  |
 | 16/11 00:00 | 16/11 04:00 | IT - Sky Sport 251 | Signing Off | unknown |  |
 | 16/11 00:00 | 16/11 06:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |

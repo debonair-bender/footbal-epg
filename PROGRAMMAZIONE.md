@@ -1,6 +1,6 @@
 # Programmazione calcio
 
-Ultima acquisizione riuscita: 2026-11-16T22:59:36.264958Z. Orari: Europe/Rome.
+Ultima acquisizione riuscita: 2026-11-16T23:54:46.988407Z. Orari: Europe/Rome.
 
 Solo Sky Calcio, Sky Sport, DAZN/Zona DAZN, TV8 e RAI secondo config.json.
 
@@ -21,93 +21,10 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 
 | Inizio | Fine | Canale | Programma | Tipo | Competizioni rilevate |
 | --- | --- | --- | --- | --- | --- |
-| 16/11 00:45 | 16/11 03:00 | IT - RAI Sport | Nazionale di calcio | unknown |  |
-| 16/11 00:45 | 16/11 03:00 | IT - Rai Sport 1 | Nazionale di calcio | unknown |  |
-| 16/11 01:15 | 16/11 02:05 | IT - Sky Sport Legend | Parte 1 | unknown |  |
-| 16/11 02:00 | 16/11 06:00 | IT - Sky Sport 251 | Next Game: Perugia - Torres on 2026-11-16 at 02:15PM EST | unknown |  |
-| 16/11 02:00 | 16/11 06:00 | IT - Sky Sport 252 | Next Game: Sorrento - Monopoli on 2026-11-16 at 02:00PM EST | unknown |  |
-| 16/11 02:05 | 16/11 04:05 | IT - Sky Sport Calcio | Francia - Turchia | unknown |  |
-| 16/11 02:05 | 16/11 02:50 | IT - Sky Sport Legend | Parte 2 | unknown |  |
-| 16/11 02:45 | 16/11 04:25 | IT - Sky Sport 4K | Inter - Como | unknown |  |
-| 16/11 04:05 | 16/11 06:00 | IT - Sky Sport Calcio | Spagna - Inghilterra | unknown |  |
-| 16/11 04:05 | 16/11 06:00 | IT - Sky Sport NBA | Udine - EA7 Emporio Armani Milano Lega Basket Serie A | unknown | serie-a |
-| 16/11 06:00 | 16/11 10:00 | IT - Sky Sport 251 | Next Game: Perugia - Torres on 2026-11-16 at 02:15PM EST | unknown |  |
-| 16/11 06:00 | 16/11 10:00 | IT - Sky Sport 252 | Next Game: Sorrento - Monopoli on 2026-11-16 at 02:00PM EST | unknown |  |
-| 16/11 06:00 | 16/11 07:45 | IT - Sky Sport 4K | Venezia - Udinese | unknown |  |
-| 16/11 06:00 | 16/11 08:00 | IT - Sky Sport Calcio | Belgio - Italia | unknown |  |
-| 16/11 06:00 | 16/11 08:45 | IT - Sky Sport Legend | Volley Femminile Cev Champions League 2020/2021 - Stag. -3 - Conegliano - Istanbul. Finale | unknown | champions-league |
-| 16/11 06:00 | 16/11 12:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 16/11 07:45 | 16/11 08:15 | IT - Sky Sport 4K | Porto - Napoli | unknown |  |
-| 16/11 08:00 | 16/11 09:55 | IT - Sky Sport Arena | Udine - EA7 Emporio Armani Milano | unknown | serie-a |
-| 16/11 08:00 | 16/11 08:30 | IT - Sky Sport Calcio | Mikel Arteta | unknown |  |
-| 16/11 08:00 | 16/11 09:44 | IT - ZONA DAZN | Venezia - Fiorentina | unknown | serie-a |
-| 16/11 08:15 | 16/11 10:00 | IT - Sky Sport 4K | Milan - Ferencváros | unknown |  |
-| 16/11 08:30 | 16/11 09:05 | IT - Sky Sport Calcio | Champions League: Messi tutti i gol | unknown | champions-league |
-| 16/11 09:05 | 16/11 11:00 | IT - Sky Sport Calcio | Francia - Turchia | unknown |  |
-| 16/11 09:44 | 16/11 10:31 | IT - ZONA DAZN | Inter: Tutti i gol della stagione 25-26 | unknown |  |
-| 16/11 10:00 | 16/11 14:00 | IT - Sky Sport 251 | Next Game: Perugia - Torres on 2026-11-16 at 02:15PM EST | unknown |  |
-| 16/11 10:00 | 16/11 14:00 | IT - Sky Sport 252 | Next Game: Sorrento - Monopoli on 2026-11-16 at 02:00PM EST | unknown |  |
-| 16/11 10:31 | 16/11 12:12 | IT - ZONA DAZN | Sassuolo - Juventus | unknown | serie-a |
-| 16/11 11:00 | 16/11 13:00 | IT - Sky Sport Calcio | Spagna - Inghilterra | unknown |  |
-| 16/11 12:00 | 16/11 18:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 16/11 12:12 | 16/11 12:28 | IT - ZONA DAZN | Dimarco: Vincere non stanca | unknown |  |
-| 16/11 12:20 | 16/11 12:50 | IT - Sky Sport 4K | Feyenoord - Inter | unknown |  |
-| 16/11 12:28 | 16/11 12:46 | IT - ZONA DAZN | Bordocam Barcellona - Real Madrid 25/26 | unknown |  |
-| 16/11 12:45 | 16/11 14:40 | IT - Sky Sport NBA | Udine - EA7 Emporio Armani Milano Lega Basket Serie A | unknown | serie-a |
-| 16/11 12:46 | 16/11 14:32 | IT - ZONA DAZN | Roma - Inter | unknown | serie-a |
-| 16/11 12:50 | 16/11 14:35 | IT - Sky Sport 4K | Inter - Como | unknown |  |
-| 16/11 12:55 | 16/11 14:50 | IT - RAI Sport | Rugby: Serie A Elite maschile | unknown | serie-a |
-| 16/11 12:55 | 16/11 14:50 | IT - Rai Sport 1 | Rugby: Serie A Elite maschile | unknown | serie-a |
-| 16/11 13:00 | 16/11 14:00 | IT - Sky Sport Calcio | Italia - Germania 4-3 (1970) | unknown |  |
-| 16/11 13:30 | 16/11 14:00 | IT - Sky Sport24 | Il Calcio e' Servito | unknown |  |
-| 16/11 14:00 | 16/11 18:00 | IT - Sky Sport 251 | Next Game: Perugia - Torres on 2026-11-16 at 02:15PM EST | unknown |  |
-| 16/11 14:00 | 16/11 18:00 | IT - Sky Sport 252 | Next Game: Sorrento - Monopoli on 2026-11-16 at 02:00PM EST | unknown |  |
-| 16/11 14:00 | 16/11 15:50 | IT - Sky Sport Calcio | Belgio - Italia | unknown |  |
-| 16/11 14:32 | 16/11 15:08 | IT - ZONA DAZN | Ezequiel Lavezzi | unknown |  |
-| 16/11 14:50 | 16/11 17:35 | IT - RAI Sport | Pallavolo: Serie A Maschile | unknown | serie-a |
-| 16/11 14:50 | 16/11 17:35 | IT - Rai Sport 1 | Pallavolo: Serie A Maschile | unknown | serie-a |
-| 16/11 15:08 | 16/11 16:52 | IT - ZONA DAZN | Milan - Lecce | unknown | serie-a |
-| 16/11 15:50 | 16/11 17:50 | IT - Sky Sport Calcio | Calcio Uefa Nations League 5ga Diretta Gol 16/11/2026 | live |  |
-| 16/11 16:20 | 16/11 18:15 | IT - Sky Sport Arena | Udine - EA7 Emporio Armani Milano | unknown | serie-a |
-| 16/11 16:40 | 16/11 18:25 | IT - Sky Sport Max | Napoli - Bodo/Glimt UEFA Champions League | unknown | champions-league |
-| 16/11 16:41 | 16/11 18:30 | IT - Rai 5 | Mi chiamo Francesco Totti | unknown |  |
-| 16/11 16:45 | 16/11 18:30 | IT - Sky Sport 4K | Roma - Genoa | unknown |  |
-| 16/11 16:52 | 16/11 17:19 | IT - ZONA DAZN | Franco Mastantuono | unknown |  |
-| 16/11 17:19 | 16/11 17:34 | IT - ZONA DAZN | Diego Moreira | unknown |  |
-| 16/11 17:34 | 16/11 19:17 | IT - ZONA DAZN | Lazio - Milan | unknown | serie-a |
-| 16/11 17:50 | 16/11 20:00 | IT - Sky Sport Calcio | Calcio Uefa Nations League 5ga Diretta Gol 16/11/2026 | live |  |
-| 16/11 18:00 | 16/11 20:15 | IT - Sky Sport 251 | Next Game: Perugia - Torres on 2026-11-16 at 02:15PM EST | unknown |  |
-| 16/11 18:00 | 16/11 20:00 | IT - Sky Sport 252 | Next Game: Sorrento - Monopoli on 2026-11-16 at 02:00PM EST | unknown |  |
-| 16/11 18:00 | 17/11 00:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 16/11 18:05 | 16/11 20:30 | IT - Rai 2 | Nazionale di calcio | unknown |  |
-| 16/11 18:30 | 16/11 20:15 | IT - Sky Sport 4K | Milan - Atalanta | unknown |  |
-| 16/11 19:17 | 16/11 20:09 | IT - ZONA DAZN | 7a g | unknown | serie-a |
-| 16/11 19:30 | 16/11 20:30 | IT - RAI Sport | Serie B | unknown | serie-b |
-| 16/11 19:30 | 16/11 20:30 | IT - Rai Sport 1 | Serie B | unknown | serie-b |
-| 16/11 20:00 | 17/11 00:00 | IT - Sky Sport 252 | Sorrento - Monopoli | live |  |
-| 16/11 20:00 | 16/11 20:35 | IT - Sky Sport Calcio | Prepartita Nations League | live |  |
-| 16/11 20:09 | 16/11 20:59 | IT - ZONA DAZN | 8a g | unknown | serie-a |
 | 16/11 20:15 | 17/11 00:15 | IT - Sky Sport 251 | Perugia - Torres | live |  |
-| 16/11 20:15 | 16/11 22:05 | IT - Sky Sport 4K | Milan - Inter | unknown |  |
-| 16/11 20:20 | 16/11 20:35 | IT - Sky Sport Arena | Ep.27 | unknown |  |
-| 16/11 20:30 | 16/11 22:35 | IT - RAI Sport | Serie C | unknown |  |
-| 16/11 20:30 | 16/11 22:35 | IT - Rai Sport 1 | Serie C | unknown |  |
-| 16/11 20:35 | 16/11 22:45 | IT - Sky Sport Arena | Germania - Olanda | live |  |
-| 16/11 20:35 | 16/11 22:45 | IT - Sky Sport Calcio | Calcio Uefa Nations League 5ga Diretta Gol 16/11/2026 | live |  |
-| 16/11 20:35 | 16/11 22:45 | IT - Sky Sport Max | Perugia - Torres Serie C (Diretta) | live |  |
-| 16/11 20:59 | 16/11 21:50 | IT - ZONA DAZN | 10a g | unknown | serie-a |
-| 16/11 21:50 | 16/11 22:46 | IT - ZONA DAZN | Winning Jose' Mourinho | unknown |  |
-| 16/11 22:05 | 17/11 00:00 | IT - Sky Sport 4K | Como - Manchester United | unknown | champions-league |
-| 16/11 22:25 | 16/11 23:15 | IT - Sky Sport Legend | Parte 1 | unknown |  |
-| 16/11 22:35 | 16/11 22:50 | IT - RAI Sport | Serie B | unknown | serie-b |
-| 16/11 22:35 | 16/11 22:50 | IT - Rai Sport 1 | Serie B | unknown | serie-b |
-| 16/11 22:45 | 16/11 23:30 | IT - Sky Sport Calcio | Postpartita Nations League 16/11/2026 | live |  |
-| 16/11 22:45 | 16/11 23:15 | IT - Sky Sport Max | Champions League: Messi tutti i gol | unknown | champions-league |
 | 16/11 22:45 | 17/11 00:45 | IT - Sky Sport NBA | Udine - EA7 Emporio Armani Milano Lega Basket Serie A | unknown | serie-a |
-| 16/11 23:15 | 17/11 00:00 | IT - Sky Sport Legend | Parte 2 | unknown |  |
 | 16/11 23:16 | 17/11 00:30 | IT - ZONA DAZN | Interna21onale Uno Scudetto firmato Chivu | unknown |  |
 | 16/11 23:30 | 17/11 01:25 | IT - Rai 2 | Il campione | unknown |  |
-| 16/11 23:30 | 17/11 00:00 | IT - Sky Sport Calcio | Uefa Champions League Magazine 2026/2027 Ep.11 16/11/2026 | unknown | champions-league |
 | 16/11 23:35 | 17/11 02:00 | IT - RAI Sport | Pallavolo: Serie A Maschile | unknown | serie-a |
 | 16/11 23:35 | 17/11 02:00 | IT - Rai Sport 1 | Pallavolo: Serie A Maschile | unknown | serie-a |
 | 17/11 00:00 | 17/11 02:00 | IT - Sky Sport 4K | Roma - Slovan Bratislava | unknown | champions-league |

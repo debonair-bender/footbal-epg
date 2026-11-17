@@ -1,6 +1,6 @@
 # Programmazione calcio
 
-Ultima acquisizione riuscita: 2026-11-17T22:06:43.296269Z. Orari: Europe/Rome.
+Ultima acquisizione riuscita: 2026-11-17T23:07:27.567385Z. Orari: Europe/Rome.
 
 Solo Sky Calcio, Sky Sport, DAZN/Zona DAZN, TV8 e RAI secondo config.json.
 
@@ -21,79 +21,7 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 
 | Inizio | Fine | Canale | Programma | Tipo | Competizioni rilevate |
 | --- | --- | --- | --- | --- | --- |
-| 17/11 02:00 | 17/11 06:00 | IT - Sky Sport 251 | Next Game: Galles - Portogallo on 2026-11-17 at 02:15PM EST | unknown |  |
-| 17/11 02:00 | 17/11 03:50 | IT - Sky Sport 4K | Milan - Ferencváros | unknown |  |
-| 17/11 02:00 | 17/11 04:00 | IT - Sky Sport Max | Milan - Ferencvaros UEFA Europa League | unknown |  |
-| 17/11 02:05 | 17/11 04:05 | IT - Sky Sport Calcio | Belgio - Italia | unknown |  |
-| 17/11 03:15 | 17/11 04:15 | IT - Sky Sport Legend | Gilles Villeneuve "Il canadese volante | unknown |  |
-| 17/11 04:00 | 17/11 04:30 | IT - Sky Sport 4K | Feyenoord - Inter | unknown |  |
-| 17/11 04:00 | 17/11 06:00 | IT - Sky Sport Arena | Udine - EA7 Emporio Armani Milano | unknown | serie-a |
-| 17/11 04:05 | 17/11 06:00 | IT - Sky Sport Calcio | Francia - Turchia | unknown |  |
-| 17/11 06:00 | 17/11 08:15 | IT - RAI Sport | Nazionale di calcio | unknown |  |
-| 17/11 06:00 | 17/11 08:15 | IT - Rai Sport 1 | Nazionale di calcio | unknown |  |
-| 17/11 06:00 | 17/11 10:00 | IT - Sky Sport 251 | Next Game: Galles - Portogallo on 2026-11-17 at 02:15PM EST | unknown |  |
-| 17/11 06:00 | 17/11 07:45 | IT - Sky Sport 4K | Roma - Sassuolo | unknown |  |
-| 17/11 06:00 | 17/11 08:00 | IT - Sky Sport Calcio | Germania - Olanda | unknown |  |
-| 17/11 06:00 | 17/11 12:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 17/11 06:10 | 17/11 08:10 | IT - Sky Sport NBA | Udine - EA7 Emporio Armani Milano Serie A Basket | unknown | serie-a |
-| 17/11 06:30 | 17/11 07:30 | IT - Sky Sport Arena | Lippi | unknown |  |
-| 17/11 07:45 | 17/11 09:30 | IT - Sky Sport 4K | Inter - Como | unknown |  |
-| 17/11 08:00 | 17/11 09:42 | IT - ZONA DAZN | Sassuolo - Juventus | unknown | serie-a |
-| 17/11 08:15 | 17/11 10:45 | IT - RAI Sport | Pallavolo: Serie A Maschile | unknown | serie-a |
-| 17/11 08:15 | 17/11 10:45 | IT - Rai Sport 1 | Pallavolo: Serie A Maschile | unknown | serie-a |
-| 17/11 09:00 | 17/11 11:05 | IT - Sky Sport Calcio | Spagna - Inghilterra | unknown |  |
-| 17/11 09:30 | 17/11 11:15 | IT - Sky Sport 4K | Venezia - Udinese | unknown |  |
-| 17/11 09:42 | 17/11 10:28 | IT - ZONA DAZN | Interna21onale Uno Scudetto firmato Chivu | unknown |  |
-| 17/11 10:00 | 17/11 14:00 | IT - Sky Sport 251 | Next Game: Galles - Portogallo on 2026-11-17 at 02:15PM EST | unknown |  |
-| 17/11 10:28 | 17/11 12:11 | IT - ZONA DAZN | Venezia - Fiorentina | unknown | serie-a |
-| 17/11 11:05 | 17/11 13:05 | IT - Sky Sport Calcio | Francia - Turchia | unknown |  |
-| 17/11 12:00 | 17/11 18:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 17/11 12:11 | 17/11 12:50 | IT - ZONA DAZN | Leonardo Pavoletti | unknown |  |
-| 17/11 12:50 | 17/11 15:00 | IT - RAI Sport | Nazionale di calcio | unknown |  |
-| 17/11 12:50 | 17/11 15:00 | IT - Rai Sport 1 | Nazionale di calcio | unknown |  |
-| 17/11 12:50 | 17/11 14:33 | IT - ZONA DAZN | Milan - Lecce | unknown | serie-a |
-| 17/11 13:05 | 17/11 14:10 | IT - Sky Sport Calcio | Notti Magiche (1990) | unknown |  |
-| 17/11 13:30 | 17/11 14:00 | IT - Sky Sport24 | Il Calcio e' Servito | unknown |  |
-| 17/11 13:30 | 17/11 14:30 | IT - Sky Sport Legend | Gattuso | unknown |  |
-| 17/11 13:45 | 17/11 15:30 | IT - Sky Sport 4K | Milan - Inter | unknown |  |
-| 17/11 14:00 | 17/11 18:00 | IT - Sky Sport 251 | Next Game: Galles - Portogallo on 2026-11-17 at 02:15PM EST | unknown |  |
-| 17/11 14:10 | 17/11 16:05 | IT - Sky Sport Calcio | Germania - Olanda | unknown |  |
-| 17/11 14:30 | 17/11 16:15 | IT - Sky Sport Legend | Milan - Barcellona 1994 | unknown | champions-league |
-| 17/11 14:33 | 17/11 14:49 | IT - ZONA DAZN | Dimarco: Vincere non stanca | unknown |  |
-| 17/11 14:49 | 17/11 15:10 | IT - ZONA DAZN | Tarik Muharemovic | unknown |  |
-| 17/11 15:10 | 17/11 16:56 | IT - ZONA DAZN | Roma - Inter | unknown | serie-a |
-| 17/11 15:30 | 17/11 17:15 | IT - Sky Sport 4K | Roma - Sassuolo | unknown |  |
-| 17/11 16:05 | 17/11 18:05 | IT - Sky Sport Calcio | Spagna - Inghilterra | unknown |  |
-| 17/11 16:15 | 17/11 19:05 | IT - Sky Sport Legend | Volley Femminile Cev Champions League 2020/2021 - Stag. -3 - Conegliano - Istanbul. Finale | unknown | champions-league |
-| 17/11 16:30 | 17/11 18:15 | IT - Sky Sport Max | Roma - Slovan Bratislava UEFA Champions League | unknown | champions-league |
-| 17/11 16:56 | 17/11 18:40 | IT - ZONA DAZN | Igor - L'eroe romantico del calcio | unknown |  |
-| 17/11 17:15 | 17/11 18:55 | IT - Sky Sport 4K | Inter - Como | unknown |  |
-| 17/11 18:00 | 17/11 20:15 | IT - Sky Sport 251 | Next Game: Galles - Portogallo on 2026-11-17 at 02:15PM EST | unknown |  |
-| 17/11 18:00 | 18/11 00:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 17/11 18:05 | 17/11 20:00 | IT - Sky Sport Calcio | Belgio - Italia | unknown |  |
-| 17/11 18:40 | 17/11 19:56 | IT - ZONA DAZN | Uno, nessuno, Manenti | unknown |  |
-| 17/11 18:55 | 17/11 19:30 | IT - Sky Sport 4K | Feyenoord - Inter | unknown |  |
-| 17/11 19:05 | 17/11 19:35 | IT - Sky Sport Max | Uefa Champions League Magazine 2026/2027 Ep | unknown | champions-league |
-| 17/11 19:10 | 17/11 20:10 | IT - RAI Sport | Serie B | unknown | serie-b |
-| 17/11 19:10 | 17/11 20:10 | IT - Rai Sport 1 | Serie B | unknown | serie-b |
-| 17/11 19:30 | 17/11 21:25 | IT - Sky Sport 4K | Milan - Ferencváros | unknown |  |
-| 17/11 19:56 | 17/11 21:38 | IT - ZONA DAZN | Lazio - Milan | unknown | serie-a |
-| 17/11 20:00 | 17/11 20:35 | IT - Sky Sport Calcio | Prepartita Nations League 17/11/2026 | live |  |
-| 17/11 20:10 | 17/11 22:05 | IT - RAI Sport | Serie C | unknown |  |
-| 17/11 20:10 | 17/11 22:05 | IT - Rai Sport 1 | Serie C | unknown |  |
-| 17/11 20:15 | 18/11 00:00 | IT - Sky Sport 251 | Galles - Portogallo | live |  |
-| 17/11 20:35 | 17/11 22:45 | IT - Sky Sport Calcio | Calcio Uefa Nations League 5ga Diretta Gol 17/11/2026 | live |  |
-| 17/11 21:25 | 17/11 21:55 | IT - Sky Sport 4K | Manchester United - Roma | unknown | champions-league |
-| 17/11 21:38 | 17/11 22:36 | IT - ZONA DAZN | El Ultimo Duelo | unknown |  |
-| 17/11 22:05 | 17/11 22:15 | IT - RAI Sport | Serie B | unknown | serie-b |
-| 17/11 22:05 | 17/11 22:15 | IT - Rai Sport 1 | Serie B | unknown | serie-b |
-| 17/11 22:30 | 17/11 23:00 | IT - Sky Sport NBA | Basket Room Serie A 2026/2027... | unknown | serie-a |
-| 17/11 22:36 | 17/11 22:53 | IT - ZONA DAZN | Bordocam Barcellona - Real Madrid 25/26 | unknown |  |
-| 17/11 22:45 | 17/11 23:30 | IT - Sky Sport Calcio | Postpartita Nations League 17/11/2026 | live |  |
-| 17/11 23:15 | 18/11 00:00 | IT - RAI Sport | Serie A Women Athora | unknown | serie-a |
-| 17/11 23:15 | 18/11 00:00 | IT - Rai Sport 1 | Serie A Women Athora | unknown | serie-a |
 | 17/11 23:22 | 18/11 00:30 | IT - ZONA DAZN | Inter: Tutti i gol della stagione 25-26 | unknown |  |
-| 17/11 23:30 | 18/11 00:00 | IT - Sky Sport Calcio | Centrocampo Il Cuore Del Gioco | unknown |  |
 | 18/11 00:00 | 18/11 02:10 | IT - RAI Sport | Nazionale di calcio | unknown |  |
 | 18/11 00:00 | 18/11 02:10 | IT - Rai Sport 1 | Nazionale di calcio | unknown |  |
 | 18/11 00:00 | 18/11 02:05 | IT - Sky Sport Calcio | Danimarca - Norvegia | unknown |  |

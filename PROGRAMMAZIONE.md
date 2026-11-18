@@ -1,6 +1,6 @@
 # Programmazione calcio
 
-Ultima acquisizione riuscita: 2026-11-18T22:03:46.707679Z. Orari: Europe/Rome.
+Ultima acquisizione riuscita: 2026-11-18T23:04:42.385675Z. Orari: Europe/Rome.
 
 Solo Sky Calcio, Sky Sport, DAZN/Zona DAZN, TV8 e RAI secondo config.json.
 
@@ -21,117 +21,6 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 
 | Inizio | Fine | Canale | Programma | Tipo | Competizioni rilevate |
 | --- | --- | --- | --- | --- | --- |
-| 18/11 00:00 | 18/11 02:10 | IT - RAI Sport | Nazionale di calcio | unknown |  |
-| 18/11 00:00 | 18/11 02:10 | IT - Rai Sport 1 | Nazionale di calcio | unknown |  |
-| 18/11 01:30 | 18/11 01:50 | IT - Sky Sport Legend | Tutti i gol di Van Nistelrooy in Champions League | unknown | champions-league |
-| 18/11 01:50 | 18/11 02:05 | IT - Sky Sport Legend | Tutti i gol di Henry nelle Coppe Europee | unknown |  |
-| 18/11 02:00 | 18/11 06:00 | IT - Sky Sport 251 | No Game Today | unknown |  |
-| 18/11 02:00 | 18/11 06:00 | IT - Sky Sport 252 | No Game Today | unknown |  |
-| 18/11 02:00 | 18/11 06:00 | IT - Sky Sport 253 | No Game Today | unknown |  |
-| 18/11 02:00 | 18/11 06:00 | IT - Sky Sport 254 | No Game Today | unknown |  |
-| 18/11 02:00 | 18/11 06:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
-| 18/11 02:00 | 18/11 06:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 18/11 02:00 | 18/11 06:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 18/11 02:00 | 18/11 06:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 18/11 02:00 | 18/11 06:00 | IT - Sky Sport 259 | No Game Today | unknown |  |
-| 18/11 02:05 | 18/11 04:10 | IT - Sky Sport Calcio | Galles - Portogallo | unknown |  |
-| 18/11 02:05 | 18/11 04:00 | IT - Sky Sport Max | AZ - Juventus UEFA Europa League | unknown |  |
-| 18/11 02:20 | 18/11 04:00 | IT - Sky Sport 4K | Milan - Atalanta | unknown |  |
-| 18/11 02:50 | 18/11 04:30 | IT - Sky Sport Legend | Bayern M. - Milan 11/04/07 | unknown | champions-league |
-| 18/11 04:00 | 18/11 06:00 | IT - Sky Sport 4K | Como - Manchester United | unknown | champions-league |
-| 18/11 04:10 | 18/11 06:00 | IT - Sky Sport Calcio | Germania - Olanda | unknown |  |
-| 18/11 04:30 | 18/11 06:00 | IT - Sky Sport Arena | Aldair: Cuore giallorosso | unknown |  |
-| 18/11 04:30 | 18/11 04:45 | IT - Sky Sport Legend | Kakà: tutti i gol in Champions League | unknown | champions-league |
-| 18/11 04:45 | 18/11 05:45 | IT - Sky Sport Legend | Enzo Ferrari | unknown |  |
-| 18/11 05:45 | 18/11 06:00 | IT - Sky Sport Legend | Lo Special One | unknown |  |
-| 18/11 06:00 | 18/11 10:00 | IT - Sky Sport 251 | No Game Today | unknown |  |
-| 18/11 06:00 | 18/11 10:00 | IT - Sky Sport 252 | No Game Today | unknown |  |
-| 18/11 06:00 | 18/11 10:00 | IT - Sky Sport 253 | No Game Today | unknown |  |
-| 18/11 06:00 | 18/11 10:00 | IT - Sky Sport 254 | No Game Today | unknown |  |
-| 18/11 06:00 | 18/11 10:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
-| 18/11 06:00 | 18/11 10:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 18/11 06:00 | 18/11 10:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 18/11 06:00 | 18/11 10:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 18/11 06:00 | 18/11 10:00 | IT - Sky Sport 259 | No Game Today | unknown |  |
-| 18/11 06:00 | 18/11 08:00 | IT - Sky Sport Calcio | Danimarca - Norvegia | unknown |  |
-| 18/11 06:00 | 18/11 07:00 | IT - Sky Sport Legend | Johann Cruyff | unknown |  |
-| 18/11 06:00 | 18/11 12:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 18/11 07:00 | 18/11 08:00 | IT - Sky Sport Legend | Ferenc Puskás | unknown |  |
-| 18/11 07:50 | 18/11 09:50 | IT - Sky Sport Arena | Nutribullet Treviso Basket - Longobardi Scafati Basket | unknown | serie-a |
-| 18/11 08:00 | 18/11 09:05 | IT - Sky Sport Calcio | Ep. 3 | unknown | champions-league |
-| 18/11 08:00 | 18/11 09:44 | IT - ZONA DAZN | Lazio - Milan | unknown | serie-a |
-| 18/11 08:10 | 18/11 09:50 | IT - Sky Sport 4K | Roma - Sassuolo | unknown |  |
-| 18/11 08:15 | 18/11 08:45 | IT - Sky Sport NBA | Basket Room Serie A 2026/2027... | unknown | serie-a |
-| 18/11 08:55 | 18/11 09:40 | IT - RAI Sport | Serie A Women Athora | unknown | serie-a |
-| 18/11 08:55 | 18/11 09:40 | IT - Rai Sport 1 | Serie A Women Athora | unknown | serie-a |
-| 18/11 09:05 | 18/11 11:00 | IT - Sky Sport Calcio | Galles - Portogallo | unknown |  |
-| 18/11 09:40 | 18/11 11:50 | IT - RAI Sport | Nazionale di calcio | unknown |  |
-| 18/11 09:40 | 18/11 11:50 | IT - Rai Sport 1 | Nazionale di calcio | unknown |  |
-| 18/11 10:00 | 18/11 14:00 | IT - Sky Sport 251 | No Game Today | unknown |  |
-| 18/11 10:00 | 18/11 14:00 | IT - Sky Sport 252 | No Game Today | unknown |  |
-| 18/11 10:00 | 18/11 14:00 | IT - Sky Sport 253 | No Game Today | unknown |  |
-| 18/11 10:00 | 18/11 14:00 | IT - Sky Sport 254 | No Game Today | unknown |  |
-| 18/11 10:00 | 18/11 14:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
-| 18/11 10:00 | 18/11 14:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 18/11 10:00 | 18/11 14:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 18/11 10:00 | 18/11 14:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 18/11 10:00 | 18/11 14:00 | IT - Sky Sport 259 | No Game Today | unknown |  |
-| 18/11 10:20 | 18/11 10:50 | IT - Sky Sport Legend | Totti | unknown |  |
-| 18/11 10:24 | 18/11 12:06 | IT - ZONA DAZN | Milan - Lecce | unknown | serie-a |
-| 18/11 10:50 | 18/11 11:05 | IT - Sky Sport Legend | Tutti i gol di Del Piero in Champions | unknown | champions-league |
-| 18/11 11:00 | 18/11 13:00 | IT - Sky Sport Calcio | Belgio - Italia | unknown |  |
-| 18/11 11:05 | 18/11 13:00 | IT - Sky Sport Legend | Inter - Real Madrid 25/11/98 | unknown | champions-league |
-| 18/11 11:20 | 18/11 13:00 | IT - Sky Sport 4K | Roma - Sassuolo | unknown |  |
-| 18/11 11:50 | 18/11 13:10 | IT - RAI Sport | Pallavolo: Serie A Maschile | unknown | serie-a |
-| 18/11 11:50 | 18/11 13:10 | IT - Rai Sport 1 | Pallavolo: Serie A Maschile | unknown | serie-a |
-| 18/11 12:00 | 18/11 18:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 18/11 12:06 | 18/11 12:43 | IT - ZONA DAZN | Ezequiel Lavezzi | unknown |  |
-| 18/11 12:43 | 18/11 14:26 | IT - ZONA DAZN | Venezia - Fiorentina | unknown | serie-a |
-| 18/11 13:00 | 18/11 14:45 | IT - Sky Sport 4K | Inter - Como | unknown |  |
-| 18/11 13:00 | 18/11 14:00 | IT - Sky Sport Calcio | Diegoooooooo! (1986) | unknown |  |
-| 18/11 13:30 | 18/11 14:00 | IT - Sky Sport24 | Il Calcio e' Servito | unknown |  |
-| 18/11 14:00 | 18/11 18:00 | IT - Sky Sport 251 | No Game Today | unknown |  |
-| 18/11 14:00 | 18/11 18:00 | IT - Sky Sport 252 | No Game Today | unknown |  |
-| 18/11 14:00 | 18/11 18:00 | IT - Sky Sport 253 | No Game Today | unknown |  |
-| 18/11 14:00 | 18/11 18:00 | IT - Sky Sport 254 | No Game Today | unknown |  |
-| 18/11 14:00 | 18/11 18:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
-| 18/11 14:00 | 18/11 18:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 18/11 14:00 | 18/11 18:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 18/11 14:00 | 18/11 18:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 18/11 14:00 | 18/11 18:00 | IT - Sky Sport 259 | No Game Today | unknown |  |
-| 18/11 14:00 | 18/11 16:00 | IT - Sky Sport Calcio | Danimarca - Norvegia | unknown |  |
-| 18/11 14:05 | 18/11 14:35 | IT - Sky Sport Max | Uefa Champions League Magazine 2026/2027 Ep | unknown | champions-league |
-| 18/11 14:30 | 18/11 15:00 | IT - Sky Sport Legend | Batistuta | unknown |  |
-| 18/11 14:45 | 18/11 16:30 | IT - Sky Sport 4K | Venezia - Udinese | unknown |  |
-| 18/11 15:00 | 18/11 17:00 | IT - Sky Sport Legend | Atalanta - Bayer Leverkusen | unknown | champions-league |
-| 18/11 15:02 | 18/11 16:43 | IT - ZONA DAZN | Sassuolo - Juventus | unknown | serie-a |
-| 18/11 16:00 | 18/11 18:00 | IT - Sky Sport Calcio | Galles - Portogallo | unknown |  |
-| 18/11 16:30 | 18/11 17:00 | IT - Sky Sport 4K | AZ - Juventus | unknown |  |
-| 18/11 17:00 | 18/11 19:00 | IT - Sky Sport 4K | Como - Manchester United | unknown | champions-league |
-| 18/11 17:23 | 18/11 19:08 | IT - ZONA DAZN | Roma - Inter | unknown | serie-a |
-| 18/11 18:00 | 18/11 22:00 | IT - Sky Sport 251 | No Game Today | unknown |  |
-| 18/11 18:00 | 18/11 22:00 | IT - Sky Sport 252 | No Game Today | unknown |  |
-| 18/11 18:00 | 18/11 22:00 | IT - Sky Sport 253 | No Game Today | unknown |  |
-| 18/11 18:00 | 18/11 22:00 | IT - Sky Sport 254 | No Game Today | unknown |  |
-| 18/11 18:00 | 18/11 22:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
-| 18/11 18:00 | 18/11 22:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 18/11 18:00 | 18/11 22:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 18/11 18:00 | 18/11 22:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 18/11 18:00 | 18/11 22:00 | IT - Sky Sport 259 | No Game Today | unknown |  |
-| 18/11 18:00 | 18/11 20:00 | IT - Sky Sport Calcio | Francia - Turchia | unknown |  |
-| 18/11 18:00 | 19/11 00:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 18/11 18:45 | 18/11 19:45 | IT - Sky Sport Legend | 1a parte | unknown | serie-b |
-| 18/11 19:08 | 18/11 19:36 | IT - ZONA DAZN | Franco Mastantuono | unknown |  |
-| 18/11 19:20 | 18/11 21:10 | IT - Rai Movie | Non ci resta che il crimine | unknown |  |
-| 18/11 19:36 | 18/11 19:51 | IT - ZONA DAZN | Diego Moreira | unknown |  |
-| 18/11 19:45 | 18/11 20:45 | IT - Sky Sport Legend | Pistole e Palloni | unknown |  |
-| 18/11 19:51 | 18/11 21:38 | IT - ZONA DAZN | Inter-Napoli 26/27 | unknown | serie-a |
-| 18/11 20:00 | 18/11 20:30 | IT - Sky Sport Calcio | Uefa Champions League Magazine 2026/2027 Ep.11 16/11/2026 | unknown | champions-league |
-| 18/11 20:25 | 18/11 21:50 | IT - Sky Sport Arena | Pro Recco - Brescia | live | champions-league |
-| 18/11 20:30 | 18/11 21:00 | IT - Sky Sport Calcio | Totti | unknown |  |
-| 18/11 20:45 | 18/11 21:45 | IT - Sky Sport Legend | La maledizione | unknown |  |
-| 18/11 21:00 | 18/11 22:45 | IT - Sky Sport Calcio | Milan - Man Utd 02/05/07 | unknown | champions-league |
-| 18/11 21:45 | 18/11 23:45 | IT - Sky Sport Legend | Atalanta - Bayer Leverkusen | unknown | champions-league |
 | 18/11 22:00 | 19/11 02:00 | IT - Sky Sport 251 | No Game Today | unknown |  |
 | 18/11 22:00 | 19/11 02:00 | IT - Sky Sport 252 | No Game Today | unknown |  |
 | 18/11 22:00 | 19/11 02:00 | IT - Sky Sport 253 | No Game Today | unknown |  |
@@ -142,9 +31,6 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 18/11 22:00 | 19/11 02:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
 | 18/11 22:00 | 19/11 02:00 | IT - Sky Sport 259 | No Game Today | unknown |  |
 | 18/11 22:36 | 19/11 00:30 | IT - ZONA DAZN | Here We Go: Storia di Fabrizio Romano | unknown |  |
-| 18/11 22:45 | 18/11 23:00 | IT - Sky Sport Calcio | Kakà: tutti i gol in Champions League | unknown | champions-league |
-| 18/11 23:00 | 19/11 00:00 | IT - Sky Sport Calcio | Italia - Germania 4-3 (1970) | unknown |  |
-| 18/11 23:45 | 19/11 00:00 | IT - Sky Sport 4K | Lens - Como | unknown |  |
 | 19/11 00:00 | 19/11 02:00 | IT - Sky Sport 4K | Milan - Ferencváros | unknown |  |
 | 19/11 00:00 | 19/11 00:25 | IT - Sky Sport Calcio | Uefa Champions League Magazine 2026/2027 Ep.11 16/11/2026 | unknown | champions-league |
 | 19/11 00:00 | 19/11 06:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |

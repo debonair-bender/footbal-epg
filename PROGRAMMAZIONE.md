@@ -1,6 +1,6 @@
 # Programmazione calcio
 
-Ultima acquisizione riuscita: 2026-11-19T22:03:34.937880Z. Orari: Europe/Rome.
+Ultima acquisizione riuscita: 2026-11-19T23:00:13.699243Z. Orari: Europe/Rome.
 
 Solo Sky Calcio, Sky Sport, DAZN/Zona DAZN, TV8 e RAI secondo config.json.
 
@@ -21,114 +21,6 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 
 | Inizio | Fine | Canale | Programma | Tipo | Competizioni rilevate |
 | --- | --- | --- | --- | --- | --- |
-| 19/11 00:10 | 19/11 00:45 | IT - Sky Sport NBA | Basket Room Serie A 2026/2027... | unknown | serie-a |
-| 19/11 01:30 | 19/11 03:25 | IT - Sky Sport Calcio | Italia - Francia | unknown |  |
-| 19/11 02:00 | 19/11 04:00 | IT - RAI Sport | Rugby: Serie A Elite maschile | unknown | serie-a |
-| 19/11 02:00 | 19/11 04:00 | IT - Rai Sport 1 | Rugby: Serie A Elite maschile | unknown | serie-a |
-| 19/11 02:00 | 19/11 06:00 | IT - Sky Sport 251 | No Game Today | unknown |  |
-| 19/11 02:00 | 19/11 06:00 | IT - Sky Sport 252 | No Game Today | unknown |  |
-| 19/11 02:00 | 19/11 06:00 | IT - Sky Sport 253 | No Game Today | unknown |  |
-| 19/11 02:00 | 19/11 06:00 | IT - Sky Sport 254 | No Game Today | unknown |  |
-| 19/11 02:00 | 19/11 06:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
-| 19/11 02:00 | 19/11 06:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 19/11 02:00 | 19/11 06:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 19/11 02:00 | 19/11 06:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 19/11 02:00 | 19/11 06:00 | IT - Sky Sport 259 | No Game Today | unknown |  |
-| 19/11 02:00 | 19/11 03:45 | IT - Sky Sport 4K | Inter - Como | unknown |  |
-| 19/11 02:00 | 19/11 04:00 | IT - Sky Sport Max | Feyenoord - Inter UEFA Champions League | unknown | champions-league |
-| 19/11 02:20 | 19/11 03:45 | IT - Sky Sport Legend | King Otto - L'Olimpo del calcio | unknown |  |
-| 19/11 03:30 | 19/11 04:00 | IT - Sky Sport Calcio | Vialli | unknown |  |
-| 19/11 04:00 | 19/11 06:00 | IT - RAI Sport | Nazionale di calcio | unknown |  |
-| 19/11 04:00 | 19/11 06:00 | IT - Rai Sport 1 | Nazionale di calcio | unknown |  |
-| 19/11 04:00 | 19/11 06:00 | IT - Sky Sport Calcio | Spagna - Inghilterra | unknown |  |
-| 19/11 04:05 | 19/11 06:00 | IT - Sky Sport Arena | Nutribullet Treviso Basket - Longobardi Scafati Basket | unknown | serie-a |
-| 19/11 05:45 | 19/11 06:00 | IT - Sky Sport Legend | Tutti i gol di Del Piero in Champions | unknown | champions-league |
-| 19/11 06:00 | 19/11 10:00 | IT - Sky Sport 251 | No Game Today | unknown |  |
-| 19/11 06:00 | 19/11 10:00 | IT - Sky Sport 252 | No Game Today | unknown |  |
-| 19/11 06:00 | 19/11 10:00 | IT - Sky Sport 253 | No Game Today | unknown |  |
-| 19/11 06:00 | 19/11 10:00 | IT - Sky Sport 254 | No Game Today | unknown |  |
-| 19/11 06:00 | 19/11 10:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
-| 19/11 06:00 | 19/11 10:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 19/11 06:00 | 19/11 10:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 19/11 06:00 | 19/11 10:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 19/11 06:00 | 19/11 10:00 | IT - Sky Sport 259 | No Game Today | unknown |  |
-| 19/11 06:00 | 19/11 07:45 | IT - Sky Sport Calcio | Feyenoord - Inter | unknown |  |
-| 19/11 06:00 | 19/11 07:55 | IT - Sky Sport Legend | Roma - Feyenoord | unknown |  |
-| 19/11 06:00 | 19/11 12:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 19/11 07:00 | 19/11 07:30 | IT - RAI Sport | Serie A Women Athora | unknown | serie-a |
-| 19/11 07:00 | 19/11 07:30 | IT - Rai Sport 1 | Serie A Women Athora | unknown | serie-a |
-| 19/11 07:45 | 19/11 08:45 | IT - Sky Sport Calcio | Parte 1 | unknown |  |
-| 19/11 07:55 | 19/11 08:25 | IT - Sky Sport Legend | Batistuta | unknown |  |
-| 19/11 08:00 | 19/11 09:43 | IT - ZONA DAZN | Genoa - Como | unknown | serie-a |
-| 19/11 08:15 | 19/11 08:40 | IT - Sky Sport 4K | Feyenoord - Inter | unknown |  |
-| 19/11 08:45 | 19/11 10:30 | IT - Sky Sport Calcio | Lens - Como | unknown |  |
-| 19/11 09:43 | 19/11 10:39 | IT - ZONA DAZN | Winning Jose' Mourinho | unknown |  |
-| 19/11 10:00 | 19/11 14:00 | IT - Sky Sport 251 | No Game Today | unknown |  |
-| 19/11 10:00 | 19/11 14:00 | IT - Sky Sport 252 | No Game Today | unknown |  |
-| 19/11 10:00 | 19/11 14:00 | IT - Sky Sport 253 | No Game Today | unknown |  |
-| 19/11 10:00 | 19/11 14:00 | IT - Sky Sport 254 | No Game Today | unknown |  |
-| 19/11 10:00 | 19/11 14:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
-| 19/11 10:00 | 19/11 14:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 19/11 10:00 | 19/11 14:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 19/11 10:00 | 19/11 14:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 19/11 10:00 | 19/11 14:00 | IT - Sky Sport 259 | No Game Today | unknown |  |
-| 19/11 10:30 | 19/11 12:30 | IT - Sky Sport Calcio | Spagna - Inghilterra | unknown |  |
-| 19/11 10:39 | 19/11 12:21 | IT - ZONA DAZN | Lazio - Milan | unknown | serie-a |
-| 19/11 10:50 | 19/11 12:35 | IT - Sky Sport 4K | Venezia - Udinese | unknown |  |
-| 19/11 11:15 | 19/11 12:00 | IT - Sky Sport Legend | Forti come un leone | unknown |  |
-| 19/11 12:00 | 19/11 12:45 | IT - Sky Sport Legend | Ep.2 | unknown |  |
-| 19/11 12:00 | 19/11 18:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 19/11 12:21 | 19/11 12:57 | IT - ZONA DAZN | Ep. 4 | unknown |  |
-| 19/11 12:30 | 19/11 13:00 | IT - Sky Sport Calcio | Uefa Champions League Magazine 2026/2027 Ep.11 16/11/2026 | unknown | champions-league |
-| 19/11 12:35 | 19/11 14:20 | IT - Sky Sport 4K | Venezia - Udinese | unknown |  |
-| 19/11 12:45 | 19/11 13:35 | IT - Sky Sport Legend | Ep.3 | unknown |  |
-| 19/11 12:57 | 19/11 14:40 | IT - ZONA DAZN | Milan - Lecce | unknown | serie-a |
-| 19/11 13:00 | 19/11 14:00 | IT - Sky Sport Calcio | Football Back Home (1966) | unknown |  |
-| 19/11 13:25 | 19/11 13:55 | IT - Sky Sport NBA | Basket Room Serie A 2026/2027... | unknown | serie-a |
-| 19/11 13:30 | 19/11 14:00 | IT - Sky Sport24 | Il Calcio e' Servito | unknown |  |
-| 19/11 13:35 | 19/11 14:00 | IT - Sky Sport Legend | Totti | unknown |  |
-| 19/11 14:00 | 19/11 18:00 | IT - Sky Sport 251 | No Game Today | unknown |  |
-| 19/11 14:00 | 19/11 18:00 | IT - Sky Sport 252 | No Game Today | unknown |  |
-| 19/11 14:00 | 19/11 18:00 | IT - Sky Sport 253 | No Game Today | unknown |  |
-| 19/11 14:00 | 19/11 18:00 | IT - Sky Sport 254 | No Game Today | unknown |  |
-| 19/11 14:00 | 19/11 18:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
-| 19/11 14:00 | 19/11 18:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 19/11 14:00 | 19/11 18:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 19/11 14:00 | 19/11 18:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 19/11 14:00 | 19/11 18:00 | IT - Sky Sport 259 | No Game Today | unknown |  |
-| 19/11 14:00 | 19/11 14:15 | IT - Sky Sport Calcio | Ep.28 | unknown |  |
-| 19/11 14:15 | 19/11 16:15 | IT - Sky Sport Calcio | Francia - Turchia | unknown |  |
-| 19/11 14:20 | 19/11 16:00 | IT - Sky Sport 4K | Inter - Como | unknown |  |
-| 19/11 15:26 | 19/11 17:09 | IT - ZONA DAZN | Venezia - Fiorentina | unknown | serie-a |
-| 19/11 16:00 | 19/11 16:30 | IT - Sky Sport 4K | Porto - Napoli | unknown |  |
-| 19/11 16:15 | 19/11 17:45 | IT - Sky Sport Calcio | Padovano innocente, 17 anni senza liberta | unknown |  |
-| 19/11 16:30 | 19/11 18:15 | IT - Sky Sport 4K | Roma - Sassuolo | unknown |  |
-| 19/11 16:40 | 19/11 18:25 | IT - Sky Sport Max | Milan - Inter Serie A | unknown | serie-a |
-| 19/11 17:45 | 19/11 18:00 | IT - Sky Sport Calcio | Ep.28 | unknown |  |
-| 19/11 17:58 | 19/11 19:39 | IT - ZONA DAZN | Sassuolo - Juventus | unknown | serie-a |
-| 19/11 18:00 | 19/11 22:00 | IT - Sky Sport 251 | No Game Today | unknown |  |
-| 19/11 18:00 | 19/11 22:00 | IT - Sky Sport 252 | No Game Today | unknown |  |
-| 19/11 18:00 | 19/11 22:00 | IT - Sky Sport 253 | No Game Today | unknown |  |
-| 19/11 18:00 | 19/11 22:00 | IT - Sky Sport 254 | No Game Today | unknown |  |
-| 19/11 18:00 | 19/11 22:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
-| 19/11 18:00 | 19/11 22:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 19/11 18:00 | 19/11 22:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 19/11 18:00 | 19/11 22:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 19/11 18:00 | 19/11 22:00 | IT - Sky Sport 259 | No Game Today | unknown |  |
-| 19/11 18:00 | 19/11 19:55 | IT - Sky Sport Calcio | Italia - Francia | unknown |  |
-| 19/11 18:00 | 20/11 00:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 19/11 18:15 | 19/11 20:00 | IT - Sky Sport 4K | Inter - Como | unknown |  |
-| 19/11 19:00 | 19/11 21:00 | IT - Sky Sport Legend | Conegliano - Scandicci | unknown | champions-league |
-| 19/11 19:39 | 19/11 19:55 | IT - ZONA DAZN | Bordocam Juventus - Lazio 2026/27 | unknown |  |
-| 19/11 19:55 | 19/11 20:30 | IT - Sky Sport Calcio | Nemanja Matic | unknown |  |
-| 19/11 19:55 | 19/11 20:17 | IT - ZONA DAZN | Davide Frattesi | unknown |  |
-| 19/11 20:00 | 19/11 21:45 | IT - Sky Sport 4K | Venezia - Udinese | unknown |  |
-| 19/11 20:17 | 19/11 22:03 | IT - ZONA DAZN | Roma - Inter | unknown | serie-a |
-| 19/11 20:30 | 19/11 21:00 | IT - Sky Sport Calcio | Uefa Champions League Magazine 2026/2027 Ep.11 16/11/2026 | unknown | champions-league |
-| 19/11 21:00 | 19/11 21:45 | IT - Sky Sport Calcio | Forti come un leone | unknown |  |
-| 19/11 21:00 | 19/11 22:00 | IT - Sky Sport Legend | Enzo Ferrari | unknown |  |
-| 19/11 21:45 | 19/11 23:40 | IT - Sky Sport 4K | Milan - Ferencváros | unknown |  |
-| 19/11 21:45 | 19/11 22:30 | IT - Sky Sport Calcio | Ep.2 | unknown |  |
 | 19/11 22:00 | 20/11 02:00 | IT - Sky Sport 251 | No Game Today | unknown |  |
 | 19/11 22:00 | 20/11 02:00 | IT - Sky Sport 252 | No Game Today | unknown |  |
 | 19/11 22:00 | 20/11 02:00 | IT - Sky Sport 253 | No Game Today | unknown |  |
@@ -139,11 +31,6 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 19/11 22:00 | 20/11 02:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
 | 19/11 22:00 | 20/11 02:00 | IT - Sky Sport 259 | No Game Today | unknown |  |
 | 19/11 22:00 | 20/11 00:50 | IT - Sky Sport Legend | Volley Femminile Cev Champions League 2020/2021 - Stag. -3 - Conegliano - Istanbul. Finale | unknown | champions-league |
-| 19/11 22:03 | 19/11 23:00 | IT - ZONA DAZN | Chivu: La migliore versione di Noi | unknown |  |
-| 19/11 22:30 | 19/11 23:15 | IT - Sky Sport Calcio | Ep.3 | unknown |  |
-| 19/11 23:00 | 19/11 23:22 | IT - ZONA DAZN | Bordocam Roma - Inter 2026/27 | unknown |  |
-| 19/11 23:15 | 19/11 23:35 | IT - Sky Sport Calcio | Ep.28 | unknown |  |
-| 19/11 23:22 | 19/11 23:38 | IT - ZONA DAZN | Bordocam Lazio - Milan 2026/27 | unknown |  |
 | 19/11 23:35 | 20/11 00:05 | IT - Sky Sport Calcio | Nemanja Matic | unknown |  |
 | 19/11 23:38 | 20/11 00:30 | IT - ZONA DAZN | Bordocam Juventus - Milan 2026/27 | unknown |  |
 | 19/11 23:40 | 20/11 00:05 | IT - Sky Sport Max | Uefa Champions League Magazine 2026/2027 Ep | unknown | champions-league |

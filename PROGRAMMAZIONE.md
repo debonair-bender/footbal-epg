@@ -1,6 +1,6 @@
 # Programmazione calcio
 
-Ultima acquisizione riuscita: 2026-11-20T22:59:53.526053Z. Orari: Europe/Rome.
+Ultima acquisizione riuscita: 2026-11-20T23:59:04.913209Z. Orari: Europe/Rome.
 
 Solo Sky Calcio, Sky Sport, DAZN/Zona DAZN, TV8 e RAI secondo config.json.
 
@@ -21,117 +21,6 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 
 | Inizio | Fine | Canale | Programma | Tipo | Competizioni rilevate |
 | --- | --- | --- | --- | --- | --- |
-| 20/11 01:35 | 20/11 03:30 | IT - Sky Sport Calcio | Belgio - Italia | unknown |  |
-| 20/11 02:00 | 20/11 06:00 | IT - Sky Sport 251 | Next Game: Casertana - Salernitana on 2026-11-20 at 02:00PM EST | unknown |  |
-| 20/11 02:00 | 20/11 06:00 | IT - Sky Sport 252 | Next Game: Trento - Cittadella on 2026-11-20 at 02:00PM EST | unknown |  |
-| 20/11 02:00 | 20/11 06:00 | IT - Sky Sport 253 | Next Game: Arminia Bielefeld - FC Magdeburg on 2026-11-20 at 12:00PM EST | unknown |  |
-| 20/11 02:00 | 20/11 06:00 | IT - Sky Sport 254 | No Game Today | unknown |  |
-| 20/11 02:00 | 20/11 06:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
-| 20/11 02:00 | 20/11 06:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 20/11 02:00 | 20/11 06:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 20/11 02:00 | 20/11 06:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 20/11 02:00 | 20/11 06:00 | IT - Sky Sport 259 | No Game Today | unknown |  |
-| 20/11 02:15 | 20/11 04:30 | IT - RAI Sport | Nazionale di calcio | unknown |  |
-| 20/11 02:15 | 20/11 04:30 | IT - Rai Sport 1 | Nazionale di calcio | unknown |  |
-| 20/11 02:15 | 20/11 04:00 | IT - Sky Sport Max | Lens - Como UEFA Champions League | unknown | champions-league |
-| 20/11 02:30 | 20/11 04:30 | IT - Sky Sport Legend | Roma - Feyenoord | unknown |  |
-| 20/11 02:55 | 20/11 03:30 | IT - Sky Sport 4K | Feyenoord - Inter | unknown |  |
-| 20/11 03:25 | 20/11 04:00 | IT - Sky Sport NBA | Basket Room Serie A 2026/2027... | unknown | serie-a |
-| 20/11 03:30 | 20/11 04:05 | IT - Sky Sport Calcio | Bundesliga Weekly | unknown |  |
-| 20/11 04:05 | 20/11 06:00 | IT - Sky Sport Calcio | Danimarca - Norvegia | unknown |  |
-| 20/11 04:30 | 20/11 05:30 | IT - Sky Sport Legend | Ep. 3 | unknown |  |
-| 20/11 05:30 | 20/11 06:00 | IT - Sky Sport Legend | Vialli | unknown |  |
-| 20/11 06:00 | 20/11 07:30 | IT - RAI Sport | Pallavolo: Serie A Maschile | unknown | serie-a |
-| 20/11 06:00 | 20/11 07:30 | IT - Rai Sport 1 | Pallavolo: Serie A Maschile | unknown | serie-a |
-| 20/11 06:00 | 20/11 10:00 | IT - Sky Sport 251 | Next Game: Casertana - Salernitana on 2026-11-20 at 02:00PM EST | unknown |  |
-| 20/11 06:00 | 20/11 10:00 | IT - Sky Sport 252 | Next Game: Trento - Cittadella on 2026-11-20 at 02:00PM EST | unknown |  |
-| 20/11 06:00 | 20/11 10:00 | IT - Sky Sport 253 | Next Game: Arminia Bielefeld - FC Magdeburg on 2026-11-20 at 12:00PM EST | unknown |  |
-| 20/11 06:00 | 20/11 10:00 | IT - Sky Sport 254 | No Game Today | unknown |  |
-| 20/11 06:00 | 20/11 10:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
-| 20/11 06:00 | 20/11 10:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 20/11 06:00 | 20/11 10:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 20/11 06:00 | 20/11 10:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 20/11 06:00 | 20/11 10:00 | IT - Sky Sport 259 | No Game Today | unknown |  |
-| 20/11 06:00 | 20/11 06:30 | IT - Sky Sport Arena | Uefa Champions League Magazine 2026/2027 Ep.11 16/11/2026 | unknown | champions-league |
-| 20/11 06:00 | 20/11 07:45 | IT - Sky Sport Calcio | Liverpool - Arsenal | unknown |  |
-| 20/11 06:00 | 20/11 07:00 | IT - Sky Sport Legend | Ep. 3 | unknown |  |
-| 20/11 06:00 | 20/11 12:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 20/11 06:25 | 20/11 07:00 | IT - Sky Sport 4K | Porto - Napoli | unknown |  |
-| 20/11 06:30 | 20/11 06:55 | IT - Sky Sport Arena | Uefa Champions League Magazine 2026/2027 Ep.11 16/11/2026 | unknown | champions-league |
-| 20/11 06:55 | 20/11 08:20 | IT - Sky Sport Arena | Aldair: Cuore giallorosso | unknown |  |
-| 20/11 07:00 | 20/11 08:45 | IT - Sky Sport 4K | Inter - Como | unknown |  |
-| 20/11 07:00 | 20/11 09:50 | IT - Sky Sport Legend | Volley Femminile Cev Champions League 2020/2021 - Stag. -3 - Conegliano - Istanbul. Finale | unknown | champions-league |
-| 20/11 07:45 | 20/11 08:45 | IT - Sky Sport Calcio | Parte 2 | unknown |  |
-| 20/11 08:00 | 20/11 09:49 | IT - ZONA DAZN | Inter-Napoli 26/27 | unknown | serie-a |
-| 20/11 08:45 | 20/11 10:25 | IT - Sky Sport 4K | Venezia - Udinese | unknown |  |
-| 20/11 08:45 | 20/11 10:35 | IT - Sky Sport Calcio | Chelsea - Manchester United | unknown |  |
-| 20/11 09:45 | 20/11 11:30 | IT - Sky Sport Max | Milan - Inter Serie A | unknown | serie-a |
-| 20/11 10:00 | 20/11 14:00 | IT - Sky Sport 251 | Next Game: Casertana - Salernitana on 2026-11-20 at 02:00PM EST | unknown |  |
-| 20/11 10:00 | 20/11 14:00 | IT - Sky Sport 252 | Next Game: Trento - Cittadella on 2026-11-20 at 02:00PM EST | unknown |  |
-| 20/11 10:00 | 20/11 14:00 | IT - Sky Sport 253 | Next Game: Arminia Bielefeld - FC Magdeburg on 2026-11-20 at 12:00PM EST | unknown |  |
-| 20/11 10:00 | 20/11 14:00 | IT - Sky Sport 254 | No Game Today | unknown |  |
-| 20/11 10:00 | 20/11 14:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
-| 20/11 10:00 | 20/11 14:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 20/11 10:00 | 20/11 14:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 20/11 10:00 | 20/11 14:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 20/11 10:00 | 20/11 14:00 | IT - Sky Sport 259 | No Game Today | unknown |  |
-| 20/11 10:18 | 20/11 12:00 | IT - ZONA DAZN | Genoa - Como | unknown | serie-a |
-| 20/11 10:35 | 20/11 12:25 | IT - Sky Sport Calcio | FC Bayern Monaco - Borussia Dortmund | unknown |  |
-| 20/11 12:00 | 20/11 18:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 20/11 12:25 | 20/11 12:40 | IT - Sky Sport Calcio | Ep.28 | unknown |  |
-| 20/11 12:40 | 20/11 14:25 | IT - Sky Sport Calcio | Milan - Inter | unknown |  |
-| 20/11 12:55 | 20/11 14:40 | IT - Sky Sport 4K | Roma - Sassuolo | unknown |  |
-| 20/11 12:56 | 20/11 14:39 | IT - ZONA DAZN | Venezia - Fiorentina | unknown | serie-a |
-| 20/11 13:30 | 20/11 14:00 | IT - Sky Sport24 | Il Calcio e' Servito | unknown |  |
-| 20/11 14:00 | 20/11 18:00 | IT - Sky Sport 251 | Next Game: Casertana - Salernitana on 2026-11-20 at 02:00PM EST | unknown |  |
-| 20/11 14:00 | 20/11 18:00 | IT - Sky Sport 252 | Next Game: Trento - Cittadella on 2026-11-20 at 02:00PM EST | unknown |  |
-| 20/11 14:00 | 20/11 18:00 | IT - Sky Sport 253 | Next Game: Arminia Bielefeld - FC Magdeburg on 2026-11-20 at 12:00PM EST | unknown |  |
-| 20/11 14:00 | 20/11 18:00 | IT - Sky Sport 254 | No Game Today | unknown |  |
-| 20/11 14:00 | 20/11 18:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
-| 20/11 14:00 | 20/11 18:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 20/11 14:00 | 20/11 18:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 20/11 14:00 | 20/11 18:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 20/11 14:00 | 20/11 18:00 | IT - Sky Sport 259 | No Game Today | unknown |  |
-| 20/11 14:15 | 20/11 15:30 | IT - Sky Sport Max | Pro Recco - Brescia LEN Champions League | unknown | champions-league |
-| 20/11 14:25 | 20/11 16:10 | IT - Sky Sport Calcio | Manchester United - Roma | unknown | champions-league |
-| 20/11 14:40 | 20/11 16:45 | IT - Sky Sport 4K | Milan - Ferencváros | unknown |  |
-| 20/11 15:09 | 20/11 16:54 | IT - ZONA DAZN | Roma - Inter | unknown | serie-a |
-| 20/11 15:50 | 20/11 17:50 | IT - RAI Sport | Calcio: Mondiali Under 17 | unknown |  |
-| 20/11 15:50 | 20/11 17:50 | IT - Rai Sport 1 | Calcio: Mondiali Under 17 | unknown |  |
-| 20/11 16:10 | 20/11 17:55 | IT - Sky Sport Calcio | Milan - Ferencváros | unknown |  |
-| 20/11 16:25 | 20/11 18:20 | IT - Sky Sport Max | Liverpool - Arsenal Premier League | unknown |  |
-| 20/11 17:20 | 20/11 17:40 | IT - Sky Sport Legend | Gli invincibili | unknown |  |
-| 20/11 17:21 | 20/11 19:04 | IT - ZONA DAZN | Milan - Lecce | unknown | serie-a |
-| 20/11 17:40 | 20/11 19:25 | IT - Sky Sport Legend | Bayern M. - Inter 2010 | unknown | champions-league |
-| 20/11 17:55 | 20/11 18:25 | IT - Sky Sport Calcio | Noir Marsigliese | unknown |  |
-| 20/11 18:00 | 20/11 20:00 | IT - Sky Sport 251 | Next Game: Casertana - Salernitana on 2026-11-20 at 02:00PM EST | unknown |  |
-| 20/11 18:00 | 20/11 20:00 | IT - Sky Sport 252 | Next Game: Trento - Cittadella on 2026-11-20 at 02:00PM EST | unknown |  |
-| 20/11 18:00 | 20/11 22:00 | IT - Sky Sport 253 | Arminia Bielefeld - FC Magdeburg | live |  |
-| 20/11 18:00 | 20/11 22:00 | IT - Sky Sport 254 | No Game Today | unknown |  |
-| 20/11 18:00 | 20/11 22:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
-| 20/11 18:00 | 20/11 22:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 20/11 18:00 | 20/11 22:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 20/11 18:00 | 20/11 22:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 20/11 18:00 | 20/11 22:00 | IT - Sky Sport 259 | No Game Today | unknown |  |
-| 20/11 18:00 | 21/11 00:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 20/11 18:25 | 20/11 20:20 | IT - Sky Sport Calcio | Arminia Bielefeld - FC Magdeburg | live |  |
-| 20/11 18:30 | 20/11 19:55 | IT - Sky Sport Arena | Aldair: Cuore giallorosso | unknown |  |
-| 20/11 19:04 | 20/11 19:45 | IT - ZONA DAZN | Here We Go: Storia di Fabrizio Romano | unknown |  |
-| 20/11 19:25 | 20/11 21:00 | IT - Sky Sport Legend | Il Processo del 10 Gennaio 1994 | unknown |  |
-| 20/11 19:45 | 20/11 20:45 | IT - ZONA DAZN | Winning Jose' Mourinho | unknown |  |
-| 20/11 19:55 | 20/11 20:20 | IT - Sky Sport Arena | Noir Marsigliese | unknown |  |
-| 20/11 20:00 | 21/11 00:00 | IT - Sky Sport 251 | Casertana - Salernitana | live |  |
-| 20/11 20:00 | 21/11 00:00 | IT - Sky Sport 252 | Trento - Cittadella | live |  |
-| 20/11 20:00 | 20/11 20:30 | IT - Sky Sport 4K | Manchester United - Roma | unknown | champions-league |
-| 20/11 20:20 | 20/11 20:25 | IT - Sky Sport Arena | Programmazione non disponibile | unknown |  |
-| 20/11 20:20 | 20/11 22:30 | IT - Sky Sport Calcio | Casertana - Salernitana | live |  |
-| 20/11 20:25 | 20/11 22:30 | IT - Sky Sport Arena | FC Bayern Monaco - Colonia | live |  |
-| 20/11 20:30 | 20/11 21:00 | IT - Sky Sport 4K | Feyenoord - Inter | unknown |  |
-| 20/11 20:40 | 20/11 23:15 | IT - RAI Sport | Pallavolo: Serie A Maschile | unknown | serie-a |
-| 20/11 20:40 | 20/11 23:15 | IT - Rai Sport 1 | Pallavolo: Serie A Maschile | unknown | serie-a |
-| 20/11 20:45 | 20/11 22:38 | IT - ZONA DAZN | Athletic Bilbao - Espanyol | live |  |
-| 20/11 21:00 | 20/11 22:45 | IT - Sky Sport 4K | Inter - Como | unknown |  |
-| 20/11 21:50 | 20/11 22:50 | IT - Sky Sport Legend | 1a parte | unknown | serie-b |
 | 20/11 22:00 | 21/11 02:00 | IT - Sky Sport 253 | Signing Off | unknown |  |
 | 20/11 22:00 | 21/11 02:00 | IT - Sky Sport 254 | No Game Today | unknown |  |
 | 20/11 22:00 | 21/11 02:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
@@ -139,10 +28,6 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 20/11 22:00 | 21/11 02:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
 | 20/11 22:00 | 21/11 02:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
 | 20/11 22:00 | 21/11 02:00 | IT - Sky Sport 259 | No Game Today | unknown |  |
-| 20/11 22:30 | 20/11 23:00 | IT - Sky Sport Calcio | Noir Marsigliese | unknown |  |
-| 20/11 22:30 | 20/11 23:00 | IT - Sky Sport Max | Uefa Champions League Magazine 2026/2027 Ep | unknown | champions-league |
-| 20/11 23:00 | 20/11 23:30 | IT - Sky Sport Calcio | Uefa Champions League Magazine 2026/2027 Ep.11 16/11/2026 | unknown | champions-league |
-| 20/11 23:30 | 21/11 00:00 | IT - Sky Sport Calcio | Centrocampo Il Cuore Del Gioco | unknown |  |
 | 20/11 23:45 | 21/11 01:35 | IT - Sky Sport Max | FC Bayern Monaco - Colonia Bundesliga | unknown |  |
 | 21/11 00:00 | 21/11 04:00 | IT - Sky Sport 251 | Signing Off | unknown |  |
 | 21/11 00:00 | 21/11 04:00 | IT - Sky Sport 252 | Signing Off | unknown |  |

@@ -1,6 +1,6 @@
 # Programmazione calcio
 
-Ultima acquisizione riuscita: 2026-11-21T06:08:27.335305Z. Orari: Europe/Rome.
+Ultima acquisizione riuscita: 2026-11-21T07:27:11.800112Z. Orari: Europe/Rome.
 
 Solo Sky Calcio, Sky Sport, DAZN/Zona DAZN, TV8 e RAI secondo config.json.
 
@@ -21,20 +21,11 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 
 | Inizio | Fine | Canale | Programma | Tipo | Competizioni rilevate |
 | --- | --- | --- | --- | --- | --- |
-| 20/11 22:00 | 21/11 02:00 | IT - Sky Sport 253 | Signing Off | unknown |  |
-| 20/11 22:00 | 21/11 02:00 | IT - Sky Sport 254 | No Game Today | unknown |  |
-| 20/11 22:00 | 21/11 02:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
-| 20/11 22:00 | 21/11 02:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 20/11 22:00 | 21/11 02:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 20/11 22:00 | 21/11 02:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 20/11 22:00 | 21/11 02:00 | IT - Sky Sport 259 | No Game Today | unknown |  |
-| 20/11 23:45 | 21/11 01:35 | IT - Sky Sport Max | FC Bayern Monaco - Colonia Bundesliga | unknown |  |
-| 21/11 00:00 | 21/11 04:00 | IT - Sky Sport 251 | Signing Off | unknown |  |
-| 21/11 00:00 | 21/11 04:00 | IT - Sky Sport 252 | Signing Off | unknown |  |
-| 21/11 00:00 | 21/11 06:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
 | 21/11 01:00 | 21/11 02:00 | IT - Sky Sport Calcio | Bundesliga Matchplan Ep.9 20/11/2026 | unknown |  |
 | 21/11 01:00 | 21/11 03:50 | IT - Sky Sport Legend | Volley Femminile Cev Champions League 2020/2021 - Stag. -3 - Conegliano - Istanbul. Finale | unknown | champions-league |
-| 21/11 02:00 | 21/11 06:00 | IT - Sky Sport 253 | Signing Off | unknown |  |
+| 21/11 02:00 | 21/11 06:00 | IT - Sky Sport 251 | Next Game: Inter U23 - Potenza on 2026-11-21 at 08:00AM EST | unknown |  |
+| 21/11 02:00 | 21/11 06:00 | IT - Sky Sport 252 | Next Game: Treviso - Pergolettese on 2026-11-21 at 08:00AM EST | unknown |  |
+| 21/11 02:00 | 21/11 06:00 | IT - Sky Sport 253 | Next Game: Ostiamare - Atalanta U23 on 2026-11-21 at 08:00AM EST | unknown |  |
 | 21/11 02:00 | 21/11 06:00 | IT - Sky Sport 254 | Next Game: Monopoli - Cavese on 2026-11-21 at 08:00AM EST | unknown |  |
 | 21/11 02:00 | 21/11 06:00 | IT - Sky Sport 255 | Next Game: Audace Cerignola - Barletta on 2026-11-21 at 08:00AM EST | unknown |  |
 | 21/11 02:00 | 21/11 06:00 | IT - Sky Sport 256 | Next Game: Vado - Latina on 2026-11-21 at 08:00AM EST | unknown |  |
@@ -48,11 +39,11 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 21/11 03:00 | 21/11 03:30 | IT - Sky Sport Calcio | Nemanja Matic | unknown |  |
 | 21/11 03:30 | 21/11 04:00 | IT - Sky Sport Calcio | Premier League Preview | unknown |  |
 | 21/11 03:50 | 21/11 04:45 | IT - Sky Sport Legend | Ep. 3 | unknown |  |
-| 21/11 04:00 | 21/11 08:00 | IT - Sky Sport 251 | Signing Off | unknown |  |
-| 21/11 04:00 | 21/11 08:00 | IT - Sky Sport 252 | Signing Off | unknown |  |
 | 21/11 04:00 | 21/11 05:40 | IT - Sky Sport Calcio | Feyenoord - Inter | unknown |  |
 | 21/11 04:45 | 21/11 05:00 | IT - Sky Sport Legend | Kakà: tutti i gol in Champions League | unknown | champions-league |
-| 21/11 06:00 | 21/11 09:00 | IT - Sky Sport 253 | Signing Off | unknown |  |
+| 21/11 06:00 | 21/11 10:00 | IT - Sky Sport 251 | Next Game: Inter U23 - Potenza on 2026-11-21 at 08:00AM EST | unknown |  |
+| 21/11 06:00 | 21/11 10:00 | IT - Sky Sport 252 | Next Game: Treviso - Pergolettese on 2026-11-21 at 08:00AM EST | unknown |  |
+| 21/11 06:00 | 21/11 10:00 | IT - Sky Sport 253 | Next Game: Ostiamare - Atalanta U23 on 2026-11-21 at 08:00AM EST | unknown |  |
 | 21/11 06:00 | 21/11 10:00 | IT - Sky Sport 254 | Next Game: Monopoli - Cavese on 2026-11-21 at 08:00AM EST | unknown |  |
 | 21/11 06:00 | 21/11 10:00 | IT - Sky Sport 255 | Next Game: Audace Cerignola - Barletta on 2026-11-21 at 08:00AM EST | unknown |  |
 | 21/11 06:00 | 21/11 10:00 | IT - Sky Sport 256 | Next Game: Vado - Latina on 2026-11-21 at 08:00AM EST | unknown |  |
@@ -61,16 +52,16 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 21/11 06:00 | 21/11 10:00 | IT - Sky Sport 259 | Next Game: Bournemouth - Nottingham Forest on 2026-11-21 at 09:30AM EST | unknown |  |
 | 21/11 06:00 | 21/11 07:55 | IT - Sky Sport Calcio | FC Bayern Monaco - Colonia | unknown |  |
 | 21/11 06:00 | 21/11 12:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
+| 21/11 07:20 | 21/11 09:00 | IT - RAI Sport | Rugby: Serie A Elite maschile | unknown | serie-a |
+| 21/11 07:20 | 21/11 09:00 | IT - Rai Sport 1 | Rugby: Serie A Elite maschile | unknown | serie-a |
 | 21/11 07:55 | 21/11 08:25 | IT - Sky Sport Calcio | Nemanja Matic | unknown |  |
-| 21/11 08:00 | 21/11 09:00 | IT - Sky Sport 251 | Signing Off | unknown |  |
-| 21/11 08:00 | 21/11 09:00 | IT - Sky Sport 252 | Signing Off | unknown |  |
 | 21/11 08:00 | 21/11 09:47 | IT - ZONA DAZN | Roma - Inter | unknown | serie-a |
 | 21/11 08:25 | 21/11 10:20 | IT - Sky Sport Calcio | Belgio - Italia | unknown |  |
 | 21/11 08:30 | 21/11 10:15 | IT - Sky Sport 4K | Inter - Como | unknown |  |
-| 21/11 09:00 | 21/11 13:00 | IT - Sky Sport 251 | Next Game: Inter U23 - Potenza on 2026-11-21 at 08:00AM EST | unknown |  |
-| 21/11 09:00 | 21/11 13:00 | IT - Sky Sport 252 | Next Game: Treviso - Pergolettese on 2026-11-21 at 08:00AM EST | unknown |  |
-| 21/11 09:00 | 21/11 13:00 | IT - Sky Sport 253 | Next Game: Ostiamare - Atalanta U23 on 2026-11-21 at 08:00AM EST | unknown |  |
 | 21/11 09:25 | 21/11 10:25 | IT - Sky Sport Max | Bundesliga Matchplan Ep.9 20/11/2026 Bundesliga Matchplan | unknown |  |
+| 21/11 10:00 | 21/11 14:00 | IT - Sky Sport 251 | Next Game: Inter U23 - Potenza on 2026-11-21 at 08:00AM EST | unknown |  |
+| 21/11 10:00 | 21/11 14:00 | IT - Sky Sport 252 | Next Game: Treviso - Pergolettese on 2026-11-21 at 08:00AM EST | unknown |  |
+| 21/11 10:00 | 21/11 14:00 | IT - Sky Sport 253 | Next Game: Ostiamare - Atalanta U23 on 2026-11-21 at 08:00AM EST | unknown |  |
 | 21/11 10:00 | 21/11 14:00 | IT - Sky Sport 254 | Next Game: Monopoli - Cavese on 2026-11-21 at 08:00AM EST | unknown |  |
 | 21/11 10:00 | 21/11 14:00 | IT - Sky Sport 255 | Next Game: Audace Cerignola - Barletta on 2026-11-21 at 08:00AM EST | unknown |  |
 | 21/11 10:00 | 21/11 14:00 | IT - Sky Sport 256 | Next Game: Vado - Latina on 2026-11-21 at 08:00AM EST | unknown |  |
@@ -79,23 +70,18 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 21/11 10:00 | 21/11 14:00 | IT - Sky Sport 259 | Next Game: Bournemouth - Nottingham Forest on 2026-11-21 at 09:30AM EST | unknown |  |
 | 21/11 10:15 | 21/11 12:05 | IT - Sky Sport 4K | Milan - Ferencváros | unknown |  |
 | 21/11 10:20 | 21/11 10:35 | IT - Sky Sport Calcio | Ep.28 | unknown |  |
-| 21/11 10:32 | 21/11 12:15 | IT - ZONA DAZN | Venezia - Fiorentina | unknown | serie-a |
 | 21/11 10:35 | 21/11 12:25 | IT - Sky Sport Calcio | FC Bayern Monaco - Colonia | unknown |  |
+| 21/11 10:42 | 21/11 12:25 | IT - ZONA DAZN | Venezia - Fiorentina | unknown | serie-a |
 | 21/11 10:50 | 21/11 11:20 | IT - Sky Sport Max | Uefa Champions League Magazine 2026/2027 Ep | unknown | champions-league |
-| 21/11 12:00 | 21/11 13:55 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 21/11 12:15 | 21/11 12:25 | IT - ZONA DAZN | Bordocam Napoli - Como 2026/27 | unknown |  |
+| 21/11 12:00 | 21/11 14:45 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
 | 21/11 12:25 | 21/11 12:55 | IT - Sky Sport Calcio | Noir Marsigliese | unknown |  |
-| 21/11 12:25 | 21/11 14:22 | IT - ZONA DAZN | Parma - Napoli | live | serie-a |
+| 21/11 12:25 | 21/11 14:30 | IT - ZONA DAZN | Parma - Napoli | live | serie-a |
 | 21/11 12:55 | 21/11 13:25 | IT - Sky Sport Calcio | Uefa Champions League Magazine 2026/2027 Ep.11 16/11/2026 | unknown | champions-league |
-| 21/11 13:00 | 21/11 14:00 | IT - Sky Sport 251 | Next Game: Inter U23 - Potenza on 2026-11-21 at 08:00AM EST | unknown |  |
-| 21/11 13:00 | 21/11 14:00 | IT - Sky Sport 252 | Next Game: Treviso - Pergolettese on 2026-11-21 at 08:00AM EST | unknown |  |
-| 21/11 13:00 | 21/11 14:00 | IT - Sky Sport 253 | Next Game: Ostiamare - Atalanta U23 on 2026-11-21 at 08:00AM EST | unknown |  |
 | 21/11 13:25 | 21/11 15:25 | IT - Sky Sport 4K | Manchester City - Fulham | live |  |
 | 21/11 13:25 | 21/11 15:30 | IT - Sky Sport Calcio | Manchester City - Fulham | live |  |
 | 21/11 13:30 | 21/11 15:55 | IT - Sky Sport 257 | Liverpool - Chelsea | live |  |
 | 21/11 13:45 | 21/11 14:10 | IT - Sky Sport Arena | Noir Marsigliese | unknown |  |
 | 21/11 13:45 | 21/11 15:00 | IT - Sky Sport Max | Pro Recco - Brescia LEN Champions League | unknown | champions-league |
-| 21/11 13:55 | 21/11 17:00 | IT - ZONA DAZN 2 | Como - Cagliari | live | serie-a |
 | 21/11 14:00 | 21/11 17:25 | IT - Sky Sport 251 | Inter U23 - Potenza | live |  |
 | 21/11 14:00 | 21/11 17:25 | IT - Sky Sport 252 | Treviso - Pergolettese | live |  |
 | 21/11 14:00 | 21/11 17:25 | IT - Sky Sport 253 | Ostiamare - Atalanta U23 | live |  |
@@ -105,8 +91,8 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 21/11 14:00 | 21/11 15:30 | IT - Sky Sport 258 | Next Game: Aston Villa - Sunderland on 2026-11-21 at 09:30AM EST | unknown |  |
 | 21/11 14:00 | 21/11 15:30 | IT - Sky Sport 259 | Next Game: Bournemouth - Nottingham Forest on 2026-11-21 at 09:30AM EST | unknown |  |
 | 21/11 14:10 | 21/11 14:25 | IT - Sky Sport Arena | Ep.28 | unknown |  |
-| 21/11 14:22 | 21/11 15:00 | IT - ZONA DAZN | Bordocam Inter - Monza 2026/27 | unknown |  |
-| 21/11 15:00 | 21/11 17:11 | IT - ZONA DAZN | Lazio - Lecce | live | serie-a |
+| 21/11 14:30 | 21/11 17:00 | IT - ZONA DAZN | Lazio - Lecce | live | serie-a |
+| 21/11 14:45 | 21/11 17:00 | IT - ZONA DAZN 2 | Como - Cagliari | live | serie-a |
 | 21/11 15:25 | 21/11 15:55 | IT - Sky Sport 4K | Manchester United - Roma | unknown | champions-league |
 | 21/11 15:30 | 21/11 21:00 | IT - Sky Sport | Aston Villa - Sunderland | live |  |
 | 21/11 15:30 | 21/11 21:00 | IT - Sky Sport 258 | Aston Villa - Sunderland | live |  |
@@ -115,9 +101,9 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 21/11 15:55 | 21/11 21:00 | IT - Sky Sport 257 | Tottenham - Ipswich | live |  |
 | 21/11 15:55 | 21/11 17:55 | IT - Sky Sport 4K | Chelsea - Leeds United | live |  |
 | 21/11 15:55 | 21/11 18:00 | IT - Sky Sport Calcio | Chelsea - Leeds United | live |  |
+| 21/11 17:00 | 21/11 20:52 | IT - ZONA DAZN | Parma - Roma | live | serie-a |
 | 21/11 17:00 | 21/11 18:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
 | 21/11 17:05 | 21/11 17:35 | IT - Sky Sport Legend | Batistuta | unknown |  |
-| 21/11 17:11 | 21/11 18:00 | IT - ZONA DAZN | Inter: Tutti i gol della stagione 25-26 | unknown |  |
 | 21/11 17:25 | 21/11 20:00 | IT - Sky Sport 251 | Pineto - Pescara | live |  |
 | 21/11 17:25 | 21/11 21:00 | IT - Sky Sport 252 | Giana Erminio - Juve Next Gen | live |  |
 | 21/11 17:25 | 21/11 21:00 | IT - Sky Sport 253 | Campobasso - Vis Pesaro | live |  |
@@ -127,21 +113,19 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 21/11 17:35 | 21/11 19:25 | IT - Sky Sport Legend | Inter - Lazio 1998 | unknown |  |
 | 21/11 17:55 | 21/11 18:25 | IT - Sky Sport 4K | AZ - Juventus | unknown |  |
 | 21/11 18:00 | 21/11 18:25 | IT - Sky Sport Calcio | Noir Marsigliese | unknown |  |
-| 21/11 18:00 | 21/11 20:11 | IT - ZONA DAZN | Parma - Roma | live | serie-a |
 | 21/11 18:00 | 22/11 00:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
 | 21/11 18:25 | 21/11 20:25 | IT - Sky Sport 4K | Newcastle - Arsenal | live |  |
 | 21/11 18:25 | 21/11 20:30 | IT - Sky Sport Calcio | Newcastle - Arsenal | live |  |
 | 21/11 19:25 | 21/11 20:10 | IT - Sky Sport Legend | Forti come un leone | unknown |  |
 | 21/11 20:00 | 22/11 00:30 | IT - Sky Sport 251 | Napoli - Torino | live | serie-a |
 | 21/11 20:10 | 21/11 21:00 | IT - Sky Sport Legend | Ep.2 | unknown |  |
-| 21/11 20:11 | 21/11 20:45 | IT - ZONA DAZN | Ezequiel Lavezzi | unknown |  |
 | 21/11 20:20 | 21/11 23:00 | IT - RAI Sport | Pallavolo: Serie A Femminile | unknown | serie-a |
 | 21/11 20:20 | 21/11 23:00 | IT - Rai Sport 1 | Pallavolo: Serie A Femminile | unknown | serie-a |
 | 21/11 20:25 | 21/11 20:40 | IT - Sky Sport 4K | Lens - Como | unknown |  |
 | 21/11 20:30 | 21/11 20:40 | IT - Sky Sport Calcio | Sky Saturday Night | live | serie-a |
 | 21/11 20:40 | 21/11 22:45 | IT - Sky Sport 4K | Napoli - Torino | live |  |
 | 21/11 20:40 | 21/11 22:45 | IT - Sky Sport Calcio | Napoli - Torino | live |  |
-| 21/11 20:45 | 21/11 22:38 | IT - ZONA DAZN | Real Madrid - Celta Vigo | live |  |
+| 21/11 20:52 | 21/11 23:01 | IT - ZONA DAZN | Real Madrid - Celta Vigo | live |  |
 | 21/11 21:00 | 22/11 01:00 | IT - Sky Sport 252 | Signing Off | unknown |  |
 | 21/11 21:00 | 22/11 01:00 | IT - Sky Sport 253 | Signing Off | unknown |  |
 | 21/11 21:00 | 22/11 01:00 | IT - Sky Sport 254 | Signing Off | unknown |  |
@@ -169,8 +153,8 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 22/11 01:00 | 22/11 05:00 | IT - Sky Sport 258 | Signing Off | unknown |  |
 | 22/11 01:10 | 22/11 01:30 | IT - Sky Sport Legend | Tutti i gol di Del Piero in Champions | unknown | champions-league |
 | 22/11 02:30 | 22/11 03:00 | IT - Sky Sport Calcio | Uefa Champions League Magazine 2026/2027 Ep.11 16/11/2026 | unknown | champions-league |
-| 22/11 02:45 | 22/11 04:45 | IT - Sky Sport Legend | Milan - Liverpool 2007 | unknown | champions-league |
 | 22/11 03:00 | 22/11 03:30 | IT - Sky Sport Calcio | Europa E Conference League Remix Ep.4 06/11/2026 | unknown |  |
+| 22/11 03:10 | 22/11 05:00 | IT - Sky Sport Legend | Milan - Liverpool 2007 | unknown | champions-league |
 | 22/11 03:30 | 22/11 05:30 | IT - Sky Sport Calcio | Schalke 04 - VfB Stoccarda | unknown |  |
 | 22/11 04:30 | 22/11 08:30 | IT - Sky Sport 251 | Signing Off | unknown |  |
 | 22/11 05:00 | 22/11 09:00 | IT - Sky Sport 252 | Signing Off | unknown |  |
@@ -182,12 +166,11 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 22/11 05:00 | 22/11 09:00 | IT - Sky Sport 258 | Signing Off | unknown |  |
 | 22/11 05:30 | 22/11 05:45 | IT - Sky Sport Calcio | Kakà: tutti i gol in Champions League | unknown | champions-league |
 | 22/11 05:45 | 22/11 06:00 | IT - Sky Sport Calcio | Tutti i gol di Henry nelle Coppe Europee | unknown |  |
-| 22/11 05:45 | 22/11 06:00 | IT - Sky Sport Legend | La dinastia di Sir Alex | unknown |  |
 | 22/11 06:00 | 22/11 08:00 | IT - Sky Sport Calcio | Napoli - Torino | unknown |  |
 | 22/11 06:00 | 22/11 07:00 | IT - Sky Sport Legend | Il Processo del 27 Febbraio 1995 | unknown |  |
 | 22/11 06:00 | 22/11 12:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
 | 22/11 07:00 | 22/11 07:45 | IT - Sky Sport Legend | Parte 1 | unknown |  |
-| 22/11 07:45 | 22/11 08:30 | IT - Sky Sport Legend | Parte 2 | unknown |  |
+| 22/11 07:45 | 22/11 08:35 | IT - Sky Sport Legend | Parte 2 | unknown |  |
 | 22/11 08:00 | 22/11 09:45 | IT - Sky Sport Calcio | Manchester City - Fulham | unknown |  |
 | 22/11 08:00 | 22/11 09:44 | IT - ZONA DAZN | Venezia - Fiorentina | unknown | serie-a |
 | 22/11 08:30 | 22/11 09:00 | IT - Sky Sport 251 | Signing Off | unknown |  |
@@ -200,96 +183,91 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 22/11 09:00 | 22/11 12:00 | IT - Sky Sport 257 | Next Game: Scafatese - Foggia on 2026-11-22 at 06:00AM EST | unknown |  |
 | 22/11 09:00 | 22/11 12:00 | IT - Sky Sport 258 | Next Game: Pro Vercelli - Novara on 2026-11-22 at 06:00AM EST | unknown |  |
 | 22/11 09:45 | 22/11 10:00 | IT - Sky Sport Calcio | Ep.28 | unknown |  |
-| 22/11 10:00 | 22/11 12:00 | IT - Sky Sport Calcio | Napoli - Torino | unknown |  |
+| 22/11 10:00 | 22/11 11:55 | IT - Sky Sport Calcio | Napoli - Torino | unknown |  |
 | 22/11 10:15 | 22/11 12:00 | IT - Sky Sport 4K | Napoli - Torino | unknown |  |
-| 22/11 10:34 | 22/11 12:15 | IT - ZONA DAZN | Sassuolo - Juventus | unknown | serie-a |
+| 22/11 10:35 | 22/11 11:08 | IT - ZONA DAZN | Bordocam Inter - Napoli 2026/27 | unknown |  |
+| 22/11 11:08 | 22/11 11:45 | IT - ZONA DAZN | Ezequiel Lavezzi | unknown |  |
+| 22/11 11:45 | 22/11 14:30 | IT - ZONA DAZN | Juventus - Venezia | live | serie-a |
+| 22/11 11:55 | 22/11 12:20 | IT - Sky Sport Calcio | Noir Marsigliese | unknown |  |
 | 22/11 12:00 | 22/11 16:00 | IT - Sky Sport | Pro Vercelli - Novara | live |  |
 | 22/11 12:00 | 22/11 14:55 | IT - Sky Sport 252 | Union Brescia - Renate | live |  |
 | 22/11 12:00 | 22/11 16:00 | IT - Sky Sport 257 | Scafatese - Foggia | live |  |
 | 22/11 12:00 | 22/11 16:00 | IT - Sky Sport 258 | Pro Vercelli - Novara | live |  |
-| 22/11 12:00 | 22/11 14:00 | IT - Sky Sport 4K | Milan - Ferencváros | unknown |  |
-| 22/11 12:00 | 22/11 12:30 | IT - Sky Sport Calcio | Noir Marsigliese | unknown |  |
-| 22/11 12:00 | 22/11 15:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 22/11 12:15 | 22/11 12:31 | IT - ZONA DAZN | Bordocam Napoli - Como 2026/27 | unknown |  |
-| 22/11 12:30 | 22/11 14:30 | IT - Sky Sport Calcio | Union Brescia - Renate | live |  |
-| 22/11 12:30 | 22/11 14:30 | IT - Sky Sport Max | Scafatese - Foggia Serie C (Diretta) | live |  |
-| 22/11 12:31 | 22/11 14:42 | IT - ZONA DAZN | Juventus - Venezia | live | serie-a |
+| 22/11 12:00 | 22/11 13:55 | IT - Sky Sport 4K | Milan - Ferencváros | unknown |  |
+| 22/11 12:00 | 22/11 14:45 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
+| 22/11 12:20 | 22/11 14:30 | IT - Sky Sport Calcio | Union Brescia - Renate | live |  |
+| 22/11 12:20 | 22/11 14:20 | IT - Sky Sport Max | Scafatese - Foggia Serie C (Diretta) | live |  |
 | 22/11 13:00 | 22/11 14:00 | IT - Sky Sport 251 | Next Game: Torres - Spezia on 2026-11-22 at 08:00AM EST | unknown |  |
 | 22/11 13:00 | 22/11 14:00 | IT - Sky Sport 253 | Next Game: Livorno - Ravenna on 2026-11-22 at 08:00AM EST | unknown |  |
 | 22/11 13:00 | 22/11 14:00 | IT - Sky Sport 254 | Next Game: Altamura - Casarano on 2026-11-22 at 08:00AM EST | unknown |  |
 | 22/11 13:00 | 22/11 14:00 | IT - Sky Sport 255 | Next Game: Pianese - Gubbio on 2026-11-22 at 08:00AM EST | unknown |  |
 | 22/11 13:00 | 22/11 14:00 | IT - Sky Sport 256 | Next Game: Alcione Milano - Ospitaletto on 2026-11-22 at 08:00AM EST | unknown |  |
-| 22/11 13:30 | 22/11 14:00 | IT - Sky Sport Arena | Noir Marsigliese | unknown |  |
+| 22/11 13:35 | 22/11 14:00 | IT - Sky Sport Arena | Noir Marsigliese | unknown |  |
 | 22/11 14:00 | 22/11 17:00 | IT - Sky Sport 251 | Torres - Spezia | live |  |
 | 22/11 14:00 | 22/11 17:25 | IT - Sky Sport 253 | Livorno - Ravenna | live |  |
 | 22/11 14:00 | 22/11 17:25 | IT - Sky Sport 254 | Altamura - Casarano | live |  |
 | 22/11 14:00 | 22/11 17:25 | IT - Sky Sport 255 | Pianese - Gubbio | live |  |
 | 22/11 14:00 | 22/11 17:25 | IT - Sky Sport 256 | Alcione Milano - Ospitaletto | live |  |
-| 22/11 14:42 | 22/11 14:59 | IT - ZONA DAZN | La visione di Spalletti | unknown |  |
-| 22/11 14:45 | 22/11 15:00 | IT - Sky Sport Arena | Programmazione non disponibile | unknown |  |
-| 22/11 14:45 | 22/11 15:00 | IT - Sky Sport Calcio | Programmazione non disponibile | unknown |  |
+| 22/11 14:30 | 22/11 16:58 | IT - ZONA DAZN | Bologna - Udinese | live | serie-a |
+| 22/11 14:40 | 22/11 14:50 | IT - Sky Sport Calcio | Programmazione non disponibile | unknown |  |
+| 22/11 14:45 | 22/11 14:55 | IT - Sky Sport Arena | Programmazione non disponibile | unknown |  |
 | 22/11 14:45 | 22/11 17:30 | IT - Sky Sport Legend | Volley Femminile Cev Champions League 2020/2021 - Stag. -3 - Conegliano - Istanbul. Finale | unknown | champions-league |
+| 22/11 14:45 | 22/11 17:00 | IT - ZONA DAZN 2 | Sassuolo - Genoa | live | serie-a |
+| 22/11 14:50 | 22/11 17:00 | IT - Sky Sport Calcio | Catania - Bari | live |  |
 | 22/11 14:55 | 22/11 17:25 | IT - Sky Sport 252 | Catania - Bari | live |  |
-| 22/11 14:59 | 22/11 16:50 | IT - ZONA DAZN | Bologna - Udinese | live | serie-a |
+| 22/11 14:55 | 22/11 17:00 | IT - Sky Sport 4K | Hull City - Brighton | live |  |
+| 22/11 14:55 | 22/11 16:55 | IT - Sky Sport Arena | Hull City - Brighton | live |  |
 | 22/11 15:00 | 22/11 15:30 | IT - Sky Sport24 | La Casa Dello Sport... (Diretta) Prepartita Serie A | live | serie-a |
-| 22/11 15:00 | 22/11 17:00 | IT - Sky Sport 4K | Hull City - Brighton | live |  |
-| 22/11 15:00 | 22/11 17:00 | IT - Sky Sport Arena | Hull City - Brighton | live |  |
-| 22/11 15:00 | 22/11 17:00 | IT - Sky Sport Calcio | Catania - Bari | live |  |
-| 22/11 15:00 | 22/11 17:00 | IT - ZONA DAZN 2 | Sassuolo - Genoa | live | serie-a |
-| 22/11 15:30 | 22/11 17:30 | IT - Sky Sport Max | Augsburg - Mainz Bundesliga (Diretta) | live |  |
+| 22/11 15:25 | 22/11 17:20 | IT - Sky Sport Max | Augsburg - Mainz Bundesliga (Diretta) | live |  |
 | 22/11 16:00 | 22/11 20:00 | IT - Sky Sport 257 | Signing Off | unknown |  |
 | 22/11 16:00 | 22/11 20:00 | IT - Sky Sport 258 | Signing Off | unknown |  |
+| 22/11 16:55 | 22/11 17:25 | IT - Sky Sport Arena | Noir Marsigliese | unknown |  |
 | 22/11 17:00 | 22/11 21:00 | IT - Sky Sport 251 | Milan - Frosinone | live | serie-a |
-| 22/11 17:00 | 22/11 18:00 | IT - Sky Sport 4K | Sky Sunday Football Prepartita | live | serie-a |
-| 22/11 17:00 | 22/11 17:30 | IT - Sky Sport Arena | Noir Marsigliese | unknown |  |
-| 22/11 17:00 | 22/11 18:00 | IT - Sky Sport Calcio | Sky Sunday Football Prepartita | live | serie-a |
+| 22/11 17:00 | 22/11 17:55 | IT - Sky Sport 4K | Sky Sunday Football Prepartita | live | serie-a |
+| 22/11 17:00 | 22/11 17:55 | IT - Sky Sport Calcio | Sky Sunday Football Prepartita | live | serie-a |
 | 22/11 17:00 | 22/11 18:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
 | 22/11 17:25 | 22/11 21:00 | IT - Sky Sport 252 | Sambenedettese - Perugia | live |  |
 | 22/11 17:25 | 22/11 21:00 | IT - Sky Sport 253 | Forlì - Reggiana | live |  |
 | 22/11 17:25 | 22/11 21:00 | IT - Sky Sport 254 | Picerno - Giugliano | live |  |
 | 22/11 17:25 | 22/11 21:00 | IT - Sky Sport 255 | Dolomiti Bellunesi - Carpi | live |  |
 | 22/11 17:25 | 22/11 21:00 | IT - Sky Sport 256 | Desenzano - AlbinoLeffe | live |  |
-| 22/11 17:30 | 22/11 19:30 | IT - Sky Sport Arena | Liverpool - Manchester United | live |  |
+| 22/11 17:25 | 22/11 19:30 | IT - Sky Sport Arena | Liverpool - Manchester United | live |  |
 | 22/11 17:50 | 22/11 20:30 | IT - RAI Sport | Pallavolo: Serie A Maschile | unknown | serie-a |
 | 22/11 17:50 | 22/11 20:30 | IT - Rai Sport 1 | Pallavolo: Serie A Maschile | unknown | serie-a |
-| 22/11 18:00 | 22/11 20:00 | IT - Sky Sport 4K | Milan - Frosinone | live |  |
-| 22/11 18:00 | 22/11 20:00 | IT - Sky Sport Calcio | Milan - Frosinone | live |  |
-| 22/11 18:00 | 22/11 18:15 | IT - Sky Sport NBA | Ep. 112 Studio Basket Serie A (Diretta) | live | serie-a |
+| 22/11 17:55 | 22/11 20:00 | IT - Sky Sport 4K | Milan - Frosinone | live |  |
+| 22/11 17:55 | 22/11 20:00 | IT - Sky Sport Calcio | Milan - Frosinone | live |  |
+| 22/11 18:00 | 22/11 18:05 | IT - Sky Sport NBA | Ep. 112 Studio Basket Serie A (Diretta) | live | serie-a |
 | 22/11 18:00 | 23/11 00:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
 | 22/11 18:30 | 22/11 20:30 | IT - Sky Sport Legend | Roma - Feyenoord | unknown |  |
-| 22/11 19:05 | 22/11 19:56 | IT - ZONA DAZN | 10a g | unknown | serie-a |
-| 22/11 19:56 | 22/11 20:32 | IT - ZONA DAZN | Ezequiel Lavezzi | unknown |  |
+| 22/11 19:15 | 22/11 19:30 | IT - ZONA DAZN | Bordocam Lazio - Milan 2026/27 | unknown |  |
+| 22/11 19:30 | 23/11 01:00 | IT - ZONA DAZN | Atalanta - Inter | live | serie-a |
 | 22/11 20:00 | 22/11 20:45 | IT - Sky Sport24 | Anteprima Sky Calcio Club Anteprima Sky Calcio Club | unknown |  |
 | 22/11 20:00 | 23/11 00:00 | IT - Sky Sport 257 | Signing Off | unknown |  |
 | 22/11 20:00 | 23/11 00:00 | IT - Sky Sport 258 | Signing Off | unknown |  |
 | 22/11 20:00 | 22/11 20:45 | IT - Sky Sport 4K | Ep.99 | live |  |
-| 22/11 20:00 | 22/11 20:45 | IT - Sky Sport Calcio | Ep.99 | live |  |
-| 22/11 20:32 | 22/11 22:43 | IT - ZONA DAZN | Atalanta - Inter | live | serie-a |
-| 22/11 20:45 | 22/11 22:30 | IT - Sky Sport Calcio | Liverpool - Manchester United | unknown |  |
+| 22/11 20:00 | 22/11 20:40 | IT - Sky Sport Calcio | Ep.99 | live |  |
+| 22/11 20:40 | 22/11 22:30 | IT - Sky Sport Calcio | Liverpool - Manchester United | unknown |  |
 | 22/11 21:00 | 23/11 01:00 | IT - Sky Sport 251 | Signing Off | unknown |  |
 | 22/11 21:00 | 23/11 01:00 | IT - Sky Sport 252 | Signing Off | unknown |  |
 | 22/11 21:00 | 23/11 01:00 | IT - Sky Sport 253 | Signing Off | unknown |  |
 | 22/11 21:00 | 23/11 01:00 | IT - Sky Sport 254 | Signing Off | unknown |  |
 | 22/11 21:00 | 23/11 01:00 | IT - Sky Sport 255 | Signing Off | unknown |  |
 | 22/11 21:00 | 23/11 01:00 | IT - Sky Sport 256 | Signing Off | unknown |  |
-| 22/11 21:45 | 22/11 23:30 | IT - Sky Sport 4K | Milan - Frosinone | unknown |  |
-| 22/11 22:00 | 22/11 23:00 | IT - Sky Sport Legend | La maledizione | unknown |  |
+| 22/11 21:45 | 22/11 23:35 | IT - Sky Sport 4K | Milan - Frosinone | unknown |  |
+| 22/11 22:05 | 22/11 23:00 | IT - Sky Sport Legend | La maledizione | unknown |  |
 | 22/11 22:30 | 22/11 22:45 | IT - Sky Sport Calcio | Ep.28 | unknown |  |
 | 22/11 22:30 | 23/11 00:15 | IT - Sky Sport Max | Milan - Frosinone Serie A | unknown | serie-a |
-| 22/11 22:43 | 22/11 23:05 | IT - ZONA DAZN | Bordocam Roma - Inter 2026/27 | unknown |  |
 | 22/11 22:45 | 23/11 00:00 | IT - Sky Sport24 | Sky Calcio Club | unknown |  |
 | 22/11 22:45 | 23/11 00:00 | IT - Sky Sport Calcio | Sky Calcio Club | live | serie-a |
 | 22/11 23:00 | 23/11 01:00 | IT - Sky Sport Legend | Milan - Liverpool 2007 | unknown | champions-league |
-| 22/11 23:05 | 22/11 23:20 | IT - ZONA DAZN | Bordocam Lazio - Milan 2026/27 | unknown |  |
-| 22/11 23:30 | 23/11 01:15 | IT - Sky Sport 4K | Napoli - Torino | unknown |  |
-| 22/11 23:37 | 23/11 00:30 | IT - ZONA DAZN | Bordocam Inter - Napoli 2026/27 | unknown |  |
+| 22/11 23:35 | 23/11 01:20 | IT - Sky Sport 4K | Napoli - Torino | unknown |  |
 | 23/11 00:00 | 23/11 00:30 | IT - Sky Sport24 | Sky Calcio Club Senza Giacca ( diretta ) | live |  |
 | 23/11 00:00 | 23/11 04:00 | IT - Sky Sport 257 | Signing Off | unknown |  |
 | 23/11 00:00 | 23/11 04:00 | IT - Sky Sport 258 | Signing Off | unknown |  |
 | 23/11 00:00 | 23/11 00:30 | IT - Sky Sport Calcio | Sky Calcio Club Senza Giacca (Diretta) | live |  |
 | 23/11 00:00 | 23/11 06:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
 | 23/11 00:30 | 23/11 01:00 | IT - Sky Sport Calcio | Noir Marsigliese | unknown |  |
-| 23/11 00:30 | 23/11 02:00 | IT - Sky Sport Max | Pro Recco - Brescia LEN Champions League | unknown | champions-league |
+| 23/11 00:35 | 23/11 02:00 | IT - Sky Sport Max | Pro Recco - Brescia LEN Champions League | unknown | champions-league |
 | 23/11 00:40 | 23/11 02:50 | IT - RAI Sport | Serie A Women Athora | unknown | serie-a |
 | 23/11 00:40 | 23/11 02:50 | IT - Rai Sport 1 | Serie A Women Athora | unknown | serie-a |
 | 23/11 01:00 | 23/11 05:00 | IT - Sky Sport 251 | Signing Off | unknown |  |
@@ -300,16 +278,16 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 23/11 01:00 | 23/11 05:00 | IT - Sky Sport 256 | Signing Off | unknown |  |
 | 23/11 01:30 | 23/11 02:00 | IT - Sky Sport Calcio | Milan - Frosinone | unknown |  |
 | 23/11 02:00 | 23/11 03:45 | IT - Sky Sport Calcio | Napoli - Torino | unknown |  |
-| 23/11 02:00 | 23/11 05:00 | IT - Sky Sport Max | Schalke 04 - VfB Stoccarda Bundesliga | unknown |  |
+| 23/11 02:00 | 23/11 04:55 | IT - Sky Sport Max | Schalke 04 - VfB Stoccarda Bundesliga | unknown |  |
 | 23/11 02:50 | 23/11 05:30 | IT - RAI Sport | Pallavolo: Serie A Maschile | unknown | serie-a |
 | 23/11 02:50 | 23/11 05:30 | IT - Rai Sport 1 | Pallavolo: Serie A Maschile | unknown | serie-a |
 | 23/11 03:00 | 23/11 04:45 | IT - Sky Sport Legend | Bayern M. - Inter 2010 | unknown | champions-league |
 | 23/11 03:15 | 23/11 05:00 | IT - Sky Sport 4K | Milan - Frosinone | unknown |  |
-| 23/11 03:30 | 23/11 05:30 | IT - Sky Sport NBA | Tezenis Verona - Udine Lega Basket Serie A | unknown | serie-a |
-| 23/11 03:45 | 23/11 04:00 | IT - Sky Sport Calcio | Kakà: tutti i gol in Champions League | unknown | champions-league |
+| 23/11 03:30 | 23/11 05:30 | IT - Sky Sport NBA | Tezenis Verona - Udine Serie A Basket | unknown | serie-a |
+| 23/11 03:45 | 23/11 04:05 | IT - Sky Sport Calcio | Kakà: tutti i gol in Champions League | unknown | champions-league |
 | 23/11 04:00 | 23/11 08:00 | IT - Sky Sport 257 | Signing Off | unknown |  |
 | 23/11 04:00 | 23/11 08:00 | IT - Sky Sport 258 | Signing Off | unknown |  |
-| 23/11 04:00 | 23/11 06:00 | IT - Sky Sport Calcio | Werder Brema - Amburgo SV | unknown |  |
+| 23/11 04:05 | 23/11 06:00 | IT - Sky Sport Calcio | Werder Brema - Amburgo SV | unknown |  |
 | 23/11 05:00 | 23/11 09:00 | IT - Sky Sport 251 | Signing Off | unknown |  |
 | 23/11 05:00 | 23/11 09:00 | IT - Sky Sport 252 | Signing Off | unknown |  |
 | 23/11 05:00 | 23/11 09:00 | IT - Sky Sport 253 | Signing Off | unknown |  |
@@ -319,16 +297,16 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 23/11 06:00 | 23/11 08:00 | IT - Sky Sport Calcio | Milan - Frosinone | unknown |  |
 | 23/11 06:00 | 23/11 06:45 | IT - Sky Sport Legend | Forti come un leone | unknown |  |
 | 23/11 06:00 | 23/11 12:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
+| 23/11 06:30 | 23/11 08:30 | IT - Sky Sport NBA | Tezenis Verona - Udine Serie A Basket | unknown | serie-a |
 | 23/11 06:45 | 23/11 07:30 | IT - Sky Sport Legend | Ep.2 | unknown |  |
 | 23/11 07:30 | 23/11 08:15 | IT - Sky Sport Legend | Ep.3 | unknown |  |
 | 23/11 08:00 | 23/11 09:00 | IT - Sky Sport 257 | Signing Off | unknown |  |
 | 23/11 08:00 | 23/11 09:00 | IT - Sky Sport 258 | Signing Off | unknown |  |
 | 23/11 08:00 | 23/11 09:45 | IT - Sky Sport 4K | Milan - Frosinone | unknown |  |
-| 23/11 08:00 | 23/11 10:00 | IT - Sky Sport Arena | Bertram Derthona Tortona - EA7 Emporio Armani Milano | unknown | serie-a |
 | 23/11 08:00 | 23/11 08:30 | IT - Sky Sport Calcio | Noir Marsigliese | unknown |  |
 | 23/11 08:00 | 23/11 09:47 | IT - ZONA DAZN | Lazio - Lecce | unknown | serie-a |
-| 23/11 08:15 | 23/11 08:45 | IT - Sky Sport Legend | Totti | unknown |  |
-| 23/11 08:45 | 23/11 09:45 | IT - Sky Sport Legend | Ep. 1 | unknown |  |
+| 23/11 08:15 | 23/11 08:40 | IT - Sky Sport Legend | Totti | unknown |  |
+| 23/11 08:40 | 23/11 09:40 | IT - Sky Sport Legend | Ep. 1 | unknown |  |
 | 23/11 09:00 | 23/11 13:00 | IT - Sky Sport 251 | Next Game: Monza - Fiorentina on 2026-11-23 at 02:00PM EST | unknown |  |
 | 23/11 09:00 | 23/11 13:00 | IT - Sky Sport 252 | Next Game: Grosseto - Guidonia Montecelio on 2026-11-23 at 02:00PM EST | unknown |  |
 | 23/11 09:00 | 23/11 13:00 | IT - Sky Sport 253 | Next Game: Lecco - Lumezzane on 2026-11-23 at 02:15PM EST | unknown |  |
@@ -338,13 +316,17 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 23/11 09:00 | 23/11 13:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
 | 23/11 09:00 | 23/11 13:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
 | 23/11 09:00 | 23/11 10:45 | IT - Sky Sport Calcio | Werder Brema - Amburgo SV | unknown |  |
-| 23/11 09:45 | 23/11 11:30 | IT - Sky Sport 4K | Napoli - Torino | unknown |  |
-| 23/11 09:45 | 23/11 12:15 | IT - Sky Sport Legend | Bayern M. - Chelsea 2012 | unknown | champions-league |
+| 23/11 09:30 | 23/11 11:20 | IT - Sky Sport Max | Liverpool - Manchester United Premier League | unknown |  |
+| 23/11 09:40 | 23/11 12:15 | IT - Sky Sport Legend | Bayern M. - Chelsea 2012 | unknown | champions-league |
+| 23/11 09:45 | 23/11 11:25 | IT - Sky Sport 4K | Napoli - Torino | unknown |  |
 | 23/11 10:17 | 23/11 12:03 | IT - ZONA DAZN | Bologna - Udinese | unknown | serie-a |
 | 23/11 10:45 | 23/11 12:30 | IT - Sky Sport Calcio | Hull City - Brighton | unknown |  |
+| 23/11 11:25 | 23/11 14:05 | IT - RAI Sport | Pallavolo: Serie A Maschile | unknown | serie-a |
+| 23/11 11:25 | 23/11 14:05 | IT - Rai Sport 1 | Pallavolo: Serie A Maschile | unknown | serie-a |
 | 23/11 12:00 | 23/11 18:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
 | 23/11 12:30 | 23/11 13:30 | IT - Sky Sport Calcio | Ep.14 | unknown | serie-a |
 | 23/11 12:43 | 23/11 14:24 | IT - ZONA DAZN | Genoa - Como | unknown | serie-a |
+| 23/11 13:00 | 23/11 13:30 | IT - Sky Sport24 | Il Calcio e' Servito | unknown |  |
 | 23/11 13:00 | 23/11 17:00 | IT - Sky Sport 251 | Next Game: Monza - Fiorentina on 2026-11-23 at 02:00PM EST | unknown |  |
 | 23/11 13:00 | 23/11 17:00 | IT - Sky Sport 252 | Next Game: Grosseto - Guidonia Montecelio on 2026-11-23 at 02:00PM EST | unknown |  |
 | 23/11 13:00 | 23/11 17:00 | IT - Sky Sport 253 | Next Game: Lecco - Lumezzane on 2026-11-23 at 02:15PM EST | unknown |  |
@@ -353,16 +335,22 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 23/11 13:00 | 23/11 17:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
 | 23/11 13:00 | 23/11 17:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
 | 23/11 13:00 | 23/11 17:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
+| 23/11 13:30 | 23/11 14:00 | IT - Sky Sport24 | Il Calcio e' Servito | unknown |  |
 | 23/11 13:45 | 23/11 14:15 | IT - Sky Sport 4K | Manchester United - Roma | unknown | champions-league |
 | 23/11 14:00 | 23/11 16:00 | IT - Sky Sport Calcio | Milan - Frosinone | unknown |  |
 | 23/11 14:15 | 23/11 14:30 | IT - Sky Sport 4K | Lens - Como | unknown |  |
 | 23/11 14:24 | 23/11 15:02 | IT - ZONA DAZN | Leonardo Pavoletti | unknown |  |
-| 23/11 14:30 | 23/11 16:30 | IT - Sky Sport 4K | Milan - Ferencváros | unknown |  |
-| 23/11 14:30 | 23/11 15:00 | IT - Sky Sport Legend | Milito | unknown |  |
+| 23/11 14:25 | 23/11 14:50 | IT - Sky Sport Legend | Milito | unknown |  |
+| 23/11 14:30 | 23/11 16:25 | IT - Sky Sport 4K | Milan - Ferencváros | unknown |  |
 | 23/11 15:02 | 23/11 16:48 | IT - ZONA DAZN | Roma - Inter | unknown | serie-a |
-| 23/11 16:00 | 23/11 18:00 | IT - Sky Sport Calcio | Liverpool - Manchester United | unknown |  |
-| 23/11 16:30 | 23/11 18:15 | IT - Sky Sport 4K | Napoli - Torino | unknown |  |
-| 23/11 16:48 | 23/11 17:10 | IT - ZONA DAZN | Tarik Muharemovic | unknown |  |
+| 23/11 15:20 | 23/11 17:30 | IT - RAI Sport | Calcio: Mondiali Under 17 | unknown |  |
+| 23/11 15:20 | 23/11 17:30 | IT - Rai Sport 1 | Calcio: Mondiali Under 17 | unknown |  |
+| 23/11 16:00 | 23/11 17:55 | IT - Sky Sport Calcio | Liverpool - Manchester United | unknown |  |
+| 23/11 16:25 | 23/11 18:10 | IT - Sky Sport 4K | Napoli - Torino | unknown |  |
+| 23/11 16:25 | 23/11 18:25 | IT - Sky Sport Max | Napoli - Torino Serie A | unknown | serie-a |
+| 23/11 16:30 | 23/11 18:25 | IT - Sky Sport NBA | Tezenis Verona - Udine Serie A Basket | unknown | serie-a |
+| 23/11 16:45 | 23/11 17:15 | IT - Sky Sport Legend | Totti | unknown |  |
+| 23/11 16:48 | 23/11 17:17 | IT - ZONA DAZN | Tarik Muharemovic | unknown |  |
 | 23/11 17:00 | 23/11 20:00 | IT - Sky Sport 251 | Next Game: Monza - Fiorentina on 2026-11-23 at 02:00PM EST | unknown |  |
 | 23/11 17:00 | 23/11 20:00 | IT - Sky Sport 252 | Next Game: Grosseto - Guidonia Montecelio on 2026-11-23 at 02:00PM EST | unknown |  |
 | 23/11 17:00 | 23/11 20:15 | IT - Sky Sport 253 | Next Game: Lecco - Lumezzane on 2026-11-23 at 02:15PM EST | unknown |  |
@@ -371,45 +359,60 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 23/11 17:00 | 23/11 21:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
 | 23/11 17:00 | 23/11 21:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
 | 23/11 17:00 | 23/11 21:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 23/11 17:00 | 23/11 17:30 | IT - Sky Sport Legend | Totti | unknown |  |
-| 23/11 17:10 | 23/11 18:56 | IT - ZONA DAZN | Atalanta - Inter | unknown | serie-a |
-| 23/11 17:30 | 23/11 19:15 | IT - Sky Sport Legend | Bayern M. - Inter 2010 | unknown | champions-league |
-| 23/11 18:00 | 23/11 19:00 | IT - Sky Sport Calcio | Ep.14 | unknown | serie-a |
+| 23/11 17:15 | 23/11 18:55 | IT - Sky Sport Legend | Bayern M. - Inter 2010 | unknown | champions-league |
+| 23/11 17:17 | 23/11 19:03 | IT - ZONA DAZN | Atalanta - Inter | unknown | serie-a |
+| 23/11 17:55 | 23/11 19:00 | IT - Sky Sport Calcio | Ep.14 | unknown | serie-a |
 | 23/11 18:00 | 24/11 00:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 23/11 18:15 | 23/11 20:00 | IT - Sky Sport 4K | Milan - Frosinone | unknown |  |
-| 23/11 18:56 | 23/11 19:34 | IT - ZONA DAZN | Leonardo Pavoletti | unknown |  |
-| 23/11 19:00 | 23/11 19:30 | IT - Sky Sport Arena | Noir Marsigliese | unknown |  |
+| 23/11 18:10 | 23/11 20:00 | IT - Sky Sport 4K | Milan - Frosinone | unknown |  |
+| 23/11 18:55 | 23/11 19:25 | IT - Sky Sport Arena | Noir Marsigliese | unknown |  |
+| 23/11 18:55 | 23/11 19:15 | IT - Sky Sport Legend | La dinastia di Sir Alex | unknown |  |
 | 23/11 19:00 | 23/11 19:30 | IT - Sky Sport Calcio | Uefa Champions League Magazine 2026/2027 Ep.12 23/11/2026 | unknown | champions-league |
-| 23/11 19:15 | 23/11 19:30 | IT - Sky Sport Legend | La dinastia di Sir Alex | unknown |  |
+| 23/11 19:03 | 23/11 19:41 | IT - ZONA DAZN | Leonardo Pavoletti | unknown |  |
+| 23/11 19:15 | 23/11 20:45 | IT - Sky Sport Legend | Il Processo del 10 Gennaio 1994 | unknown |  |
+| 23/11 19:30 | 23/11 20:30 | IT - RAI Sport | Serie B | unknown | serie-b |
+| 23/11 19:30 | 23/11 20:30 | IT - Rai Sport 1 | Serie B | unknown | serie-b |
 | 23/11 19:30 | 23/11 20:00 | IT - Sky Sport Calcio | Noir Marsigliese | unknown |  |
-| 23/11 19:30 | 23/11 21:00 | IT - Sky Sport Legend | Il Processo del 10 Gennaio 1994 | unknown |  |
-| 23/11 19:34 | 23/11 21:20 | IT - ZONA DAZN | Parma - Roma | unknown | serie-a |
+| 23/11 19:41 | 23/11 21:27 | IT - ZONA DAZN | Parma - Roma | unknown | serie-a |
+| 23/11 20:00 | 23/11 20:45 | IT - Sky Sport24 | Sky Calcio - L'originale | unknown |  |
 | 23/11 20:00 | 24/11 00:30 | IT - Sky Sport 251 | Monza - Fiorentina | live | serie-a |
 | 23/11 20:00 | 24/11 00:00 | IT - Sky Sport 252 | Grosseto - Guidonia Montecelio | live |  |
-| 23/11 20:00 | 23/11 20:45 | IT - Sky Sport 4K | Sky Calcio - L'originale | live | serie-a |
-| 23/11 20:00 | 23/11 20:45 | IT - Sky Sport Calcio | Sky Calcio - L'originale | live | serie-a |
+| 23/11 20:00 | 23/11 20:40 | IT - Sky Sport 4K | Sky Calcio - L'originale | live | serie-a |
+| 23/11 20:00 | 23/11 20:40 | IT - Sky Sport Calcio | Sky Calcio - L'originale | live | serie-a |
 | 23/11 20:15 | 24/11 00:00 | IT - Sky Sport 253 | Lecco - Lumezzane | live |  |
-| 23/11 20:45 | 23/11 22:45 | IT - Sky Sport 4K | Monza - Fiorentina | live |  |
-| 23/11 20:45 | 23/11 21:00 | IT - Sky Sport Arena | Programmazione non disponibile | unknown |  |
-| 23/11 20:45 | 23/11 22:45 | IT - Sky Sport Calcio | Monza - Fiorentina | live |  |
+| 23/11 20:30 | 23/11 22:35 | IT - RAI Sport | Serie C | unknown |  |
+| 23/11 20:30 | 23/11 22:35 | IT - Rai Sport 1 | Serie C | unknown |  |
+| 23/11 20:40 | 23/11 22:45 | IT - Sky Sport 4K | Monza - Fiorentina | live |  |
+| 23/11 20:40 | 23/11 20:55 | IT - Sky Sport Arena | Programmazione non disponibile | unknown |  |
+| 23/11 20:40 | 23/11 22:45 | IT - Sky Sport Calcio | Monza - Fiorentina | live |  |
+| 23/11 20:55 | 23/11 23:00 | IT - Sky Sport Arena | Brentford - Everton | live |  |
 | 23/11 21:00 | 24/11 01:00 | IT - Sky Sport 254 | No Game Today | unknown |  |
 | 23/11 21:00 | 24/11 01:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
 | 23/11 21:00 | 24/11 01:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
 | 23/11 21:00 | 24/11 01:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
 | 23/11 21:00 | 24/11 01:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 23/11 21:00 | 23/11 23:00 | IT - Sky Sport Arena | Brentford - Everton | live |  |
-| 23/11 21:20 | 23/11 22:36 | IT - ZONA DAZN | Uno, nessuno, Manenti | unknown |  |
-| 23/11 22:36 | 24/11 00:30 | IT - ZONA DAZN | Bordocam Napoli - Como 2026/27 | unknown |  |
+| 23/11 21:27 | 23/11 22:43 | IT - ZONA DAZN | Uno, nessuno, Manenti | unknown |  |
+| 23/11 22:35 | 23/11 22:50 | IT - RAI Sport | Serie B | unknown | serie-b |
+| 23/11 22:35 | 23/11 22:50 | IT - Rai Sport 1 | Serie B | unknown | serie-b |
+| 23/11 22:35 | 23/11 23:05 | IT - Sky Sport Max | Milan - Frosinone Serie A | unknown | serie-a |
+| 23/11 22:43 | 23/11 23:00 | IT - ZONA DAZN | Bordocam Napoli - Como 2026/27 | unknown |  |
+| 23/11 22:45 | 23/11 23:00 | IT - Sky Sport24 | Anteprima Sky Calcio L' Originale | unknown |  |
 | 23/11 22:45 | 23/11 23:00 | IT - Sky Sport 4K | Anteprima Sky Calcio L'...... (Diretta) | live | serie-a |
 | 23/11 22:45 | 23/11 23:00 | IT - Sky Sport Calcio | Anteprima Sky Calcio L'...... (Diretta) | live | serie-a |
+| 23/11 23:00 | 24/11 00:00 | IT - Sky Sport24 | Sky Calcio - L'originale | unknown |  |
 | 23/11 23:00 | 24/11 00:00 | IT - Sky Sport 4K | Sky Calcio - L'originale | live | serie-a |
 | 23/11 23:00 | 24/11 00:00 | IT - Sky Sport Calcio | Sky Calcio - L'originale | live | serie-a |
+| 23/11 23:00 | 23/11 23:47 | IT - ZONA DAZN |  | unknown | serie-a |
+| 23/11 23:05 | 24/11 00:50 | IT - Sky Sport Max | Monza - Fiorentina Serie A | unknown | serie-a |
+| 23/11 23:20 | 24/11 01:15 | IT - Sky Sport NBA | Tezenis Verona - Udine Serie A Basket | unknown | serie-a |
+| 23/11 23:47 | 24/11 01:00 | IT - ZONA DAZN | Dimarco: Vincere non stanca | unknown |  |
 | 24/11 00:00 | 24/11 04:00 | IT - Sky Sport 252 | Signing Off | unknown |  |
 | 24/11 00:00 | 24/11 04:00 | IT - Sky Sport 253 | Signing Off | unknown |  |
 | 24/11 00:00 | 24/11 01:45 | IT - Sky Sport 4K | Monza - Fiorentina | unknown |  |
 | 24/11 00:00 | 24/11 00:30 | IT - Sky Sport Calcio | Noir Marsigliese | unknown |  |
 | 24/11 00:00 | 24/11 06:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
 | 24/11 00:30 | 24/11 04:30 | IT - Sky Sport 251 | Signing Off | live | champions-league |
+| 24/11 01:00 | 24/11 02:40 | IT - RAI Sport | Calcio: Mondiali Under 17 | unknown |  |
+| 24/11 01:00 | 24/11 02:40 | IT - Rai Sport 1 | Calcio: Mondiali Under 17 | unknown |  |
 | 24/11 01:00 | 24/11 05:00 | IT - Sky Sport 254 | No Game Today | unknown |  |
 | 24/11 01:00 | 24/11 05:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
 | 24/11 01:00 | 24/11 05:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
@@ -417,15 +420,16 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 24/11 01:00 | 24/11 05:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
 | 24/11 01:00 | 24/11 01:30 | IT - Sky Sport Calcio | Milan - Frosinone | unknown |  |
 | 24/11 01:00 | 24/11 03:45 | IT - Sky Sport Legend | Volley Femminile Cev Champions League 2020/2021 - Stag. -3 - Conegliano - Istanbul. Finale | unknown | champions-league |
+| 24/11 01:20 | 24/11 01:45 | IT - Sky Sport Max | Uefa Champions League Magazine 2026/2027 Ep | unknown | champions-league |
 | 24/11 01:30 | 24/11 02:30 | IT - Sky Sport Calcio | Ep.5 | unknown |  |
 | 24/11 01:45 | 24/11 03:30 | IT - Sky Sport 4K | Milan - Frosinone | unknown |  |
+| 24/11 01:45 | 24/11 03:45 | IT - Sky Sport Max | Milan - Frosinone Serie A | unknown | serie-a |
 | 24/11 02:30 | 24/11 03:30 | IT - Sky Sport Calcio | Ep.10 | unknown |  |
 | 24/11 03:30 | 24/11 05:15 | IT - Sky Sport 4K | Napoli - Torino | unknown |  |
 | 24/11 03:30 | 24/11 05:15 | IT - Sky Sport Calcio | Napoli - Torino | unknown |  |
 | 24/11 03:45 | 24/11 04:45 | IT - Sky Sport Legend | Ep. 3 | unknown |  |
 | 24/11 04:00 | 24/11 08:00 | IT - Sky Sport 252 | Signing Off | unknown |  |
 | 24/11 04:00 | 24/11 08:00 | IT - Sky Sport 253 | Signing Off | unknown |  |
-| 24/11 04:00 | 24/11 06:00 | IT - Sky Sport Arena | Bertram Derthona Tortona - EA7 Emporio Armani Milano | unknown | serie-a |
 | 24/11 04:30 | 24/11 08:30 | IT - Sky Sport 251 | Signing Off | live | champions-league |
 | 24/11 04:45 | 24/11 05:00 | IT - Sky Sport Legend | Tutti i gol di Henry nelle Coppe Europee | unknown |  |
 | 24/11 05:00 | 24/11 09:00 | IT - Sky Sport 254 | No Game Today | unknown |  |
@@ -444,7 +448,7 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 24/11 08:00 | 24/11 09:00 | IT - Sky Sport 253 | Signing Off | unknown |  |
 | 24/11 08:00 | 24/11 08:30 | IT - Sky Sport Calcio | Uefa Champions League Magazine 2026/2027 Ep.12 23/11/2026 | unknown | champions-league |
 | 24/11 08:00 | 24/11 09:00 | IT - Sky Sport Tennis |  | unknown |  |
-| 24/11 08:00 | 24/11 09:47 | IT - ZONA DAZN | Bologna - Udinese | unknown | serie-a |
+| 24/11 08:00 | 24/11 09:48 | IT - ZONA DAZN | Bologna - Udinese | unknown | serie-a |
 | 24/11 08:30 | 24/11 09:00 | IT - Sky Sport 251 | Signing Off | live | champions-league |
 | 24/11 08:30 | 24/11 10:15 | IT - Sky Sport Calcio | Brentford - Everton | unknown |  |
 | 24/11 09:00 | 24/11 13:00 | IT - Sky Sport 251 | Next Game: Diretta Gol Ucl 24/11/2026 (Diretta) on 2026-11-24 at 12:00PM EST | live | champions-league |
@@ -456,7 +460,7 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 24/11 09:00 | 24/11 13:00 | IT - Sky Sport 257 | Next Game: Lipsia - LENS on 2026-11-24 at 02:00PM EST | unknown |  |
 | 24/11 09:00 | 24/11 13:00 | IT - Sky Sport 258 | Next Game: Slovan Bratislava - Betis on 2026-11-24 at 02:00PM EST | unknown |  |
 | 24/11 10:15 | 24/11 12:15 | IT - Sky Sport Calcio | Milan - Frosinone | unknown |  |
-| 24/11 10:16 | 24/11 12:03 | IT - ZONA DAZN | Lazio - Lecce | unknown | serie-a |
+| 24/11 10:17 | 24/11 12:03 | IT - ZONA DAZN | Lazio - Lecce | unknown | serie-a |
 | 24/11 11:00 | 24/11 13:45 | IT - Sky Sport Legend | Volley Femminile Cev Champions League 2020/2021 - Stag. -3 - Conegliano - Istanbul. Finale | unknown | champions-league |
 | 24/11 12:00 | 24/11 18:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
 | 24/11 12:15 | 24/11 13:15 | IT - Sky Sport Calcio | Ep.5 | unknown |  |
@@ -474,9 +478,10 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 24/11 14:00 | 24/11 15:45 | IT - Sky Sport 4K | Milan - Frosinone | unknown |  |
 | 24/11 14:00 | 24/11 14:30 | IT - Sky Sport Calcio | Noir Marsigliese | unknown |  |
 | 24/11 14:00 | 24/11 14:30 | IT - Sky Sport Legend | Vialli | unknown |  |
-| 24/11 14:25 | 24/11 17:00 | IT - ZONA DAZN | Igor - L'eroe romantico del calcio | unknown |  |
+| 24/11 14:25 | 24/11 16:10 | IT - ZONA DAZN | Igor - L'eroe romantico del calcio | unknown |  |
 | 24/11 14:30 | 24/11 16:15 | IT - Sky Sport Calcio | Monza - Fiorentina | unknown |  |
 | 24/11 15:45 | 24/11 17:30 | IT - Sky Sport 4K | Monza - Fiorentina | unknown |  |
+| 24/11 16:10 | 24/11 17:00 | IT - ZONA DAZN | Interna21onale Uno Scudetto firmato Chivu | unknown |  |
 | 24/11 16:15 | 24/11 18:15 | IT - Sky Sport Calcio | Manchester City - Fulham | unknown |  |
 | 24/11 17:00 | 24/11 18:00 | IT - Sky Sport 251 | Next Game: Diretta Gol Ucl 24/11/2026 (Diretta) on 2026-11-24 at 12:00PM EST | live | champions-league |
 | 24/11 17:00 | 24/11 20:00 | IT - Sky Sport 252 | Next Game: Manchester City - Napoli on 2026-11-24 at 02:00PM EST | unknown |  |
@@ -486,7 +491,7 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 24/11 17:00 | 24/11 20:00 | IT - Sky Sport 256 | Next Game: Feyenoord - Porto on 2026-11-24 at 02:00PM EST | unknown |  |
 | 24/11 17:00 | 24/11 20:00 | IT - Sky Sport 257 | Next Game: Lipsia - LENS on 2026-11-24 at 02:00PM EST | unknown |  |
 | 24/11 17:00 | 24/11 20:00 | IT - Sky Sport 258 | Next Game: Slovan Bratislava - Betis on 2026-11-24 at 02:00PM EST | unknown |  |
-| 24/11 17:00 | 24/11 19:16 | IT - ZONA DAZN | CEV Champions League F | live | champions-league |
+| 24/11 17:00 | 24/11 19:16 | IT - ZONA DAZN | CEV Champions League F 2026 Fenerbahce - Vasas Budapest | live | champions-league |
 | 24/11 17:30 | 24/11 19:30 | IT - Sky Sport 4K | Milan - Ferencváros | unknown |  |
 | 24/11 18:00 | 24/11 20:55 | IT - Sky Sport 251 | Diretta Gol Ucl 24/11/2026 (Diretta) | live | champions-league |
 | 24/11 18:00 | 24/11 20:55 | IT - Sky Sport 254 | Galatasaray - Aston Villa | live | champions-league |
@@ -520,7 +525,7 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 24/11 23:00 | 25/11 01:00 | IT - Sky Sport Calcio | Manchester City - Napoli | unknown | champions-league |
 | 24/11 23:00 | 25/11 01:00 | IT - Sky Sport Legend | Roma - Feyenoord | unknown |  |
 | 24/11 23:30 | 25/11 00:00 | IT - Sky Sport Arena | Milan - Frosinone | unknown |  |
-| 24/11 23:42 | 25/11 00:30 | IT - ZONA DAZN | La visione di Spalletti | unknown |  |
+| 24/11 23:42 | 25/11 01:00 | IT - ZONA DAZN | La visione di Spalletti | unknown |  |
 | 25/11 00:00 | 25/11 01:00 | IT - Sky Sport 4K | After Party - La Notte Dei Campioni 24/11/2026 | live |  |
 | 25/11 00:00 | 25/11 06:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
 | 25/11 01:00 | 25/11 03:00 | IT - Sky Sport 4K | Como - AEK Atene | unknown |  |
@@ -608,7 +613,7 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 25/11 20:00 | 26/11 01:30 | IT - Sky Sport 257 | Shakhtar Donetsk - Fenerbahce | live | champions-league |
 | 25/11 20:00 | 25/11 21:00 | IT - Sky Sport 4K | Sky Calcio Show (Ucl) 25/11/2026 | live | champions-league |
 | 25/11 20:00 | 25/11 21:00 | IT - Sky Sport Legend | Ep. 2 | unknown |  |
-| 25/11 20:00 | 25/11 22:15 | IT - ZONA DAZN | CEV Champions League F | live | champions-league |
+| 25/11 20:00 | 25/11 22:15 | IT - ZONA DAZN | CEV Champions League F 2026 Milano - Levallois | live | champions-league |
 | 25/11 20:20 | 25/11 21:00 | IT - TV8 | Tv8 Football Night | live | champions-league |
 | 25/11 20:30 | 26/11 01:30 | IT - Sky Sport 255 | Sporting - Manchester UTD | live | champions-league |
 | 25/11 20:45 | 25/11 21:00 | IT - Sky Sport Calcio | Programmazione non disponibile | unknown |  |
@@ -619,7 +624,7 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 25/11 21:00 | 25/11 23:00 | IT - Sky Sport Arena | Diretta Gol Ucl 25/11/2026 (Diretta) | live | champions-league |
 | 25/11 21:00 | 25/11 23:00 | IT - Sky Sport Calcio | Lille OSC - FC Bayern Monaco | live | champions-league |
 | 25/11 21:00 | 25/11 23:00 | IT - TV8 | Lille OSC - FC Bayern Monaco | live | champions-league |
-| 25/11 22:15 | 26/11 00:30 | IT - ZONA DAZN | Atalanta - Inter | unknown | serie-a |
+| 25/11 22:15 | 26/11 01:00 | IT - ZONA DAZN | Atalanta - Inter | unknown | serie-a |
 | 25/11 23:00 | 26/11 00:00 | IT - Sky Sport 4K | Sky Calcio Show (Ucl) 25/11/2026 | live | champions-league |
 | 25/11 23:00 | 25/11 23:30 | IT - Sky Sport Calcio | Noir Marsigliese | unknown |  |
 | 25/11 23:00 | 26/11 00:45 | IT - Sky Sport Legend | Bayern M. - Inter 2010 | unknown | champions-league |
@@ -658,71 +663,71 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 26/11 08:00 | 26/11 10:00 | IT - Sky Sport 4K | Como - AEK Atene | unknown |  |
 | 26/11 08:00 | 26/11 08:15 | IT - Sky Sport Calcio | Monza - Fiorentina | unknown |  |
 | 26/11 08:00 | 26/11 09:45 | IT - Sky Sport Legend | Bayern M. - Inter 2010 | unknown | champions-league |
-| 26/11 08:00 | 26/11 09:55 | IT - ZONA DAZN | Parma - Roma | unknown | serie-a |
+| 26/11 08:00 | 26/11 09:47 | IT - ZONA DAZN | Real Madrid - Celta Vigo | unknown |  |
 | 26/11 08:15 | 26/11 08:30 | IT - Sky Sport Calcio | Como - AEK Atene | unknown |  |
 | 26/11 08:30 | 26/11 10:30 | IT - Sky Sport Calcio | Club Bruges - Liverpool | unknown | champions-league |
 | 26/11 09:00 | 26/11 13:00 | IT - Sky Sport 251 | Next Game: Diretta Gol Uel/ Uecl... (Diretta) on 2026-11-26 at 12:00PM EST | live |  |
 | 26/11 09:00 | 26/11 13:00 | IT - Sky Sport 252 | Next Game: Juventus - Omonia Nicosia on 2026-11-26 at 02:00PM EST | unknown |  |
 | 26/11 09:00 | 26/11 13:00 | IT - Sky Sport 253 | Next Game: Olympiakos - Milan on 2026-11-26 at 12:00PM EST | unknown |  |
-| 26/11 09:00 | 26/11 13:00 | IT - Sky Sport 254 | Next Game: Kairat Almaty - Mjällby AIF on 2026-11-26 at 10:00AM EST | unknown |  |
+| 26/11 09:00 | 26/11 13:00 | IT - Sky Sport 254 | Next Game: Mjällby a Kairat Almaty on 2026-11-26 at 10:00AM EST | unknown |  |
 | 26/11 09:00 | 26/11 13:00 | IT - Sky Sport 255 | Next Game: Dinamo Zagabria - Bayer Leverkusen on 2026-11-26 at 12:00PM EST | unknown |  |
 | 26/11 09:00 | 26/11 13:00 | IT - Sky Sport 256 | Next Game: Celta - Bournemouth on 2026-11-26 at 12:00PM EST | unknown |  |
 | 26/11 09:00 | 26/11 13:00 | IT - Sky Sport 257 | Next Game: Besiktas - H.Beer-Sheva on 2026-11-26 at 12:00PM EST | unknown |  |
 | 26/11 09:45 | 26/11 10:00 | IT - Sky Sport Legend | Gli invincibili | unknown |  |
 | 26/11 10:00 | 26/11 10:30 | IT - Sky Sport 4K | Manchester City - Napoli | unknown | champions-league |
 | 26/11 10:00 | 26/11 10:45 | IT - Sky Sport Legend | Forti come un leone | unknown |  |
+| 26/11 10:15 | 26/11 12:03 | IT - ZONA DAZN | Barcellona - Villarreal | unknown |  |
 | 26/11 10:30 | 26/11 12:15 | IT - Sky Sport 4K | Milan - Frosinone | unknown |  |
 | 26/11 10:30 | 26/11 11:00 | IT - Sky Sport Calcio | Noir Marsigliese | unknown |  |
-| 26/11 10:30 | 26/11 12:30 | IT - ZONA DAZN | Sassuolo - Genoa | unknown | serie-a |
 | 26/11 10:45 | 26/11 11:30 | IT - Sky Sport Legend | Ep.2 | unknown |  |
 | 26/11 11:00 | 26/11 12:00 | IT - Sky Sport Calcio | Ep.5 | unknown |  |
 | 26/11 11:30 | 26/11 12:15 | IT - Sky Sport Legend | Ep.3 | unknown |  |
 | 26/11 12:00 | 26/11 14:00 | IT - Sky Sport Calcio | Manchester City - Napoli | unknown | champions-league |
 | 26/11 12:00 | 26/11 18:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
+| 26/11 12:03 | 26/11 12:40 | IT - ZONA DAZN | Ep. 4 | unknown |  |
 | 26/11 12:15 | 26/11 14:00 | IT - Sky Sport 4K | Napoli - Torino | unknown |  |
 | 26/11 12:15 | 26/11 12:45 | IT - Sky Sport Legend | Vialli | unknown |  |
-| 26/11 12:30 | 26/11 13:15 | IT - ZONA DAZN | Ep. 4 | unknown |  |
+| 26/11 12:40 | 26/11 14:25 | IT - ZONA DAZN | Getafe - Atletico Madrid | unknown |  |
 | 26/11 13:00 | 26/11 17:00 | IT - Sky Sport 251 | Next Game: Diretta Gol Uel/ Uecl... (Diretta) on 2026-11-26 at 12:00PM EST | live |  |
 | 26/11 13:00 | 26/11 17:00 | IT - Sky Sport 252 | Next Game: Juventus - Omonia Nicosia on 2026-11-26 at 02:00PM EST | unknown |  |
 | 26/11 13:00 | 26/11 17:00 | IT - Sky Sport 253 | Next Game: Olympiakos - Milan on 2026-11-26 at 12:00PM EST | unknown |  |
-| 26/11 13:00 | 26/11 16:00 | IT - Sky Sport 254 | Next Game: Kairat Almaty - Mjällby AIF on 2026-11-26 at 10:00AM EST | unknown |  |
+| 26/11 13:00 | 26/11 16:00 | IT - Sky Sport 254 | Next Game: Mjällby a Kairat Almaty on 2026-11-26 at 10:00AM EST | unknown |  |
 | 26/11 13:00 | 26/11 17:00 | IT - Sky Sport 255 | Next Game: Dinamo Zagabria - Bayer Leverkusen on 2026-11-26 at 12:00PM EST | unknown |  |
 | 26/11 13:00 | 26/11 17:00 | IT - Sky Sport 256 | Next Game: Celta - Bournemouth on 2026-11-26 at 12:00PM EST | unknown |  |
 | 26/11 13:00 | 26/11 17:00 | IT - Sky Sport 257 | Next Game: Besiktas - H.Beer-Sheva on 2026-11-26 at 12:00PM EST | unknown |  |
-| 26/11 13:15 | 26/11 15:10 | IT - ZONA DAZN | Bologna - Udinese | unknown | serie-a |
 | 26/11 14:00 | 26/11 15:45 | IT - Sky Sport 4K | Monza - Fiorentina | unknown |  |
 | 26/11 14:00 | 26/11 14:15 | IT - Sky Sport Calcio | La Giovane Italia 2026 Ep.29 26/11/2026 | unknown |  |
 | 26/11 14:15 | 26/11 16:15 | IT - Sky Sport Calcio | Inter - VfB Stoccarda | unknown |  |
+| 26/11 14:25 | 26/11 14:41 | IT - ZONA DAZN | Diego Moreira | unknown |  |
 | 26/11 14:30 | 26/11 16:30 | IT - Sky Sport Legend | Milan - Liverpool 2007 | unknown | champions-league |
-| 26/11 15:10 | 26/11 15:30 | IT - ZONA DAZN | Diego Moreira | unknown |  |
-| 26/11 15:30 | 26/11 17:25 | IT - ZONA DAZN | Lazio - Lecce | unknown | serie-a |
+| 26/11 14:41 | 26/11 16:27 | IT - ZONA DAZN | Lazio - Lecce | unknown | serie-a |
 | 26/11 15:45 | 26/11 16:00 | IT - Sky Sport 4K | Como - AEK Atene | unknown |  |
-| 26/11 16:00 | 26/11 20:00 | IT - Sky Sport 254 | Kairat Almaty - Mjällby AIF | live |  |
+| 26/11 16:00 | 26/11 20:00 | IT - Sky Sport 254 | Mjällby a Kairat Almaty | live |  |
 | 26/11 16:00 | 26/11 16:30 | IT - Sky Sport 4K | Manchester City - Napoli | unknown | champions-league |
 | 26/11 16:00 | 26/11 17:30 | IT - Sky Sport Arena | Milano - Levalloois Paris | unknown | champions-league |
 | 26/11 16:15 | 26/11 16:30 | IT - Sky Sport Calcio | Milan - Frosinone | unknown |  |
+| 26/11 16:27 | 26/11 16:54 | IT - ZONA DAZN | Franco Mastantuono | unknown |  |
 | 26/11 16:30 | 26/11 18:30 | IT - Sky Sport 4K | Inter - VfB Stoccarda | unknown |  |
-| 26/11 16:30 | 26/11 18:30 | IT - Sky Sport Calcio | Kairat Almaty - Mjällby AIF | live |  |
+| 26/11 16:30 | 26/11 18:30 | IT - Sky Sport Calcio | Mjällby a Kairat Almaty | live |  |
+| 26/11 16:54 | 26/11 20:30 | IT - ZONA DAZN | Como - Cagliari | unknown | serie-a |
 | 26/11 17:00 | 26/11 18:00 | IT - Sky Sport 251 | Next Game: Diretta Gol Uel/ Uecl... (Diretta) on 2026-11-26 at 12:00PM EST | live |  |
 | 26/11 17:00 | 26/11 20:00 | IT - Sky Sport 252 | Next Game: Juventus - Omonia Nicosia on 2026-11-26 at 02:00PM EST | unknown |  |
 | 26/11 17:00 | 26/11 18:00 | IT - Sky Sport 253 | Next Game: Olympiakos - Milan on 2026-11-26 at 12:00PM EST | unknown |  |
 | 26/11 17:00 | 26/11 18:00 | IT - Sky Sport 255 | Next Game: Dinamo Zagabria - Bayer Leverkusen on 2026-11-26 at 12:00PM EST | unknown |  |
 | 26/11 17:00 | 26/11 18:00 | IT - Sky Sport 256 | Next Game: Celta - Bournemouth on 2026-11-26 at 12:00PM EST | unknown |  |
 | 26/11 17:00 | 26/11 18:00 | IT - Sky Sport 257 | Next Game: Besiktas - H.Beer-Sheva on 2026-11-26 at 12:00PM EST | unknown |  |
-| 26/11 17:25 | 26/11 18:00 | IT - ZONA DAZN | Franco Mastantuono | unknown |  |
 | 26/11 17:30 | 26/11 18:00 | IT - Sky Sport Legend | Milito | unknown |  |
 | 26/11 18:00 | 26/11 20:55 | IT - Sky Sport 251 | Diretta Gol Uel/ Uecl... (Diretta) | live |  |
 | 26/11 18:00 | 26/11 22:00 | IT - Sky Sport 253 | Olympiakos - Milan | live |  |
 | 26/11 18:00 | 26/11 20:55 | IT - Sky Sport 255 | Dinamo Zagabria - Bayer Leverkusen | live |  |
 | 26/11 18:00 | 26/11 20:55 | IT - Sky Sport 256 | Celta - Bournemouth | live |  |
 | 26/11 18:00 | 26/11 20:55 | IT - Sky Sport 257 | Besiktas - H.Beer-Sheva | live |  |
-| 26/11 18:00 | 26/11 20:30 | IT - ZONA DAZN | Como - Cagliari | unknown | serie-a |
 | 26/11 18:00 | 27/11 00:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
 | 26/11 18:30 | 26/11 20:30 | IT - Sky Sport 4K | Como - AEK Atene | unknown |  |
 | 26/11 18:30 | 26/11 18:45 | IT - Sky Sport Calcio | Programmazione non disponibile | unknown |  |
 | 26/11 18:45 | 26/11 20:45 | IT - Sky Sport Calcio | Dinamo Zagabria - Bayer Leverkusen | live |  |
 | 26/11 18:45 | 26/11 19:00 | IT - Sky Sport Legend | La dinastia di Sir Alex | unknown |  |
-| 26/11 18:45 | 26/11 19:45 | IT - Sky Sport Tennis |  | unknown |  |
+| 26/11 18:45 | 26/11 19:45 | IT - Sky Sport Tennis | L'uomo della Domenica: Roger Federer | unknown |  |
 | 26/11 19:45 | 26/11 20:30 | IT - Sky Sport Arena | Noir Marsigliese | unknown |  |
 | 26/11 20:00 | 27/11 01:30 | IT - Sky Sport 252 | Juventus - Omonia Nicosia | live |  |
 | 26/11 20:00 | 27/11 01:30 | IT - Sky Sport 254 | Borac Banja Luka - Atalanta | live |  |
@@ -730,7 +735,7 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 26/11 20:20 | 26/11 21:00 | IT - TV8 | Tv8 Football Night | live | champions-league |
 | 26/11 20:30 | 26/11 21:00 | IT - Sky Sport 4K | Manchester City - Napoli | unknown | champions-league |
 | 26/11 20:30 | 26/11 22:30 | IT - Sky Sport Arena | Conegliano - Novara | live | champions-league |
-| 26/11 20:30 | 26/11 23:15 | IT - ZONA DAZN | CEV Champions League F | live | champions-league |
+| 26/11 20:30 | 26/11 22:46 | IT - ZONA DAZN | CEV Champions League F 2026 Conegliano - Novara | live | champions-league |
 | 26/11 20:45 | 26/11 21:00 | IT - Sky Sport Calcio | Programmazione non disponibile | unknown |  |
 | 26/11 20:55 | 27/11 01:30 | IT - Sky Sport 251 | Diretta Gol Uel/ Uecl... (Diretta) | live |  |
 | 26/11 20:55 | 27/11 01:30 | IT - Sky Sport 255 | Crystal Palace - Real Sociedad | live |  |
@@ -741,14 +746,79 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 26/11 21:00 | 26/11 22:00 | IT - Sky Sport Legend | 1a parte | unknown | serie-b |
 | 26/11 21:00 | 26/11 23:00 | IT - TV8 | Olympiakos - Milan | live |  |
 | 26/11 22:30 | 26/11 23:00 | IT - Sky Sport Arena | Noir Marsigliese | unknown |  |
+| 26/11 22:46 | 27/11 01:00 | IT - ZONA DAZN | 8a g | unknown | serie-a |
 | 26/11 23:00 | 27/11 00:00 | IT - Sky Sport 4K | Sky Calcio Show (Uel/ Uecl) 26/11/2026 | live |  |
 | 26/11 23:00 | 26/11 23:30 | IT - Sky Sport Calcio | Olympiakos - Milan | unknown |  |
 | 26/11 23:00 | 27/11 01:00 | IT - Sky Sport Legend | Milan - Liverpool 2007 | unknown | champions-league |
 | 26/11 23:00 | 27/11 00:30 | IT - TV8 | Tv8 Football Night | live | champions-league |
-| 26/11 23:15 | 27/11 00:30 | IT - ZONA DAZN | 8a g | unknown | serie-a |
 | 26/11 23:30 | 27/11 01:30 | IT - Sky Sport Arena | Olympiakos - Milan | unknown |  |
 | 26/11 23:30 | 27/11 00:00 | IT - Sky Sport Calcio | Noir Marsigliese | unknown |  |
 | 27/11 00:00 | 27/11 01:00 | IT - Sky Sport 4K | After Party - La Notte Dei Campioni 26/11/2026 | live |  |
 | 27/11 00:00 | 27/11 00:30 | IT - Sky Sport Calcio | Ep. 17 (Uel+ucl) | live | champions-league |
 | 27/11 00:00 | 27/11 06:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
 | 27/11 00:30 | 27/11 02:30 | IT - Sky Sport Calcio | Paris Saint-Germain - Roma | unknown | champions-league |
+| 27/11 01:00 | 27/11 01:30 | IT - Sky Sport 4K | Olympiakos - Milan | unknown |  |
+| 27/11 01:30 | 27/11 03:30 | IT - Sky Sport 4K | Juventus - Omonia Nicosia | unknown |  |
+| 27/11 02:30 | 27/11 02:45 | IT - Sky Sport Calcio | Olympiakos - Milan | unknown |  |
+| 27/11 02:45 | 27/11 03:15 | IT - Sky Sport Calcio | Bundesliga Weekly | unknown |  |
+| 27/11 03:00 | 27/11 04:45 | IT - Sky Sport Legend | Bayern M. - Inter 2010 | unknown | champions-league |
+| 27/11 03:15 | 27/11 03:45 | IT - Sky Sport Calcio | Frank Lampard | unknown |  |
+| 27/11 03:30 | 27/11 04:00 | IT - Sky Sport 4K | Paris Saint-Germain - Roma | unknown | champions-league |
+| 27/11 03:45 | 27/11 04:15 | IT - Sky Sport Calcio | Juventus - Omonia Nicosia | unknown |  |
+| 27/11 04:00 | 27/11 06:00 | IT - Sky Sport 4K | Inter - VfB Stoccarda | unknown |  |
+| 27/11 04:15 | 27/11 06:00 | IT - Sky Sport Calcio | Crystal Palace - Real Sociedad | unknown |  |
+| 27/11 04:45 | 27/11 05:15 | IT - Sky Sport Legend | Roberto Baggio: Pallone d'oro 1993 | unknown |  |
+| 27/11 06:00 | 27/11 08:00 | IT - Sky Sport 4K | Juventus - Omonia Nicosia | unknown |  |
+| 27/11 06:00 | 27/11 08:00 | IT - Sky Sport Calcio | Paris Saint-Germain - Roma | unknown | champions-league |
+| 27/11 06:00 | 27/11 07:45 | IT - Sky Sport Legend | Bayern M. - Inter 2010 | unknown | champions-league |
+| 27/11 06:00 | 27/11 07:00 | IT - Sky Sport Tennis |  | unknown |  |
+| 27/11 06:00 | 27/11 12:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
+| 27/11 07:45 | 27/11 09:45 | IT - Sky Sport Legend | Milan - Liverpool 2007 | unknown | champions-league |
+| 27/11 08:00 | 27/11 08:30 | IT - Sky Sport 4K | Manchester City - Napoli | unknown | champions-league |
+| 27/11 08:00 | 27/11 08:15 | IT - Sky Sport Calcio | Juventus - Omonia Nicosia | unknown |  |
+| 27/11 08:00 | 27/11 09:55 | IT - ZONA DAZN | Bologna - Udinese | unknown | serie-a |
+| 27/11 08:15 | 27/11 10:15 | IT - Sky Sport Calcio | Olympiakos - Milan | unknown |  |
+| 27/11 10:15 | 27/11 12:00 | IT - Sky Sport Calcio | Borac Banja Luka - Atalanta | unknown |  |
+| 27/11 10:30 | 27/11 10:45 | IT - Sky Sport 4K | Olympiakos - Milan | unknown |  |
+| 27/11 10:30 | 27/11 12:25 | IT - ZONA DAZN | Parma - Roma | unknown | serie-a |
+| 27/11 10:45 | 27/11 12:30 | IT - Sky Sport 4K | Napoli - Torino | unknown |  |
+| 27/11 12:00 | 27/11 12:30 | IT - Sky Sport Calcio | Paris Saint-Germain - Roma | unknown | champions-league |
+| 27/11 12:00 | 27/11 18:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
+| 27/11 12:30 | 27/11 14:15 | IT - Sky Sport 4K | Monza - Fiorentina | unknown |  |
+| 27/11 12:30 | 27/11 12:45 | IT - Sky Sport Calcio | Inter - VfB Stoccarda | unknown |  |
+| 27/11 12:45 | 27/11 14:30 | IT - Sky Sport Calcio | Olympiakos - Milan | unknown |  |
+| 27/11 12:45 | 27/11 13:45 | IT - Sky Sport Legend | Il Processo del 27 Febbraio 1995 | unknown |  |
+| 27/11 13:15 | 27/11 15:15 | IT - ZONA DAZN | Sassuolo - Genoa | unknown | serie-a |
+| 27/11 14:30 | 27/11 16:15 | IT - Sky Sport Calcio | Juventus - Omonia Nicosia | unknown |  |
+| 27/11 14:45 | 27/11 15:15 | IT - Sky Sport Legend | Milito | unknown |  |
+| 27/11 15:15 | 27/11 17:10 | IT - ZONA DAZN | Atalanta - Inter | unknown | serie-a |
+| 27/11 15:55 | 27/11 17:45 | IT - Sky Sport 4K | Milan - Frosinone | unknown |  |
+| 27/11 16:15 | 27/11 18:00 | IT - Sky Sport Calcio | Borac Banja Luka - Atalanta | unknown |  |
+| 27/11 16:45 | 27/11 17:45 | IT - Sky Sport Legend | Ep. 1 | unknown |  |
+| 27/11 17:10 | 27/11 18:00 | IT - ZONA DAZN | Interna21onale Uno Scudetto firmato Chivu | unknown |  |
+| 27/11 17:15 | 27/11 18:15 | IT - Sky Sport Tennis |  | unknown |  |
+| 27/11 18:00 | 27/11 18:30 | IT - Sky Sport Calcio | Olympiakos - Milan | unknown |  |
+| 27/11 18:00 | 27/11 19:55 | IT - ZONA DAZN | Lazio - Lecce | unknown | serie-a |
+| 27/11 18:00 | 28/11 00:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
+| 27/11 18:30 | 27/11 18:45 | IT - Sky Sport Calcio | Paris Saint-Germain - Roma | unknown | champions-league |
+| 27/11 18:45 | 27/11 19:00 | IT - Sky Sport Calcio | Juventus - Omonia Nicosia | unknown |  |
+| 27/11 18:45 | 27/11 19:15 | IT - Sky Sport Legend | Vialli | unknown |  |
+| 27/11 19:00 | 27/11 19:30 | IT - Sky Sport Calcio | Champions League Remix Ep.5 27/11/2026 | unknown | champions-league |
+| 27/11 19:30 | 27/11 20:00 | IT - Sky Sport Calcio | Europa E Conference League Remix Ep.5 27/11/2026 | unknown |  |
+| 27/11 19:55 | 27/11 20:30 | IT - ZONA DAZN | Diego Milito | unknown |  |
+| 27/11 20:00 | 27/11 20:45 | IT - Sky Sport 4K | Sky Friday Night Football Prepartita | live | serie-a |
+| 27/11 20:00 | 27/11 20:45 | IT - Sky Sport Calcio | Sky Friday Night Football Prepartita | live | serie-a |
+| 27/11 20:30 | 27/11 22:25 | IT - ZONA DAZN | Como - Cagliari | unknown | serie-a |
+| 27/11 20:45 | 27/11 22:45 | IT - Sky Sport 4K | Venezia - Bologna | live |  |
+| 27/11 20:45 | 27/11 22:45 | IT - Sky Sport Calcio | Venezia - Bologna | live |  |
+| 27/11 21:00 | 27/11 22:00 | IT - Sky Sport Legend | Pistole e Palloni | unknown |  |
+| 27/11 22:25 | 27/11 22:40 | IT - ZONA DAZN | Bordocam Juventus - Lazio 2026/27 | unknown |  |
+| 27/11 22:40 | 27/11 22:55 | IT - ZONA DAZN | Bordocam Como - Roma 2026/27 | unknown |  |
+| 27/11 22:45 | 28/11 00:00 | IT - Sky Sport 4K | Sky Friday Night Football Postpartita | live | serie-a |
+| 27/11 22:45 | 28/11 00:00 | IT - Sky Sport Calcio | Sky Friday Night Football Postpartita | live | serie-a |
+| 27/11 23:00 | 28/11 00:45 | IT - Sky Sport Legend | Milan - Barcellona 1994 | unknown | champions-league |
+| 27/11 23:10 | 28/11 01:00 | IT - ZONA DAZN | 9a g | unknown | serie-a |
+| 28/11 00:00 | 28/11 00:30 | IT - Sky Sport 4K | Paris Saint-Germain - Roma | unknown | champions-league |
+| 28/11 00:00 | 28/11 06:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
+| 28/11 00:30 | 28/11 02:15 | IT - Sky Sport 4K | Venezia - Bologna | unknown |  |
+| 28/11 00:30 | 28/11 01:00 | IT - Sky Sport Calcio | Champions League Remix Ep.5 27/11/2026 | unknown | champions-league |

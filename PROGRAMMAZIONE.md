@@ -1,6 +1,6 @@
 # Programmazione calcio
 
-Ultima acquisizione riuscita: 2026-11-21T22:54:24.331645Z. Orari: Europe/Rome.
+Ultima acquisizione riuscita: 2026-11-21T23:51:29.178594Z. Orari: Europe/Rome.
 
 Solo Sky Calcio, Sky Sport, DAZN/Zona DAZN, TV8 e RAI secondo config.json.
 
@@ -21,111 +21,7 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 
 | Inizio | Fine | Canale | Programma | Tipo | Competizioni rilevate |
 | --- | --- | --- | --- | --- | --- |
-| 21/11 01:00 | 21/11 02:00 | IT - Sky Sport Calcio | Bundesliga Matchplan Ep.9 20/11/2026 | unknown |  |
-| 21/11 01:00 | 21/11 03:50 | IT - Sky Sport Legend | Volley Femminile Cev Champions League 2020/2021 - Stag. -3 - Conegliano - Istanbul. Finale | unknown | champions-league |
-| 21/11 02:00 | 21/11 06:00 | IT - Sky Sport 251 | Next Game: Inter U23 - Potenza on 2026-11-21 at 08:00AM EST | unknown |  |
-| 21/11 02:00 | 21/11 06:00 | IT - Sky Sport 252 | Next Game: Treviso - Pergolettese on 2026-11-21 at 08:00AM EST | unknown |  |
-| 21/11 02:00 | 21/11 06:00 | IT - Sky Sport 253 | Next Game: Ostiamare - Atalanta U23 on 2026-11-21 at 08:00AM EST | unknown |  |
-| 21/11 02:00 | 21/11 06:00 | IT - Sky Sport 254 | Next Game: Monopoli - Cavese on 2026-11-21 at 08:00AM EST | unknown |  |
-| 21/11 02:00 | 21/11 06:00 | IT - Sky Sport 255 | Next Game: Audace Cerignola - Barletta on 2026-11-21 at 08:00AM EST | unknown |  |
-| 21/11 02:00 | 21/11 06:00 | IT - Sky Sport 256 | Next Game: Vado - Latina on 2026-11-21 at 08:00AM EST | unknown |  |
-| 21/11 02:00 | 21/11 06:00 | IT - Sky Sport 257 | Next Game: Liverpool - Chelsea on 2026-11-21 at 07:30AM EST | unknown |  |
-| 21/11 02:00 | 21/11 06:00 | IT - Sky Sport 258 | Next Game: Aston Villa - Sunderland on 2026-11-21 at 09:30AM EST | unknown |  |
-| 21/11 02:00 | 21/11 06:00 | IT - Sky Sport 259 | Next Game: Bournemouth - Nottingham Forest on 2026-11-21 at 09:30AM EST | unknown |  |
-| 21/11 02:00 | 21/11 03:00 | IT - Sky Sport Calcio | Ep. 3 | unknown | champions-league |
-| 21/11 02:00 | 21/11 04:00 | IT - Sky Sport Max | Manchester United - Roma UEFA Champions League | unknown | champions-league |
-| 21/11 03:00 | 21/11 05:10 | IT - RAI Sport | Calcio: Mondiali Under 17 | unknown |  |
-| 21/11 03:00 | 21/11 05:10 | IT - Rai Sport 1 | Calcio: Mondiali Under 17 | unknown |  |
-| 21/11 03:00 | 21/11 03:30 | IT - Sky Sport Calcio | Nemanja Matic | unknown |  |
-| 21/11 03:30 | 21/11 04:00 | IT - Sky Sport Calcio | Premier League Preview | unknown |  |
-| 21/11 03:50 | 21/11 04:45 | IT - Sky Sport Legend | Ep. 3 | unknown |  |
-| 21/11 04:00 | 21/11 05:40 | IT - Sky Sport Calcio | Feyenoord - Inter | unknown |  |
-| 21/11 04:45 | 21/11 05:00 | IT - Sky Sport Legend | Kakà: tutti i gol in Champions League | unknown | champions-league |
-| 21/11 06:00 | 21/11 10:00 | IT - Sky Sport 251 | Next Game: Inter U23 - Potenza on 2026-11-21 at 08:00AM EST | unknown |  |
-| 21/11 06:00 | 21/11 10:00 | IT - Sky Sport 252 | Next Game: Treviso - Pergolettese on 2026-11-21 at 08:00AM EST | unknown |  |
-| 21/11 06:00 | 21/11 10:00 | IT - Sky Sport 253 | Next Game: Ostiamare - Atalanta U23 on 2026-11-21 at 08:00AM EST | unknown |  |
-| 21/11 06:00 | 21/11 10:00 | IT - Sky Sport 254 | Next Game: Monopoli - Cavese on 2026-11-21 at 08:00AM EST | unknown |  |
-| 21/11 06:00 | 21/11 10:00 | IT - Sky Sport 255 | Next Game: Audace Cerignola - Barletta on 2026-11-21 at 08:00AM EST | unknown |  |
-| 21/11 06:00 | 21/11 10:00 | IT - Sky Sport 256 | Next Game: Vado - Latina on 2026-11-21 at 08:00AM EST | unknown |  |
-| 21/11 06:00 | 21/11 10:00 | IT - Sky Sport 257 | Next Game: Liverpool - Chelsea on 2026-11-21 at 07:30AM EST | unknown |  |
-| 21/11 06:00 | 21/11 10:00 | IT - Sky Sport 258 | Next Game: Aston Villa - Sunderland on 2026-11-21 at 09:30AM EST | unknown |  |
-| 21/11 06:00 | 21/11 10:00 | IT - Sky Sport 259 | Next Game: Bournemouth - Nottingham Forest on 2026-11-21 at 09:30AM EST | unknown |  |
-| 21/11 06:00 | 21/11 07:55 | IT - Sky Sport Calcio | FC Bayern Monaco - Colonia | unknown |  |
-| 21/11 06:00 | 21/11 12:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 21/11 07:20 | 21/11 09:00 | IT - RAI Sport | Rugby: Serie A Elite maschile | unknown | serie-a |
-| 21/11 07:20 | 21/11 09:00 | IT - Rai Sport 1 | Rugby: Serie A Elite maschile | unknown | serie-a |
-| 21/11 07:55 | 21/11 08:25 | IT - Sky Sport Calcio | Nemanja Matic | unknown |  |
-| 21/11 08:00 | 21/11 09:47 | IT - ZONA DAZN | Roma - Inter | unknown | serie-a |
-| 21/11 08:25 | 21/11 10:20 | IT - Sky Sport Calcio | Belgio - Italia | unknown |  |
-| 21/11 08:30 | 21/11 10:15 | IT - Sky Sport 4K | Inter - Como | unknown |  |
-| 21/11 09:25 | 21/11 10:25 | IT - Sky Sport Max | Bundesliga Matchplan Ep.9 20/11/2026 Bundesliga Matchplan | unknown |  |
-| 21/11 10:00 | 21/11 14:00 | IT - Sky Sport 251 | Next Game: Inter U23 - Potenza on 2026-11-21 at 08:00AM EST | unknown |  |
-| 21/11 10:00 | 21/11 14:00 | IT - Sky Sport 252 | Next Game: Treviso - Pergolettese on 2026-11-21 at 08:00AM EST | unknown |  |
-| 21/11 10:00 | 21/11 14:00 | IT - Sky Sport 253 | Next Game: Ostiamare - Atalanta U23 on 2026-11-21 at 08:00AM EST | unknown |  |
-| 21/11 10:00 | 21/11 14:00 | IT - Sky Sport 254 | Next Game: Monopoli - Cavese on 2026-11-21 at 08:00AM EST | unknown |  |
-| 21/11 10:00 | 21/11 14:00 | IT - Sky Sport 255 | Next Game: Audace Cerignola - Barletta on 2026-11-21 at 08:00AM EST | unknown |  |
-| 21/11 10:00 | 21/11 14:00 | IT - Sky Sport 256 | Next Game: Vado - Latina on 2026-11-21 at 08:00AM EST | unknown |  |
-| 21/11 10:00 | 21/11 13:30 | IT - Sky Sport 257 | Next Game: Liverpool - Chelsea on 2026-11-21 at 07:30AM EST | unknown |  |
-| 21/11 10:00 | 21/11 14:00 | IT - Sky Sport 258 | Next Game: Aston Villa - Sunderland on 2026-11-21 at 09:30AM EST | unknown |  |
-| 21/11 10:00 | 21/11 14:00 | IT - Sky Sport 259 | Next Game: Bournemouth - Nottingham Forest on 2026-11-21 at 09:30AM EST | unknown |  |
-| 21/11 10:15 | 21/11 12:05 | IT - Sky Sport 4K | Milan - Ferencváros | unknown |  |
-| 21/11 10:20 | 21/11 10:35 | IT - Sky Sport Calcio | Ep.28 | unknown |  |
-| 21/11 10:35 | 21/11 12:25 | IT - Sky Sport Calcio | FC Bayern Monaco - Colonia | unknown |  |
-| 21/11 10:42 | 21/11 12:25 | IT - ZONA DAZN | Venezia - Fiorentina | unknown | serie-a |
-| 21/11 10:50 | 21/11 11:20 | IT - Sky Sport Max | Uefa Champions League Magazine 2026/2027 Ep | unknown | champions-league |
-| 21/11 12:00 | 21/11 14:45 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 21/11 12:25 | 21/11 12:55 | IT - Sky Sport Calcio | Noir Marsigliese | unknown |  |
-| 21/11 12:25 | 21/11 14:30 | IT - ZONA DAZN | Parma - Napoli | live | serie-a |
-| 21/11 12:55 | 21/11 13:25 | IT - Sky Sport Calcio | Uefa Champions League Magazine 2026/2027 Ep.11 16/11/2026 | unknown | champions-league |
-| 21/11 13:25 | 21/11 15:25 | IT - Sky Sport 4K | Manchester City - Fulham | live |  |
-| 21/11 13:25 | 21/11 15:30 | IT - Sky Sport Calcio | Manchester City - Fulham | live |  |
-| 21/11 13:30 | 21/11 15:55 | IT - Sky Sport 257 | Liverpool - Chelsea | live |  |
-| 21/11 13:45 | 21/11 14:10 | IT - Sky Sport Arena | Noir Marsigliese | unknown |  |
-| 21/11 13:45 | 21/11 15:00 | IT - Sky Sport Max | Pro Recco - Brescia LEN Champions League | unknown | champions-league |
-| 21/11 14:00 | 21/11 17:25 | IT - Sky Sport 251 | Inter U23 - Potenza | live |  |
-| 21/11 14:00 | 21/11 17:25 | IT - Sky Sport 252 | Treviso - Pergolettese | live |  |
-| 21/11 14:00 | 21/11 17:25 | IT - Sky Sport 253 | Ostiamare - Atalanta U23 | live |  |
-| 21/11 14:00 | 21/11 17:25 | IT - Sky Sport 254 | Monopoli - Cavese | live |  |
-| 21/11 14:00 | 21/11 17:25 | IT - Sky Sport 255 | Audace Cerignola - Barletta | live |  |
-| 21/11 14:00 | 21/11 17:25 | IT - Sky Sport 256 | Vado - Latina | live |  |
-| 21/11 14:00 | 21/11 15:30 | IT - Sky Sport 258 | Next Game: Aston Villa - Sunderland on 2026-11-21 at 09:30AM EST | unknown |  |
-| 21/11 14:00 | 21/11 15:30 | IT - Sky Sport 259 | Next Game: Bournemouth - Nottingham Forest on 2026-11-21 at 09:30AM EST | unknown |  |
-| 21/11 14:10 | 21/11 14:25 | IT - Sky Sport Arena | Ep.28 | unknown |  |
-| 21/11 14:30 | 21/11 17:00 | IT - ZONA DAZN | Lazio - Lecce | live | serie-a |
-| 21/11 14:45 | 21/11 17:00 | IT - ZONA DAZN 2 | Como - Cagliari | live | serie-a |
-| 21/11 15:25 | 21/11 15:55 | IT - Sky Sport 4K | Manchester United - Roma | unknown | champions-league |
-| 21/11 15:30 | 21/11 21:00 | IT - Sky Sport | Aston Villa - Sunderland | live |  |
-| 21/11 15:30 | 21/11 21:00 | IT - Sky Sport 258 | Aston Villa - Sunderland | live |  |
-| 21/11 15:30 | 21/11 21:00 | IT - Sky Sport 259 | Bournemouth - Nottingham Forest | live |  |
-| 21/11 15:30 | 21/11 15:55 | IT - Sky Sport Calcio | Noir Marsigliese | unknown |  |
-| 21/11 15:55 | 21/11 21:00 | IT - Sky Sport 257 | Tottenham - Ipswich | live |  |
-| 21/11 15:55 | 21/11 17:55 | IT - Sky Sport 4K | Chelsea - Leeds United | live |  |
-| 21/11 15:55 | 21/11 18:00 | IT - Sky Sport Calcio | Chelsea - Leeds United | live |  |
-| 21/11 17:00 | 21/11 20:52 | IT - ZONA DAZN | Parma - Roma | live | serie-a |
-| 21/11 17:00 | 21/11 18:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 21/11 17:05 | 21/11 17:35 | IT - Sky Sport Legend | Batistuta | unknown |  |
-| 21/11 17:25 | 21/11 20:00 | IT - Sky Sport 251 | Pineto - Pescara | live |  |
-| 21/11 17:25 | 21/11 21:00 | IT - Sky Sport 252 | Giana Erminio - Juve Next Gen | live |  |
-| 21/11 17:25 | 21/11 21:00 | IT - Sky Sport 253 | Campobasso - Vis Pesaro | live |  |
-| 21/11 17:25 | 21/11 21:00 | IT - Sky Sport 254 | Crotone - Cosenza | live |  |
-| 21/11 17:25 | 21/11 21:00 | IT - Sky Sport 255 | Savoia - Sorrento | live |  |
-| 21/11 17:25 | 21/11 21:00 | IT - Sky Sport 256 | F. Caratese - Arzignano V. | live |  |
-| 21/11 17:35 | 21/11 19:25 | IT - Sky Sport Legend | Inter - Lazio 1998 | unknown |  |
-| 21/11 17:55 | 21/11 18:25 | IT - Sky Sport 4K | AZ - Juventus | unknown |  |
-| 21/11 18:00 | 21/11 18:25 | IT - Sky Sport Calcio | Noir Marsigliese | unknown |  |
-| 21/11 18:00 | 22/11 00:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 21/11 18:25 | 21/11 20:25 | IT - Sky Sport 4K | Newcastle - Arsenal | live |  |
-| 21/11 18:25 | 21/11 20:30 | IT - Sky Sport Calcio | Newcastle - Arsenal | live |  |
-| 21/11 19:25 | 21/11 20:10 | IT - Sky Sport Legend | Forti come un leone | unknown |  |
 | 21/11 20:00 | 22/11 00:30 | IT - Sky Sport 251 | Napoli - Torino | live | serie-a |
-| 21/11 20:10 | 21/11 21:00 | IT - Sky Sport Legend | Ep.2 | unknown |  |
-| 21/11 20:20 | 21/11 23:00 | IT - RAI Sport | Pallavolo: Serie A Femminile | unknown | serie-a |
-| 21/11 20:20 | 21/11 23:00 | IT - Rai Sport 1 | Pallavolo: Serie A Femminile | unknown | serie-a |
-| 21/11 20:25 | 21/11 20:40 | IT - Sky Sport 4K | Lens - Como | unknown |  |
-| 21/11 20:30 | 21/11 20:40 | IT - Sky Sport Calcio | Sky Saturday Night | live | serie-a |
-| 21/11 20:40 | 21/11 22:45 | IT - Sky Sport 4K | Napoli - Torino | live |  |
-| 21/11 20:40 | 21/11 22:45 | IT - Sky Sport Calcio | Napoli - Torino | live |  |
-| 21/11 20:52 | 21/11 23:01 | IT - ZONA DAZN | Real Madrid - Celta Vigo | live |  |
 | 21/11 21:00 | 22/11 01:00 | IT - Sky Sport 252 | Signing Off | unknown |  |
 | 21/11 21:00 | 22/11 01:00 | IT - Sky Sport 253 | Signing Off | unknown |  |
 | 21/11 21:00 | 22/11 01:00 | IT - Sky Sport 254 | Signing Off | unknown |  |
@@ -133,10 +29,6 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 | 21/11 21:00 | 22/11 01:00 | IT - Sky Sport 256 | Signing Off | unknown |  |
 | 21/11 21:00 | 22/11 01:00 | IT - Sky Sport 257 | Signing Off | unknown |  |
 | 21/11 21:00 | 22/11 01:00 | IT - Sky Sport 258 | Signing Off | unknown |  |
-| 21/11 21:00 | 21/11 21:45 | IT - Sky Sport Legend | Ep.3 | unknown |  |
-| 21/11 22:30 | 21/11 23:20 | IT - Sky Sport Legend | Pistole e Palloni | unknown |  |
-| 21/11 22:45 | 22/11 00:00 | IT - Sky Sport 4K | Sky Saturday Night | live | serie-a |
-| 21/11 22:45 | 22/11 00:00 | IT - Sky Sport Calcio | Sky Saturday Night | live | serie-a |
 | 21/11 23:00 | 22/11 01:15 | IT - Sky Sport Max | Napoli - Torino Serie A | unknown | serie-a |
 | 21/11 23:20 | 22/11 01:10 | IT - Sky Sport Legend | Milan - Barcellona 1994 | unknown | champions-league |
 | 22/11 00:00 | 22/11 01:45 | IT - Sky Sport 4K | Napoli - Torino | unknown |  |

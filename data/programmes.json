@@ -1,406 +1,8 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T06:10:12.134162Z",
+  "updatedAt": "2026-11-22T07:27:36.852931Z",
   "timezone": "Europe/Rome",
   "programmes": [
-    {
-      "id": "04d9002a2f014d527846b457",
-      "channelId": "SkySport251.it",
-      "source": "it",
-      "startUtc": "2026-11-21T19:00:00Z",
-      "endUtc": "2026-11-21T23:30:00Z",
-      "title": "Napoli - Torino",
-      "subtitle": "",
-      "description": "S2026 E114\nCod. 418479 - Serie A - 12a giornata. Calcio d'inizio ore 20:45.",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [
-        "serie-a"
-      ],
-      "broadcastType": "live",
-      "matchEligible": true
-    },
-    {
-      "id": "f952e6d9abfe6f50b2bf5da0",
-      "channelId": "SkySport252.it",
-      "source": "it",
-      "startUtc": "2026-11-21T20:00:00Z",
-      "endUtc": "2026-11-22T00:00:00Z",
-      "title": "Signing Off",
-      "subtitle": "",
-      "description": "Next Game: Union Brescia - Renate on 2026-11-22 at 06:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "91df35d288f56a8f8a47c91a",
-      "channelId": "SkySport253.it",
-      "source": "it",
-      "startUtc": "2026-11-21T20:00:00Z",
-      "endUtc": "2026-11-22T00:00:00Z",
-      "title": "Signing Off",
-      "subtitle": "",
-      "description": "Next Game: Livorno - Ravenna on 2026-11-22 at 08:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "df28c457b7514d8fe8e09e12",
-      "channelId": "SkySport254.it",
-      "source": "it",
-      "startUtc": "2026-11-21T20:00:00Z",
-      "endUtc": "2026-11-22T00:00:00Z",
-      "title": "Signing Off",
-      "subtitle": "",
-      "description": "Next Game: Altamura - Casarano on 2026-11-22 at 08:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "b3a441193d845991f5482ea4",
-      "channelId": "SkySport255.it",
-      "source": "it",
-      "startUtc": "2026-11-21T20:00:00Z",
-      "endUtc": "2026-11-22T00:00:00Z",
-      "title": "Signing Off",
-      "subtitle": "",
-      "description": "Next Game: Pianese - Gubbio on 2026-11-22 at 08:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "4d6835123f781209ec5c089b",
-      "channelId": "SkySport256.it",
-      "source": "it",
-      "startUtc": "2026-11-21T20:00:00Z",
-      "endUtc": "2026-11-22T00:00:00Z",
-      "title": "Signing Off",
-      "subtitle": "",
-      "description": "Next Game: Alcione Milano - Ospitaletto on 2026-11-22 at 08:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "86800c6917c0ebfb056d916f",
-      "channelId": "SkySport257.it",
-      "source": "it",
-      "startUtc": "2026-11-21T20:00:00Z",
-      "endUtc": "2026-11-22T00:00:00Z",
-      "title": "Signing Off",
-      "subtitle": "",
-      "description": "Next Game: Scafatese - Foggia on 2026-11-22 at 06:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "cfe582a1134324dfaa3c8146",
-      "channelId": "SkySport258.it",
-      "source": "it",
-      "startUtc": "2026-11-21T20:00:00Z",
-      "endUtc": "2026-11-22T00:00:00Z",
-      "title": "Signing Off",
-      "subtitle": "",
-      "description": "Next Game: Pro Vercelli - Novara on 2026-11-22 at 06:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "8a92342cc2e1ca2b1a3098b9",
-      "channelId": "SkySportMax.it",
-      "source": "it",
-      "startUtc": "2026-11-21T22:00:00Z",
-      "endUtc": "2026-11-22T00:15:00Z",
-      "title": "Napoli - Torino Serie A",
-      "subtitle": "",
-      "description": "",
-      "categories": [
-        "Sport",
-        "Sports"
-      ],
-      "competitions": [
-        "serie-a"
-      ],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "469a1d676e1c469e54965976",
-      "channelId": "SkySportLegend.it",
-      "source": "it",
-      "startUtc": "2026-11-21T22:20:00Z",
-      "endUtc": "2026-11-22T00:10:00Z",
-      "title": "Milan - Barcellona 1994",
-      "subtitle": "",
-      "description": "S1 E112 — 1994, Finale: Milan - Barcellona\n... UEFA Champions League Story. - Il 18 Maggio 1994 ad Atene il Milan allenato da Fabio Capello e' in finale contro il Barcellona allenato da Johan Cruijff. Riviviamo una delle finali piu' esaltanti della storia rossonera.",
-      "categories": [
-        "Sports",
-        "Calcio"
-      ],
-      "competitions": [
-        "champions-league"
-      ],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "ea03070e0fd633f46e72505f",
-      "channelId": "SkySport4K.it",
-      "source": "it",
-      "startUtc": "2026-11-21T23:00:00Z",
-      "endUtc": "2026-11-22T00:45:00Z",
-      "title": "Napoli - Torino",
-      "subtitle": "",
-      "description": "S2026 E114\nAzzurri reduci dall'1-1 con la capolista Lazio. Granata con un punto in 3 giornate (1-1 con il Lecce). Non vincono a Napoli dal 2009, 9 ko e 5 pari. TC: Compagnoni-Marchegiani.",
-      "categories": [
-        "Sports",
-        "Calcio"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "48c36f4a02b5cbf30b585b14",
-      "channelId": "SkySportCalcio.it",
-      "source": "it",
-      "startUtc": "2026-11-21T23:00:00Z",
-      "endUtc": "2026-11-21T23:30:00Z",
-      "title": "Noir Marsigliese",
-      "subtitle": "",
-      "description": "S2 E5\nCalcio.",
-      "categories": [
-        "Sports",
-        "Calcio"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "cfa3077641b1a694a05b6e7c",
-      "channelId": "ZONADAZN2.it",
-      "source": "it",
-      "startUtc": "2026-11-21T23:00:00Z",
-      "endUtc": "2026-11-22T05:00:00Z",
-      "title": "Nessun evento in onda",
-      "subtitle": "",
-      "description": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea.",
-      "categories": [
-        "Altri Programmi",
-        "Altri Canali"
-      ],
-      "competitions": [
-        "serie-a"
-      ],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "a7f767a8311915e3be76034f",
-      "channelId": "SkySport251.it",
-      "source": "it",
-      "startUtc": "2026-11-21T23:30:00Z",
-      "endUtc": "2026-11-22T03:30:00Z",
-      "title": "Signing Off",
-      "subtitle": "",
-      "description": "Next Game: Torres - Spezia on 2026-11-22 at 08:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "57b1c11b318ec40bebc59e2c",
-      "channelId": "SkySportCalcio.it",
-      "source": "it",
-      "startUtc": "2026-11-21T23:45:00Z",
-      "endUtc": "2026-11-22T01:30:00Z",
-      "title": "Napoli - Torino",
-      "subtitle": "",
-      "description": "S2026 E114\nAzzurri reduci dall'1-1 con la capolista Lazio. Granata con un punto in 3 giornate (1-1 con il Lecce). Non vincono a Napoli dal 2009, 9 ko e 5 pari. TC: Compagnoni-Marchegiani.",
-      "categories": [
-        "Sports",
-        "Calcio"
-      ],
-      "competitions": [],
-      "broadcastType": "live",
-      "matchEligible": true
-    },
-    {
-      "id": "994d9792428eca8c6ab7685f",
-      "channelId": "SkySport252.it",
-      "source": "it",
-      "startUtc": "2026-11-22T00:00:00Z",
-      "endUtc": "2026-11-22T04:00:00Z",
-      "title": "Signing Off",
-      "subtitle": "",
-      "description": "Next Game: Union Brescia - Renate on 2026-11-22 at 06:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "ac7975a221f535a91b515ecd",
-      "channelId": "SkySport253.it",
-      "source": "it",
-      "startUtc": "2026-11-22T00:00:00Z",
-      "endUtc": "2026-11-22T04:00:00Z",
-      "title": "Signing Off",
-      "subtitle": "",
-      "description": "Next Game: Livorno - Ravenna on 2026-11-22 at 08:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "770660e08a5291d5f67ab8b3",
-      "channelId": "SkySport254.it",
-      "source": "it",
-      "startUtc": "2026-11-22T00:00:00Z",
-      "endUtc": "2026-11-22T04:00:00Z",
-      "title": "Signing Off",
-      "subtitle": "",
-      "description": "Next Game: Altamura - Casarano on 2026-11-22 at 08:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "4c86948d47fb2539ca2a5872",
-      "channelId": "SkySport255.it",
-      "source": "it",
-      "startUtc": "2026-11-22T00:00:00Z",
-      "endUtc": "2026-11-22T04:00:00Z",
-      "title": "Signing Off",
-      "subtitle": "",
-      "description": "Next Game: Pianese - Gubbio on 2026-11-22 at 08:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "15f56e064f2db572fb0a48d0",
-      "channelId": "SkySport256.it",
-      "source": "it",
-      "startUtc": "2026-11-22T00:00:00Z",
-      "endUtc": "2026-11-22T04:00:00Z",
-      "title": "Signing Off",
-      "subtitle": "",
-      "description": "Next Game: Alcione Milano - Ospitaletto on 2026-11-22 at 08:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "1bf191f3887b9709088d334f",
-      "channelId": "SkySport257.it",
-      "source": "it",
-      "startUtc": "2026-11-22T00:00:00Z",
-      "endUtc": "2026-11-22T04:00:00Z",
-      "title": "Signing Off",
-      "subtitle": "",
-      "description": "Next Game: Scafatese - Foggia on 2026-11-22 at 06:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "49713e8780f2385ba21d4160",
-      "channelId": "SkySport258.it",
-      "source": "it",
-      "startUtc": "2026-11-22T00:00:00Z",
-      "endUtc": "2026-11-22T04:00:00Z",
-      "title": "Signing Off",
-      "subtitle": "",
-      "description": "Next Game: Pro Vercelli - Novara on 2026-11-22 at 06:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
     {
       "id": "3a49769a7a5da4e87ef268e7",
       "channelId": "SkySportLegend.it",
@@ -417,6 +19,150 @@
       "competitions": [
         "champions-league"
       ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "b32030bc428c1f5fb6832a74",
+      "channelId": "SkySport251.it",
+      "source": "it",
+      "startUtc": "2026-11-22T01:00:00Z",
+      "endUtc": "2026-11-22T05:00:00Z",
+      "title": "Next Game: Torres - Spezia on 2026-11-22 at 08:00AM EST",
+      "subtitle": "",
+      "description": "Next Game: Torres - Spezia on 2026-11-22 at 08:00AM EST",
+      "categories": [
+        "Sport",
+        "Calcio",
+        "Sports"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "dfd3a4a3116a9d492f332e72",
+      "channelId": "SkySport252.it",
+      "source": "it",
+      "startUtc": "2026-11-22T01:00:00Z",
+      "endUtc": "2026-11-22T05:00:00Z",
+      "title": "Next Game: Union Brescia - Renate on 2026-11-22 at 06:00AM EST",
+      "subtitle": "",
+      "description": "Next Game: Union Brescia - Renate on 2026-11-22 at 06:00AM EST",
+      "categories": [
+        "Sport",
+        "Calcio",
+        "Sports"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "c6868361f07a3dfde5ebfc51",
+      "channelId": "SkySport253.it",
+      "source": "it",
+      "startUtc": "2026-11-22T01:00:00Z",
+      "endUtc": "2026-11-22T05:00:00Z",
+      "title": "Next Game: Livorno - Ravenna on 2026-11-22 at 08:00AM EST",
+      "subtitle": "",
+      "description": "Next Game: Livorno - Ravenna on 2026-11-22 at 08:00AM EST",
+      "categories": [
+        "Sport",
+        "Calcio",
+        "Sports"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "2a18c55f4ffc392299eec098",
+      "channelId": "SkySport254.it",
+      "source": "it",
+      "startUtc": "2026-11-22T01:00:00Z",
+      "endUtc": "2026-11-22T05:00:00Z",
+      "title": "Next Game: Altamura - Casarano on 2026-11-22 at 08:00AM EST",
+      "subtitle": "",
+      "description": "Next Game: Altamura - Casarano on 2026-11-22 at 08:00AM EST",
+      "categories": [
+        "Sport",
+        "Calcio",
+        "Sports"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "5648be589144a7f30399e161",
+      "channelId": "SkySport255.it",
+      "source": "it",
+      "startUtc": "2026-11-22T01:00:00Z",
+      "endUtc": "2026-11-22T05:00:00Z",
+      "title": "Next Game: Pianese - Gubbio on 2026-11-22 at 08:00AM EST",
+      "subtitle": "",
+      "description": "Next Game: Pianese - Gubbio on 2026-11-22 at 08:00AM EST",
+      "categories": [
+        "Sport",
+        "Calcio",
+        "Sports"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "d1d9fb70b1ef9788c4d955df",
+      "channelId": "SkySport256.it",
+      "source": "it",
+      "startUtc": "2026-11-22T01:00:00Z",
+      "endUtc": "2026-11-22T05:00:00Z",
+      "title": "Next Game: Alcione Milano - Ospitaletto on 2026-11-22 at 08:00AM EST",
+      "subtitle": "",
+      "description": "Next Game: Alcione Milano - Ospitaletto on 2026-11-22 at 08:00AM EST",
+      "categories": [
+        "Sport",
+        "Calcio",
+        "Sports"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "71d21f0c7ee1b56b94614589",
+      "channelId": "SkySport257.it",
+      "source": "it",
+      "startUtc": "2026-11-22T01:00:00Z",
+      "endUtc": "2026-11-22T05:00:00Z",
+      "title": "Next Game: Scafatese - Foggia on 2026-11-22 at 06:00AM EST",
+      "subtitle": "",
+      "description": "Next Game: Scafatese - Foggia on 2026-11-22 at 06:00AM EST",
+      "categories": [
+        "Sport",
+        "Calcio",
+        "Sports"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "ec4c4a952d3bcb885ae4631f",
+      "channelId": "SkySport258.it",
+      "source": "it",
+      "startUtc": "2026-11-22T01:00:00Z",
+      "endUtc": "2026-11-22T05:00:00Z",
+      "title": "Next Game: Pro Vercelli - Novara on 2026-11-22 at 06:00AM EST",
+      "subtitle": "",
+      "description": "Next Game: Pro Vercelli - Novara on 2026-11-22 at 06:00AM EST",
+      "categories": [
+        "Sport",
+        "Calcio",
+        "Sports"
+      ],
+      "competitions": [],
       "broadcastType": "unknown",
       "matchEligible": true
     },
@@ -493,150 +239,6 @@
       "matchEligible": true
     },
     {
-      "id": "6a0d551f27a241b8f706d936",
-      "channelId": "SkySport251.it",
-      "source": "it",
-      "startUtc": "2026-11-22T03:30:00Z",
-      "endUtc": "2026-11-22T07:30:00Z",
-      "title": "Signing Off",
-      "subtitle": "",
-      "description": "Next Game: Torres - Spezia on 2026-11-22 at 08:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "a483152fef5d384e273e45d8",
-      "channelId": "SkySport252.it",
-      "source": "it",
-      "startUtc": "2026-11-22T04:00:00Z",
-      "endUtc": "2026-11-22T08:00:00Z",
-      "title": "Signing Off",
-      "subtitle": "",
-      "description": "Next Game: Union Brescia - Renate on 2026-11-22 at 06:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "de40ee8607be1abd250717fd",
-      "channelId": "SkySport253.it",
-      "source": "it",
-      "startUtc": "2026-11-22T04:00:00Z",
-      "endUtc": "2026-11-22T08:00:00Z",
-      "title": "Signing Off",
-      "subtitle": "",
-      "description": "Next Game: Livorno - Ravenna on 2026-11-22 at 08:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "3f3a37587878b3e65573b62e",
-      "channelId": "SkySport254.it",
-      "source": "it",
-      "startUtc": "2026-11-22T04:00:00Z",
-      "endUtc": "2026-11-22T08:00:00Z",
-      "title": "Signing Off",
-      "subtitle": "",
-      "description": "Next Game: Altamura - Casarano on 2026-11-22 at 08:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "d51296804581d1c13b654427",
-      "channelId": "SkySport255.it",
-      "source": "it",
-      "startUtc": "2026-11-22T04:00:00Z",
-      "endUtc": "2026-11-22T08:00:00Z",
-      "title": "Signing Off",
-      "subtitle": "",
-      "description": "Next Game: Pianese - Gubbio on 2026-11-22 at 08:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "a767a06e067bffda1456a1e2",
-      "channelId": "SkySport256.it",
-      "source": "it",
-      "startUtc": "2026-11-22T04:00:00Z",
-      "endUtc": "2026-11-22T08:00:00Z",
-      "title": "Signing Off",
-      "subtitle": "",
-      "description": "Next Game: Alcione Milano - Ospitaletto on 2026-11-22 at 08:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "a100376bf341d64157fe6c94",
-      "channelId": "SkySport257.it",
-      "source": "it",
-      "startUtc": "2026-11-22T04:00:00Z",
-      "endUtc": "2026-11-22T08:00:00Z",
-      "title": "Signing Off",
-      "subtitle": "",
-      "description": "Next Game: Scafatese - Foggia on 2026-11-22 at 06:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "7306d19a0835b5075425847c",
-      "channelId": "SkySport258.it",
-      "source": "it",
-      "startUtc": "2026-11-22T04:00:00Z",
-      "endUtc": "2026-11-22T08:00:00Z",
-      "title": "Signing Off",
-      "subtitle": "",
-      "description": "Next Game: Pro Vercelli - Novara on 2026-11-22 at 06:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
       "id": "2547274585c7121d98c223ec",
       "channelId": "SkySportCalcio.it",
       "source": "it",
@@ -667,6 +269,150 @@
       "categories": [
         "Sports",
         "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "f7afad9248cdec3bab5a830c",
+      "channelId": "SkySport251.it",
+      "source": "it",
+      "startUtc": "2026-11-22T05:00:00Z",
+      "endUtc": "2026-11-22T09:00:00Z",
+      "title": "Next Game: Torres - Spezia on 2026-11-22 at 08:00AM EST",
+      "subtitle": "",
+      "description": "Next Game: Torres - Spezia on 2026-11-22 at 08:00AM EST",
+      "categories": [
+        "Sport",
+        "Calcio",
+        "Sports"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "3f7dba064911fa94f69913fa",
+      "channelId": "SkySport252.it",
+      "source": "it",
+      "startUtc": "2026-11-22T05:00:00Z",
+      "endUtc": "2026-11-22T09:00:00Z",
+      "title": "Next Game: Union Brescia - Renate on 2026-11-22 at 06:00AM EST",
+      "subtitle": "",
+      "description": "Next Game: Union Brescia - Renate on 2026-11-22 at 06:00AM EST",
+      "categories": [
+        "Sport",
+        "Calcio",
+        "Sports"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "d9605728304efe03da5ea253",
+      "channelId": "SkySport253.it",
+      "source": "it",
+      "startUtc": "2026-11-22T05:00:00Z",
+      "endUtc": "2026-11-22T09:00:00Z",
+      "title": "Next Game: Livorno - Ravenna on 2026-11-22 at 08:00AM EST",
+      "subtitle": "",
+      "description": "Next Game: Livorno - Ravenna on 2026-11-22 at 08:00AM EST",
+      "categories": [
+        "Sport",
+        "Calcio",
+        "Sports"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "5fa0d66706711546052ab5fa",
+      "channelId": "SkySport254.it",
+      "source": "it",
+      "startUtc": "2026-11-22T05:00:00Z",
+      "endUtc": "2026-11-22T09:00:00Z",
+      "title": "Next Game: Altamura - Casarano on 2026-11-22 at 08:00AM EST",
+      "subtitle": "",
+      "description": "Next Game: Altamura - Casarano on 2026-11-22 at 08:00AM EST",
+      "categories": [
+        "Sport",
+        "Calcio",
+        "Sports"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "7b74cea30dcfeb0cd6cf4824",
+      "channelId": "SkySport255.it",
+      "source": "it",
+      "startUtc": "2026-11-22T05:00:00Z",
+      "endUtc": "2026-11-22T09:00:00Z",
+      "title": "Next Game: Pianese - Gubbio on 2026-11-22 at 08:00AM EST",
+      "subtitle": "",
+      "description": "Next Game: Pianese - Gubbio on 2026-11-22 at 08:00AM EST",
+      "categories": [
+        "Sport",
+        "Calcio",
+        "Sports"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "9499031ffe22f7e6efde01b1",
+      "channelId": "SkySport256.it",
+      "source": "it",
+      "startUtc": "2026-11-22T05:00:00Z",
+      "endUtc": "2026-11-22T09:00:00Z",
+      "title": "Next Game: Alcione Milano - Ospitaletto on 2026-11-22 at 08:00AM EST",
+      "subtitle": "",
+      "description": "Next Game: Alcione Milano - Ospitaletto on 2026-11-22 at 08:00AM EST",
+      "categories": [
+        "Sport",
+        "Calcio",
+        "Sports"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "312dbeb2eb2e8310f10c441f",
+      "channelId": "SkySport257.it",
+      "source": "it",
+      "startUtc": "2026-11-22T05:00:00Z",
+      "endUtc": "2026-11-22T09:00:00Z",
+      "title": "Next Game: Scafatese - Foggia on 2026-11-22 at 06:00AM EST",
+      "subtitle": "",
+      "description": "Next Game: Scafatese - Foggia on 2026-11-22 at 06:00AM EST",
+      "categories": [
+        "Sport",
+        "Calcio",
+        "Sports"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "0d5594ecde8c3d428ef69287",
+      "channelId": "SkySport258.it",
+      "source": "it",
+      "startUtc": "2026-11-22T05:00:00Z",
+      "endUtc": "2026-11-22T09:00:00Z",
+      "title": "Next Game: Pro Vercelli - Novara on 2026-11-22 at 06:00AM EST",
+      "subtitle": "",
+      "description": "Next Game: Pro Vercelli - Novara on 2026-11-22 at 06:00AM EST",
+      "categories": [
+        "Sport",
+        "Calcio",
+        "Sports"
       ],
       "competitions": [],
       "broadcastType": "unknown",
@@ -796,29 +542,28 @@
       "matchEligible": true
     },
     {
-      "id": "124cd5909e9d795a2a21c579",
-      "channelId": "SkySport251.it",
+      "id": "226f3381ca81175449069f2a",
+      "channelId": "SkySportCalcio.it",
       "source": "it",
-      "startUtc": "2026-11-22T07:30:00Z",
-      "endUtc": "2026-11-22T08:00:00Z",
-      "title": "Signing Off",
+      "startUtc": "2026-11-22T08:45:00Z",
+      "endUtc": "2026-11-22T09:00:00Z",
+      "title": "Ep.28",
       "subtitle": "",
-      "description": "Next Game: Torres - Spezia on 2026-11-22 at 08:00AM EST",
+      "description": "S2026 E28\nServizi informativi dedicati ai piu' piccoli sportivi italiani e alle realta' giovanili legate al calcio, tra trofei, incontri, e storie.",
       "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
+        "Sports",
+        "Calcio"
       ],
       "competitions": [],
       "broadcastType": "unknown",
       "matchEligible": true
     },
     {
-      "id": "bcf2647abd703233e0345f88",
+      "id": "9db53cddece71ebdbd3e7796",
       "channelId": "SkySport251.it",
       "source": "it",
-      "startUtc": "2026-11-22T08:00:00Z",
-      "endUtc": "2026-11-22T12:00:00Z",
+      "startUtc": "2026-11-22T09:00:00Z",
+      "endUtc": "2026-11-22T13:00:00Z",
       "title": "Next Game: Torres - Spezia on 2026-11-22 at 08:00AM EST",
       "subtitle": "",
       "description": "Next Game: Torres - Spezia on 2026-11-22 at 08:00AM EST",
@@ -832,10 +577,10 @@
       "matchEligible": true
     },
     {
-      "id": "74138ce6fde510daadf93545",
+      "id": "a5273bee714a3085be51cdff",
       "channelId": "SkySport252.it",
       "source": "it",
-      "startUtc": "2026-11-22T08:00:00Z",
+      "startUtc": "2026-11-22T09:00:00Z",
       "endUtc": "2026-11-22T11:00:00Z",
       "title": "Next Game: Union Brescia - Renate on 2026-11-22 at 06:00AM EST",
       "subtitle": "",
@@ -850,11 +595,11 @@
       "matchEligible": true
     },
     {
-      "id": "741de2b7862606be862f501f",
+      "id": "13f78ab902cb435063f7cdb0",
       "channelId": "SkySport253.it",
       "source": "it",
-      "startUtc": "2026-11-22T08:00:00Z",
-      "endUtc": "2026-11-22T12:00:00Z",
+      "startUtc": "2026-11-22T09:00:00Z",
+      "endUtc": "2026-11-22T13:00:00Z",
       "title": "Next Game: Livorno - Ravenna on 2026-11-22 at 08:00AM EST",
       "subtitle": "",
       "description": "Next Game: Livorno - Ravenna on 2026-11-22 at 08:00AM EST",
@@ -868,11 +613,11 @@
       "matchEligible": true
     },
     {
-      "id": "384c975356f4aeb74c45e26d",
+      "id": "d05ec36c2d5bd91db8623ac5",
       "channelId": "SkySport254.it",
       "source": "it",
-      "startUtc": "2026-11-22T08:00:00Z",
-      "endUtc": "2026-11-22T12:00:00Z",
+      "startUtc": "2026-11-22T09:00:00Z",
+      "endUtc": "2026-11-22T13:00:00Z",
       "title": "Next Game: Altamura - Casarano on 2026-11-22 at 08:00AM EST",
       "subtitle": "",
       "description": "Next Game: Altamura - Casarano on 2026-11-22 at 08:00AM EST",
@@ -886,11 +631,11 @@
       "matchEligible": true
     },
     {
-      "id": "1932b0f3dc3490f2537b8d89",
+      "id": "c7ac9db034098ec7322eda2a",
       "channelId": "SkySport255.it",
       "source": "it",
-      "startUtc": "2026-11-22T08:00:00Z",
-      "endUtc": "2026-11-22T12:00:00Z",
+      "startUtc": "2026-11-22T09:00:00Z",
+      "endUtc": "2026-11-22T13:00:00Z",
       "title": "Next Game: Pianese - Gubbio on 2026-11-22 at 08:00AM EST",
       "subtitle": "",
       "description": "Next Game: Pianese - Gubbio on 2026-11-22 at 08:00AM EST",
@@ -904,11 +649,11 @@
       "matchEligible": true
     },
     {
-      "id": "325fd77cc4ceaed094a13772",
+      "id": "25dac33527708aa81903f5fc",
       "channelId": "SkySport256.it",
       "source": "it",
-      "startUtc": "2026-11-22T08:00:00Z",
-      "endUtc": "2026-11-22T12:00:00Z",
+      "startUtc": "2026-11-22T09:00:00Z",
+      "endUtc": "2026-11-22T13:00:00Z",
       "title": "Next Game: Alcione Milano - Ospitaletto on 2026-11-22 at 08:00AM EST",
       "subtitle": "",
       "description": "Next Game: Alcione Milano - Ospitaletto on 2026-11-22 at 08:00AM EST",
@@ -922,10 +667,10 @@
       "matchEligible": true
     },
     {
-      "id": "8f6e18884a6a8c581e6dcc0c",
+      "id": "db9b158cb737711b18e518d5",
       "channelId": "SkySport257.it",
       "source": "it",
-      "startUtc": "2026-11-22T08:00:00Z",
+      "startUtc": "2026-11-22T09:00:00Z",
       "endUtc": "2026-11-22T11:00:00Z",
       "title": "Next Game: Scafatese - Foggia on 2026-11-22 at 06:00AM EST",
       "subtitle": "",
@@ -940,10 +685,10 @@
       "matchEligible": true
     },
     {
-      "id": "da2041c14d7e932f048b7861",
+      "id": "705ec00afad982160d938428",
       "channelId": "SkySport258.it",
       "source": "it",
-      "startUtc": "2026-11-22T08:00:00Z",
+      "startUtc": "2026-11-22T09:00:00Z",
       "endUtc": "2026-11-22T11:00:00Z",
       "title": "Next Game: Pro Vercelli - Novara on 2026-11-22 at 06:00AM EST",
       "subtitle": "",
@@ -952,23 +697,6 @@
         "Sport",
         "Calcio",
         "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "226f3381ca81175449069f2a",
-      "channelId": "SkySportCalcio.it",
-      "source": "it",
-      "startUtc": "2026-11-22T08:45:00Z",
-      "endUtc": "2026-11-22T09:00:00Z",
-      "title": "Ep.28",
-      "subtitle": "",
-      "description": "S2026 E28\nServizi informativi dedicati ai piu' piccoli sportivi italiani e alle realta' giovanili legate al calcio, tra trofei, incontri, e storie.",
-      "categories": [
-        "Sports",
-        "Calcio"
       ],
       "competitions": [],
       "broadcastType": "unknown",
@@ -1217,96 +945,6 @@
       ],
       "competitions": [],
       "broadcastType": "live",
-      "matchEligible": true
-    },
-    {
-      "id": "ce035d1e0d85b59ab48ff685",
-      "channelId": "SkySport251.it",
-      "source": "it",
-      "startUtc": "2026-11-22T12:00:00Z",
-      "endUtc": "2026-11-22T13:00:00Z",
-      "title": "Next Game: Torres - Spezia on 2026-11-22 at 08:00AM EST",
-      "subtitle": "",
-      "description": "Next Game: Torres - Spezia on 2026-11-22 at 08:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "dc0b8ab4db9c5da48d4f8ff1",
-      "channelId": "SkySport253.it",
-      "source": "it",
-      "startUtc": "2026-11-22T12:00:00Z",
-      "endUtc": "2026-11-22T13:00:00Z",
-      "title": "Next Game: Livorno - Ravenna on 2026-11-22 at 08:00AM EST",
-      "subtitle": "",
-      "description": "Next Game: Livorno - Ravenna on 2026-11-22 at 08:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "9af78fb1802b71feed5af2bc",
-      "channelId": "SkySport254.it",
-      "source": "it",
-      "startUtc": "2026-11-22T12:00:00Z",
-      "endUtc": "2026-11-22T13:00:00Z",
-      "title": "Next Game: Altamura - Casarano on 2026-11-22 at 08:00AM EST",
-      "subtitle": "",
-      "description": "Next Game: Altamura - Casarano on 2026-11-22 at 08:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "cd4db22ddf393a5d68053a43",
-      "channelId": "SkySport255.it",
-      "source": "it",
-      "startUtc": "2026-11-22T12:00:00Z",
-      "endUtc": "2026-11-22T13:00:00Z",
-      "title": "Next Game: Pianese - Gubbio on 2026-11-22 at 08:00AM EST",
-      "subtitle": "",
-      "description": "Next Game: Pianese - Gubbio on 2026-11-22 at 08:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "c12ef7defe18561447d581d8",
-      "channelId": "SkySport256.it",
-      "source": "it",
-      "startUtc": "2026-11-22T12:00:00Z",
-      "endUtc": "2026-11-22T13:00:00Z",
-      "title": "Next Game: Alcione Milano - Ospitaletto on 2026-11-22 at 08:00AM EST",
-      "subtitle": "",
-      "description": "Next Game: Alcione Milano - Ospitaletto on 2026-11-22 at 08:00AM EST",
-      "categories": [
-        "Sport",
-        "Calcio",
-        "Sports"
-      ],
-      "competitions": [],
-      "broadcastType": "unknown",
       "matchEligible": true
     },
     {
@@ -5544,11 +5182,11 @@
       "matchEligible": true
     },
     {
-      "id": "341f4e2ff9f180dab8b785a4",
+      "id": "8243ffe80a30eb959ddff5ab",
       "channelId": "SkySportCalcio.it",
       "source": "it",
       "startUtc": "2026-11-24T04:15:00Z",
-      "endUtc": "2026-11-24T04:45:00Z",
+      "endUtc": "2026-11-24T04:40:00Z",
       "title": "Noir Marsigliese",
       "subtitle": "",
       "description": "S2 E5\nCalcio.",
@@ -5557,6 +5195,25 @@
         "Calcio"
       ],
       "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "be342d489e267b74abe9d209",
+      "channelId": "SkySportCalcio.it",
+      "source": "it",
+      "startUtc": "2026-11-24T04:40:00Z",
+      "endUtc": "2026-11-24T05:00:00Z",
+      "title": "Kakà: tutti i gol in Champions League",
+      "subtitle": "",
+      "description": "La magia col Celtic, la storica doppietta di Old Trafford fino all'ultima perla contro l'Atletico: riviviamo tutti i gol di Kaka' in Champions League con le maglie di Milan e Real Madrid.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [
+        "champions-league"
+      ],
       "broadcastType": "unknown",
       "matchEligible": true
     },
@@ -5574,25 +5231,6 @@
         "Calcio"
       ],
       "competitions": [],
-      "broadcastType": "unknown",
-      "matchEligible": true
-    },
-    {
-      "id": "6d0f6f83c4ae288553156c30",
-      "channelId": "SkySportCalcio.it",
-      "source": "it",
-      "startUtc": "2026-11-24T04:45:00Z",
-      "endUtc": "2026-11-24T05:00:00Z",
-      "title": "Kakà: tutti i gol in Champions League",
-      "subtitle": "",
-      "description": "La magia col Celtic, la storica doppietta di Old Trafford fino all'ultima perla contro l'Atletico: riviviamo tutti i gol di Kaka' in Champions League con le maglie di Milan e Real Madrid.",
-      "categories": [
-        "Sports",
-        "Calcio"
-      ],
-      "competitions": [
-        "champions-league"
-      ],
       "broadcastType": "unknown",
       "matchEligible": true
     },
@@ -5647,6 +5285,44 @@
       ],
       "competitions": [
         "champions-league"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "89addb9352ed53a02c3945e4",
+      "channelId": "RAISport.it",
+      "source": "it",
+      "startUtc": "2026-11-24T07:00:00Z",
+      "endUtc": "2026-11-24T08:00:00Z",
+      "title": "Serie B",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
+      ],
+      "competitions": [
+        "serie-b"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "c20f1e669c3c89dda52b4087",
+      "channelId": "RaiSport1.it",
+      "source": "it",
+      "startUtc": "2026-11-24T07:00:00Z",
+      "endUtc": "2026-11-24T08:00:00Z",
+      "title": "Serie B",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
+      ],
+      "competitions": [
+        "serie-b"
       ],
       "broadcastType": "unknown",
       "matchEligible": true
@@ -5774,6 +5450,59 @@
       "categories": [
         "Sports",
         "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "babf44a7ddbf6fa70bc07464",
+      "channelId": "SkySportNBA.it",
+      "source": "it",
+      "startUtc": "2026-11-24T07:30:00Z",
+      "endUtc": "2026-11-24T09:30:00Z",
+      "title": "Tezenis Verona - Udine Lega Basket Serie A",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "afc4eab89cf6e0b90f98f173",
+      "channelId": "RAISport.it",
+      "source": "it",
+      "startUtc": "2026-11-24T08:00:00Z",
+      "endUtc": "2026-11-24T09:55:00Z",
+      "title": "Serie C",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "a89d6574ca5d3e71d78956b7",
+      "channelId": "RaiSport1.it",
+      "source": "it",
+      "startUtc": "2026-11-24T08:00:00Z",
+      "endUtc": "2026-11-24T09:55:00Z",
+      "title": "Serie C",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
       ],
       "competitions": [],
       "broadcastType": "unknown",
@@ -5926,6 +5655,25 @@
       "matchEligible": true
     },
     {
+      "id": "753412a58abb7597d29c54ad",
+      "channelId": "SkySportMax.it",
+      "source": "it",
+      "startUtc": "2026-11-24T08:30:00Z",
+      "endUtc": "2026-11-24T10:15:00Z",
+      "title": "Monza - Fiorentina Serie A",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
       "id": "83b3fd52086f3528aeb7cd28",
       "channelId": "SkySportCalcio.it",
       "source": "it",
@@ -5962,6 +5710,44 @@
       "matchEligible": true
     },
     {
+      "id": "b4956e937245499d84ac2a87",
+      "channelId": "RAISport.it",
+      "source": "it",
+      "startUtc": "2026-11-24T09:55:00Z",
+      "endUtc": "2026-11-24T10:10:00Z",
+      "title": "Serie B",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
+      ],
+      "competitions": [
+        "serie-b"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "ad28ce5e9b656a317b22bf1b",
+      "channelId": "RaiSport1.it",
+      "source": "it",
+      "startUtc": "2026-11-24T09:55:00Z",
+      "endUtc": "2026-11-24T10:10:00Z",
+      "title": "Serie B",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
+      ],
+      "competitions": [
+        "serie-b"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
       "id": "146f7be8911503674cd756ac",
       "channelId": "SkySportLegend.it",
       "source": "it",
@@ -5979,6 +5765,25 @@
       ],
       "broadcastType": "unknown",
       "matchEligible": true
+    },
+    {
+      "id": "48385ed6e95335516a5096a1",
+      "channelId": "SkySportMax.it",
+      "source": "it",
+      "startUtc": "2026-11-24T10:15:00Z",
+      "endUtc": "2026-11-24T10:45:00Z",
+      "title": "Uefa Champions League Magazine 2026/2027 Ep",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
+      ],
+      "competitions": [
+        "champions-league"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": false
     },
     {
       "id": "6c9be702fa1048153509ada3",
@@ -6032,6 +5837,23 @@
       "competitions": [
         "serie-a"
       ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "9c441f3ac74fc7917c7d443a",
+      "channelId": "SkySport24.it",
+      "source": "it",
+      "startUtc": "2026-11-24T12:00:00Z",
+      "endUtc": "2026-11-24T12:30:00Z",
+      "title": "Il Calcio e' Servito",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
+      ],
+      "competitions": [],
       "broadcastType": "unknown",
       "matchEligible": true
     },
@@ -6201,6 +6023,23 @@
       "matchEligible": false
     },
     {
+      "id": "b4af38b0f71def41098a52f5",
+      "channelId": "SkySport24.it",
+      "source": "it",
+      "startUtc": "2026-11-24T12:30:00Z",
+      "endUtc": "2026-11-24T13:00:00Z",
+      "title": "Il Calcio e' Servito",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
       "id": "7cbabe0c48ae7501a684dd0b",
       "channelId": "SkySportCalcio.it",
       "source": "it",
@@ -6269,6 +6108,44 @@
       "matchEligible": true
     },
     {
+      "id": "ad736df62c04d8808cadb597",
+      "channelId": "RAISport.it",
+      "source": "it",
+      "startUtc": "2026-11-24T13:10:00Z",
+      "endUtc": "2026-11-24T15:50:00Z",
+      "title": "Pallavolo: Serie A Maschile",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "68b326e509ee33e0bf6b8cce",
+      "channelId": "RaiSport1.it",
+      "source": "it",
+      "startUtc": "2026-11-24T13:10:00Z",
+      "endUtc": "2026-11-24T15:50:00Z",
+      "title": "Pallavolo: Serie A Maschile",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
       "id": "314c0afb2b8ff71ae3a419bb",
       "channelId": "ZONADAZN.it",
       "source": "it",
@@ -6320,6 +6197,25 @@
       "matchEligible": true
     },
     {
+      "id": "8b200ff7588bf57efc77835d",
+      "channelId": "SkySportMax.it",
+      "source": "it",
+      "startUtc": "2026-11-24T15:00:00Z",
+      "endUtc": "2026-11-24T15:30:00Z",
+      "title": "Uefa Champions League Magazine 2026/2027 Ep",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
+      ],
+      "competitions": [
+        "champions-league"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": false
+    },
+    {
       "id": "0cf66ccb38af0c6f1c0efcfc",
       "channelId": "ZONADAZN.it",
       "source": "it",
@@ -6350,6 +6246,25 @@
         "Calcio"
       ],
       "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "69dbe68c4d2161c9d2f50a0d",
+      "channelId": "SkySportMax.it",
+      "source": "it",
+      "startUtc": "2026-11-24T15:30:00Z",
+      "endUtc": "2026-11-24T17:30:00Z",
+      "title": "Milan - Frosinone Serie A",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
       "broadcastType": "unknown",
       "matchEligible": true
     },
@@ -6536,6 +6451,25 @@
       "matchEligible": true
     },
     {
+      "id": "4f4ceef8c78442674265e4df",
+      "channelId": "SkySport24.it",
+      "source": "it",
+      "startUtc": "2026-11-24T17:00:00Z",
+      "endUtc": "2026-11-24T17:45:00Z",
+      "title": "Sky Calcio Show (Ucl) 24/11/2026 Sky Calcio Show",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
+      ],
+      "competitions": [
+        "champions-league"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
       "id": "843625c0ff9046915f1ae924",
       "channelId": "SkySport251.it",
       "source": "it",
@@ -6593,6 +6527,25 @@
         "champions-league"
       ],
       "broadcastType": "live",
+      "matchEligible": true
+    },
+    {
+      "id": "ccb51ce1c06be08845fc3bb7",
+      "channelId": "SkySportNBA.it",
+      "source": "it",
+      "startUtc": "2026-11-24T17:00:00Z",
+      "endUtc": "2026-11-24T19:00:00Z",
+      "title": "Tezenis Verona - Udine Lega Basket Serie A",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
+      "broadcastType": "unknown",
       "matchEligible": true
     },
     {
@@ -6757,6 +6710,25 @@
       "matchEligible": true
     },
     {
+      "id": "b72978489ae50031c4d8db80",
+      "channelId": "SkySport24.it",
+      "source": "it",
+      "startUtc": "2026-11-24T19:00:00Z",
+      "endUtc": "2026-11-24T20:00:00Z",
+      "title": "Sky Calcio Show (Ucl) 24/11/2026 Sky Calcio Show",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
+      ],
+      "competitions": [
+        "champions-league"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
       "id": "40d585b64359048c91f14072",
       "channelId": "SkySport252.it",
       "source": "it",
@@ -6873,6 +6845,25 @@
         "champions-league"
       ],
       "broadcastType": "live",
+      "matchEligible": true
+    },
+    {
+      "id": "cbae8f9262c1ba8fd2914795",
+      "channelId": "SkySportNBA.it",
+      "source": "it",
+      "startUtc": "2026-11-24T19:15:00Z",
+      "endUtc": "2026-11-24T19:45:00Z",
+      "title": "Basket Room Serie A 2026/2027...",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
+      "broadcastType": "unknown",
       "matchEligible": true
     },
     {
@@ -7044,6 +7035,25 @@
       "matchEligible": true
     },
     {
+      "id": "fc20a2ed553ab73a55be19de",
+      "channelId": "SkySport24.it",
+      "source": "it",
+      "startUtc": "2026-11-24T22:00:00Z",
+      "endUtc": "2026-11-24T23:00:00Z",
+      "title": "Sky Calcio Show (Ucl) 24/11/2026 Sky Calcio Show",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
+      ],
+      "competitions": [
+        "champions-league"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
       "id": "263bbf2aaa5436bc2df92ad1",
       "channelId": "SkySport4K.it",
       "source": "it",
@@ -7116,6 +7126,63 @@
       "matchEligible": true
     },
     {
+      "id": "344a0dc075de3d4b55360b82",
+      "channelId": "SkySportMax.it",
+      "source": "it",
+      "startUtc": "2026-11-24T22:00:00Z",
+      "endUtc": "2026-11-25T00:00:00Z",
+      "title": "Como - AEK Atene UEFA Champions League",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
+      ],
+      "competitions": [
+        "champions-league"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "66c4223afedc0ea40d2a3767",
+      "channelId": "RAISport.it",
+      "source": "it",
+      "startUtc": "2026-11-24T22:15:00Z",
+      "endUtc": "2026-11-24T23:00:00Z",
+      "title": "Serie A Women Athora",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "a65e3378986efbdab0fbb3e9",
+      "channelId": "RaiSport1.it",
+      "source": "it",
+      "startUtc": "2026-11-24T22:15:00Z",
+      "endUtc": "2026-11-24T23:00:00Z",
+      "title": "Serie A Women Athora",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
       "id": "d1da3d368025cb97df0f17a6",
       "channelId": "SkySportArena.it",
       "source": "it",
@@ -7146,6 +7213,44 @@
         "Calcio"
       ],
       "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "d3f401381399294c42123d0c",
+      "channelId": "RAISport.it",
+      "source": "it",
+      "startUtc": "2026-11-24T23:00:00Z",
+      "endUtc": "2026-11-25T01:40:00Z",
+      "title": "Pallavolo: Serie A Femminile",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "dbf01f75a5908eec42604bba",
+      "channelId": "RaiSport1.it",
+      "source": "it",
+      "startUtc": "2026-11-24T23:00:00Z",
+      "endUtc": "2026-11-25T01:40:00Z",
+      "title": "Pallavolo: Serie A Femminile",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
       "broadcastType": "unknown",
       "matchEligible": true
     },
@@ -7216,6 +7321,42 @@
         "Calcio"
       ],
       "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "c893478fc34c527e5441decc",
+      "channelId": "SkySportMax.it",
+      "source": "it",
+      "startUtc": "2026-11-25T00:00:00Z",
+      "endUtc": "2026-11-25T01:00:00Z",
+      "title": "Ep.5 UEFA Europa & Conference League Magazine",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": false
+    },
+    {
+      "id": "53532866af2a251a5a43ec70",
+      "channelId": "SkySportNBA.it",
+      "source": "it",
+      "startUtc": "2026-11-25T00:15:00Z",
+      "endUtc": "2026-11-25T00:45:00Z",
+      "title": "Basket Room Serie A 2026/2027...",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
       "broadcastType": "unknown",
       "matchEligible": true
     },
@@ -7360,6 +7501,25 @@
       ],
       "competitions": [
         "champions-league"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "f9780ce9cff0c724fa82d129",
+      "channelId": "SkySportMax.it",
+      "source": "it",
+      "startUtc": "2026-11-25T01:00:00Z",
+      "endUtc": "2026-11-25T03:00:00Z",
+      "title": "Monza - Fiorentina Serie A",
+      "subtitle": "",
+      "description": "",
+      "categories": [
+        "Sport",
+        "Sports"
+      ],
+      "competitions": [
+        "serie-a"
       ],
       "broadcastType": "unknown",
       "matchEligible": true
@@ -10770,14 +10930,14 @@
       "matchEligible": true
     },
     {
-      "id": "dd544d683f56db63d15a0387",
+      "id": "65950c12f4dbacd3f6306c45",
       "channelId": "SkySportTennis.it",
       "source": "it",
       "startUtc": "2026-11-26T17:45:00Z",
       "endUtc": "2026-11-26T18:45:00Z",
-      "title": "L'uomo della Domenica: Roger Federer",
+      "title": "",
       "subtitle": "",
-      "description": "E70\nGiorgio Porra' racconta Roger Federer, il piu' grande tennista di sempre. Con le voci di Sandro Veronesi, Panatta, Bertolucci, Zugarelli e Ljubicic.",
+      "description": "E70 — L'uomo della Domenica: Roger Federer\nGiorgio Porra' racconta Roger Federer, il piu' grande tennista di sempre. Con le voci di Sandro Veronesi, Panatta, Bertolucci, Zugarelli e Ljubicic.",
       "categories": [
         "Sports",
         "Calcio"
@@ -12463,6 +12623,1199 @@
       "competitions": [
         "champions-league"
       ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "6705499047d47c667df5f633",
+      "channelId": "SkySportCalcio.it",
+      "source": "it",
+      "startUtc": "2026-11-28T00:00:00Z",
+      "endUtc": "2026-11-28T00:30:00Z",
+      "title": "Europa E Conference League Remix Ep.5 27/11/2026",
+      "subtitle": "",
+      "description": "S2026 E5\n... Ep.5 27/11/2026 Europa & Conference League Remix. - ... Ep.5 27/11/2026 Europa & Conference League Remix. - ... Ep.5 27/11/2026 Europa & Conference League Remix. - ... Ep.5 27/11/2026 Europa & Conference League Remix. - Europa & Conference League Remix.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "350a69f99a2d2b7cb29b77c5",
+      "channelId": "SkySportCalcio.it",
+      "source": "it",
+      "startUtc": "2026-11-28T00:30:00Z",
+      "endUtc": "2026-11-28T01:30:00Z",
+      "title": "Bundesliga Matchplan Ep.10 27/11/2026",
+      "subtitle": "",
+      "description": "S1 E10\n... 27/11/2026 Bundesliga Matchplan. - Introduciamo i temi tattici di Stoccarda-Eintracht in programma sabato alle 18.30 con Jan Henkel e i suoi ospiti: l'allenatore Alexander Zorniger e l'ex portiere Marc Ziegler.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "e912f2188853814a2a62d176",
+      "channelId": "SkySport4K.it",
+      "source": "it",
+      "startUtc": "2026-11-28T01:15:00Z",
+      "endUtc": "2026-11-28T01:45:00Z",
+      "title": "Olympiakos - Milan",
+      "subtitle": "",
+      "description": "S2026 E37\nGreci ancora imbattuti a quota 10. Il Milan resta con 3 punti dopo i ko con Bournemouth e Ferencvaros. In vantaggio 2 a 1 nei 4 precedenti, un pareggio. TC: Gentile-Marchegiani.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "51adc46015f959f8c467b352",
+      "channelId": "SkySportCalcio.it",
+      "source": "it",
+      "startUtc": "2026-11-28T01:30:00Z",
+      "endUtc": "2026-11-28T01:45:00Z",
+      "title": "Paris Saint-Germain - Roma",
+      "subtitle": "",
+      "description": "S2026 E7\n... Champions League. - Nessun precedente. PSG a punteggio pieno: vittorie su Slovan, City, Barcellona e Villarreal. La Roma resta con 4 punti dopo la sconfitta con lo United (3-2). TC: Davide Polizzi.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [
+        "champions-league"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "14eef67a7db2fff59af18f59",
+      "channelId": "SkySport4K.it",
+      "source": "it",
+      "startUtc": "2026-11-28T01:45:00Z",
+      "endUtc": "2026-11-28T03:45:00Z",
+      "title": "Inter - VfB Stoccarda",
+      "subtitle": "",
+      "description": "S2026 E93\n... League. - Nessun precedente. L'Inter sale a quota 6 dopo le vittorie con Shakhtar e Feyenoord. Lo Stoccarda resta a 7 dopo la sconfitta con il Galatasaray (2-0). TC: Caressa-Bergomi.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "3ab2d07080bd029b492fe47e",
+      "channelId": "SkySportCalcio.it",
+      "source": "it",
+      "startUtc": "2026-11-28T01:45:00Z",
+      "endUtc": "2026-11-28T02:15:00Z",
+      "title": "Manchester City - Napoli",
+      "subtitle": "",
+      "description": "S2026 E89\n... Champions League. - Citizens a quota 9 dopo le vittorie su Aek e Lipsia. Il Napoli resta a 3 dopo il ko con il Porto (4-1). Un solo successo nei 5 precedenti, 3 ko e un pari. TC: Zancan-Montolivo.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [
+        "champions-league"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "00324eca368c23e5f84ae83d",
+      "channelId": "SkySportLegend.it",
+      "source": "it",
+      "startUtc": "2026-11-28T01:45:00Z",
+      "endUtc": "2026-11-28T03:45:00Z",
+      "title": "Milan - Liverpool 2007",
+      "subtitle": "",
+      "description": "S1 E13 — 2007, Finale: Milan - Liverpool\n... Champions League Story. - Riviviamo i momenti piu' esaltanti di questa competizione attraverso le partite piu' interessanti. Buon divertimento!",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [
+        "champions-league"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "2f91afd43c66f3424a258b32",
+      "channelId": "SkySportCalcio.it",
+      "source": "it",
+      "startUtc": "2026-11-28T02:15:00Z",
+      "endUtc": "2026-11-28T02:45:00Z",
+      "title": "Noir Marsigliese",
+      "subtitle": "",
+      "description": "S2 E5\nCalcio.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "3a068618f3a22605648e8fe0",
+      "channelId": "SkySportCalcio.it",
+      "source": "it",
+      "startUtc": "2026-11-28T02:45:00Z",
+      "endUtc": "2026-11-28T03:15:00Z",
+      "title": "Premier League Preview",
+      "subtitle": "",
+      "description": "Si sta per aprire una nuova giornata di Premier League. Scopriamo insieme temi, notizie e possibili protagonisti.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "aaa6ebd99d87f6e48716e9b3",
+      "channelId": "SkySportCalcio.it",
+      "source": "it",
+      "startUtc": "2026-11-28T03:15:00Z",
+      "endUtc": "2026-11-28T05:00:00Z",
+      "title": "Olympiakos - Milan",
+      "subtitle": "",
+      "description": "S2026 E37\nGreci ancora imbattuti a quota 10. Il Milan resta con 3 punti dopo i ko con Bournemouth e Ferencvaros. In vantaggio 2 a 1 nei 4 precedenti, un pareggio. TC: Gentile-Marchegiani.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "d734a76acab1d0dcebfd87f0",
+      "channelId": "SkySport4K.it",
+      "source": "it",
+      "startUtc": "2026-11-28T03:45:00Z",
+      "endUtc": "2026-11-28T04:00:00Z",
+      "title": "Paris Saint-Germain - Roma",
+      "subtitle": "",
+      "description": "S2026 E7\n... Champions League. - Nessun precedente. PSG a punteggio pieno: vittorie su Slovan, City, Barcellona e Villarreal. La Roma resta con 4 punti dopo la sconfitta con lo United (3-2). TC: Davide Polizzi.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [
+        "champions-league"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "157709de70a944825da0e232",
+      "channelId": "SkySport4K.it",
+      "source": "it",
+      "startUtc": "2026-11-28T05:00:00Z",
+      "endUtc": "2026-11-28T06:45:00Z",
+      "title": "Monza - Fiorentina",
+      "subtitle": "",
+      "description": "S2026 E120\nI brianzoli vengono da 4 sconfitte consecutive. Viola imbattuti da 3 turni dopo il 2-2 con la Juventus. Tre vittorie a testa e un pari nei 7 precedenti a Monza. TC: Polizzi-Gobbi.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "b37fe872deb519ec28f1bcce",
+      "channelId": "SkySportCalcio.it",
+      "source": "it",
+      "startUtc": "2026-11-28T05:00:00Z",
+      "endUtc": "2026-11-28T06:45:00Z",
+      "title": "Venezia - Bologna",
+      "subtitle": "",
+      "description": "E37\nDallo Stadio Pier Luigi Penzo di Venezia, Italia.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "39780bf54a98670a3dad3215",
+      "channelId": "SkySportLegend.it",
+      "source": "it",
+      "startUtc": "2026-11-28T05:00:00Z",
+      "endUtc": "2026-11-28T06:00:00Z",
+      "title": "Il Processo del 27 Febbraio 1995",
+      "subtitle": "",
+      "description": "S1 E1\n... processo di Biscardi. - In questa puntata del celebre programma di Aldo Biscardi, Maurizio Mosca, Vittorio Sgarbi e Pasquale Squitieri diedero vita ad uno dei momenti 'legend' piu' divertenti di sempre in tv...",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "8ef64455dd6e937abf7582bd",
+      "channelId": "ZONADAZN2.it",
+      "source": "it",
+      "startUtc": "2026-11-28T05:00:00Z",
+      "endUtc": "2026-11-28T11:00:00Z",
+      "title": "Nessun evento in onda",
+      "subtitle": "",
+      "description": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea.",
+      "categories": [
+        "Altri Programmi",
+        "Altri Canali"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "d58dd6400b66e1af6fa84a05",
+      "channelId": "SkySport4K.it",
+      "source": "it",
+      "startUtc": "2026-11-28T06:45:00Z",
+      "endUtc": "2026-11-28T08:45:00Z",
+      "title": "Inter - VfB Stoccarda",
+      "subtitle": "",
+      "description": "S2026 E93\n... League. - Nessun precedente. L'Inter sale a quota 6 dopo le vittorie con Shakhtar e Feyenoord. Lo Stoccarda resta a 7 dopo la sconfitta con il Galatasaray (2-0). TC: Caressa-Bergomi.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "d391065c28904940546a7ede",
+      "channelId": "SkySportCalcio.it",
+      "source": "it",
+      "startUtc": "2026-11-28T06:45:00Z",
+      "endUtc": "2026-11-28T07:15:00Z",
+      "title": "Champions League Remix Ep.5 27/11/2026",
+      "subtitle": "",
+      "description": "S2026 E5\n... 27/11/2026 UEFA Champions League Remix. - Il meglio della massima competizione continentale per club, attraverso le immagini piu' interessanti, i goal e le interviste ai protagonisti. Vediamo tutte le storie piu' importanti, con un montaggio spettacolare.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [
+        "champions-league"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "e03d13886c934b309635bdbf",
+      "channelId": "ZONADAZN.it",
+      "source": "it",
+      "startUtc": "2026-11-28T07:00:00Z",
+      "endUtc": "2026-11-28T08:55:00Z",
+      "title": "Atalanta - Inter",
+      "subtitle": "",
+      "description": "S2026 E111\nSerie A - 12a g. Ogni weekend una nuova storia. Ogni partita un'emozione da vivere fino all'ultimo minuto. La stagione 2026-27 di Serie A Enilive ti aspetta su DAZN.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "6021854a241e7cbf7c6e95f0",
+      "channelId": "SkySportCalcio.it",
+      "source": "it",
+      "startUtc": "2026-11-28T07:15:00Z",
+      "endUtc": "2026-11-28T07:45:00Z",
+      "title": "Europa E Conference League Remix Ep.5 27/11/2026",
+      "subtitle": "",
+      "description": "S2026 E5\n... Ep.5 27/11/2026 Europa & Conference League Remix. - ... Ep.5 27/11/2026 Europa & Conference League Remix. - ... Ep.5 27/11/2026 Europa & Conference League Remix. - ... Ep.5 27/11/2026 Europa & Conference League Remix. - Europa & Conference League Remix.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "326dd7d44a2cc5d79768c131",
+      "channelId": "SkySportCalcio.it",
+      "source": "it",
+      "startUtc": "2026-11-28T07:45:00Z",
+      "endUtc": "2026-11-28T09:45:00Z",
+      "title": "Paris Saint-Germain - Roma",
+      "subtitle": "",
+      "description": "S2026 E7\n... Champions League. - Nessun precedente. PSG a punteggio pieno: vittorie su Slovan, City, Barcellona e Villarreal. La Roma resta con 4 punti dopo la sconfitta con lo United (3-2). TC: Davide Polizzi.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [
+        "champions-league"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "d9a81890e66b9396bea419f8",
+      "channelId": "SkySport4K.it",
+      "source": "it",
+      "startUtc": "2026-11-28T08:45:00Z",
+      "endUtc": "2026-11-28T10:45:00Z",
+      "title": "Como - AEK Atene",
+      "subtitle": "",
+      "description": "S2026 E88\nNessun precedente. Il Como sale a quota 9 dopo le vittorie con Manchester Utd e Lens. L'Aek resta a 3 punti dopo le sconfitte con Shakhtar, City e Real Madrid. TC: Massara-Gobbi.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "3803ac6b209ced2d415a0222",
+      "channelId": "ZONADAZN.it",
+      "source": "it",
+      "startUtc": "2026-11-28T08:55:00Z",
+      "endUtc": "2026-11-28T09:30:00Z",
+      "title": "Pierluigi Collina",
+      "subtitle": "",
+      "description": "S2026 E5\nPierluigi Collina - Gli intervistati vengono accompagnati in un viaggio interiore tra ferite, traumi, conti in sospeso, rinascite, segreti non detti. Nel quinto episodio l'ospite di Giorgia Rossi e' Pierluigi Collina.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "82c40c4f83f00254a9287842",
+      "channelId": "ZONADAZN.it",
+      "source": "it",
+      "startUtc": "2026-11-28T09:30:00Z",
+      "endUtc": "2026-11-28T11:25:00Z",
+      "title": "Bologna - Udinese",
+      "subtitle": "",
+      "description": "S2026 E112\nSerie A - 12a g. Ogni weekend una nuova storia. Ogni partita un'emozione da vivere fino all'ultimo minuto. La stagione 2026-27 di Serie A Enilive ti aspetta su DAZN.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "e44f4f23b7bf7315ed8f2c87",
+      "channelId": "SkySportCalcio.it",
+      "source": "it",
+      "startUtc": "2026-11-28T09:45:00Z",
+      "endUtc": "2026-11-28T10:15:00Z",
+      "title": "Frank Lampard",
+      "subtitle": "",
+      "description": "S2026 E26\nEp27 - Scopriamo le storie dei personaggi che hanno lasciato il segno in Premier League e di coloro che continuano a rendere unico il campionato inglese.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "9fcba56fa15c1df80c53cd87",
+      "channelId": "SkySportCalcio.it",
+      "source": "it",
+      "startUtc": "2026-11-28T10:15:00Z",
+      "endUtc": "2026-11-28T12:00:00Z",
+      "title": "Venezia - Bologna",
+      "subtitle": "",
+      "description": "E37\nDallo Stadio Pier Luigi Penzo di Venezia, Italia.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "495f790267a57d955c1a69b0",
+      "channelId": "SkySport4K.it",
+      "source": "it",
+      "startUtc": "2026-11-28T10:45:00Z",
+      "endUtc": "2026-11-28T11:15:00Z",
+      "title": "Paris Saint-Germain - Roma",
+      "subtitle": "",
+      "description": "S2026 E7\n... Champions League. - Nessun precedente. PSG a punteggio pieno: vittorie su Slovan, City, Barcellona e Villarreal. La Roma resta con 4 punti dopo la sconfitta con lo United (3-2). TC: Davide Polizzi.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [
+        "champions-league"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "eb06ef4b867b71dc9f8c73de",
+      "channelId": "ZONADAZN2.it",
+      "source": "it",
+      "startUtc": "2026-11-28T11:00:00Z",
+      "endUtc": "2026-11-28T17:00:00Z",
+      "title": "Nessun evento in onda",
+      "subtitle": "",
+      "description": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea.",
+      "categories": [
+        "Altri Programmi",
+        "Altri Canali"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "498f0ad8a4c8abc10a7ba9d5",
+      "channelId": "SkySport4K.it",
+      "source": "it",
+      "startUtc": "2026-11-28T11:15:00Z",
+      "endUtc": "2026-11-28T13:15:00Z",
+      "title": "Juventus - Omonia Nicosia",
+      "subtitle": "",
+      "description": "E36\nBianconeri ancora imbattuti a quota 10. L'Omonia resta con 6 punti dopo le sconfitte con Benfica e Nijmegen. Ha sempre perso nei 4 precedenti. TC: Compagnoni-Marocchi.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "3fec6d5bc4dbbae46fef4358",
+      "channelId": "SkySportCalcio.it",
+      "source": "it",
+      "startUtc": "2026-11-28T12:00:00Z",
+      "endUtc": "2026-11-28T12:30:00Z",
+      "title": "Champions League Remix Ep.5 27/11/2026",
+      "subtitle": "",
+      "description": "S2026 E5\n... 27/11/2026 UEFA Champions League Remix. - Il meglio della massima competizione continentale per club, attraverso le immagini piu' interessanti, i goal e le interviste ai protagonisti. Vediamo tutte le storie piu' importanti, con un montaggio spettacolare.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [
+        "champions-league"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "f4322ed5c18d502f003ae310",
+      "channelId": "ZONADAZN.it",
+      "source": "it",
+      "startUtc": "2026-11-28T12:15:00Z",
+      "endUtc": "2026-11-28T14:00:00Z",
+      "title": "Parma - Roma",
+      "subtitle": "",
+      "description": "S2026 E119\nSerie A - 12a g. Ogni weekend una nuova storia. Ogni partita un'emozione da vivere fino all'ultimo minuto. La stagione 2026-27 di Serie A Enilive ti aspetta su DAZN.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "fe9dd12bab44e40db24ecc08",
+      "channelId": "SkySportCalcio.it",
+      "source": "it",
+      "startUtc": "2026-11-28T12:30:00Z",
+      "endUtc": "2026-11-28T13:00:00Z",
+      "title": "Europa E Conference League Remix Ep.5 27/11/2026",
+      "subtitle": "",
+      "description": "S2026 E5\n... Ep.5 27/11/2026 Europa & Conference League Remix. - ... Ep.5 27/11/2026 Europa & Conference League Remix. - ... Ep.5 27/11/2026 Europa & Conference League Remix. - ... Ep.5 27/11/2026 Europa & Conference League Remix. - Europa & Conference League Remix.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "1fba7a45841474630ad7160f",
+      "channelId": "SkySport4K.it",
+      "source": "it",
+      "startUtc": "2026-11-28T13:15:00Z",
+      "endUtc": "2026-11-28T15:00:00Z",
+      "title": "Milan - Frosinone",
+      "subtitle": "",
+      "description": "S2026 E118\nRossoneri con 12 punti in 5 giornate. Frosinone reduce dalla sconfitta con il Cagliari (1-0). Non ha mai vinto a San Siro (sponda Milan), 2 ko e un pareggio. TC: Borghi-Montolivo.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "b4f6d8dcded2d062feb5b2ff",
+      "channelId": "SkySportCalcio.it",
+      "source": "it",
+      "startUtc": "2026-11-28T13:30:00Z",
+      "endUtc": "2026-11-28T15:30:00Z",
+      "title": "Pescara - Pianese",
+      "subtitle": "",
+      "description": "S2026 E157\nTutte le partite del campionato di Serie C italiano.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "live",
+      "matchEligible": true
+    },
+    {
+      "id": "4a26b520c2134a01a0d38514",
+      "channelId": "SkySportLegend.it",
+      "source": "it",
+      "startUtc": "2026-11-28T13:45:00Z",
+      "endUtc": "2026-11-28T16:30:00Z",
+      "title": "Volley Femminile Cev Champions League 2020/2021 - Stag. -3 - Conegliano - Istanbul. Finale",
+      "subtitle": "",
+      "description": "S2020 E25 — Conegliano - Istanbul. Finale\n... Champions League F. - A Verona va in scena l'ultimo atto della Champions League femminile, le \"pantere\" di Conegliano sfidano le turche del Vakifbank Istanbul. TC: Prini-Mangifesta.",
+      "categories": [
+        "Sports",
+        "Volley"
+      ],
+      "competitions": [
+        "champions-league"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "957221d3f8db60c2c0695200",
+      "channelId": "ZONADAZN.it",
+      "source": "it",
+      "startUtc": "2026-11-28T14:00:00Z",
+      "endUtc": "2026-11-28T14:15:00Z",
+      "title": "Frosinone - Parma",
+      "subtitle": "",
+      "description": "S2026 — Bologna - Lazio\nSerie A - 13a g. Ogni weekend una nuova storia. Ogni partita un'emozione da vivere fino all'ultimo minuto. La stagione 2026-27 di Serie A Enilive ti aspetta su DAZN.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
+      "broadcastType": "live",
+      "matchEligible": true
+    },
+    {
+      "id": "81441fe88609acb700ddc553",
+      "channelId": "ZONADAZN.it",
+      "source": "it",
+      "startUtc": "2026-11-28T14:15:00Z",
+      "endUtc": "2026-11-28T16:10:00Z",
+      "title": "Sassuolo - Genoa",
+      "subtitle": "",
+      "description": "S2026 E120\nSerie A - 12a g. Ogni weekend una nuova storia. Ogni partita un'emozione da vivere fino all'ultimo minuto. La stagione 2026-27 di Serie A Enilive ti aspetta su DAZN.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "c3d32a6274085c1430014548",
+      "channelId": "SkySport4K.it",
+      "source": "it",
+      "startUtc": "2026-11-28T15:00:00Z",
+      "endUtc": "2026-11-28T17:00:00Z",
+      "title": "Manchester United - Brentford",
+      "subtitle": "",
+      "description": "E112\nDall'Old Trafford di Manchester, Inghilterra.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "live",
+      "matchEligible": true
+    },
+    {
+      "id": "c6a95fc0c041598cae49ef22",
+      "channelId": "SkySportCalcio.it",
+      "source": "it",
+      "startUtc": "2026-11-28T16:00:00Z",
+      "endUtc": "2026-11-28T16:30:00Z",
+      "title": "Champions League Remix Ep.5 27/11/2026",
+      "subtitle": "",
+      "description": "S2026 E5\n... 27/11/2026 UEFA Champions League Remix. - Il meglio della massima competizione continentale per club, attraverso le immagini piu' interessanti, i goal e le interviste ai protagonisti. Vediamo tutte le storie piu' importanti, con un montaggio spettacolare.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [
+        "champions-league"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "9f7f9a0cb1bac0ad01baebfb",
+      "channelId": "ZONADAZN.it",
+      "source": "it",
+      "startUtc": "2026-11-28T16:10:00Z",
+      "endUtc": "2026-11-28T17:00:00Z",
+      "title": "Inter: Tutti i gol della stagione 25-26",
+      "subtitle": "",
+      "description": "Rivivi la cavalcata nerazzurra dalla prima alla 38esima giornata, gol dopo gol.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "c77d7b547573305515fae59f",
+      "channelId": "SkySportCalcio.it",
+      "source": "it",
+      "startUtc": "2026-11-28T16:30:00Z",
+      "endUtc": "2026-11-28T18:30:00Z",
+      "title": "Salernitana - Monopoli",
+      "subtitle": "",
+      "description": "S2026 E159\nTutte le partite del campionato di Serie C italiano.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "live",
+      "matchEligible": true
+    },
+    {
+      "id": "25740b5d579caec3e775cd0c",
+      "channelId": "SkySport4K.it",
+      "source": "it",
+      "startUtc": "2026-11-28T17:00:00Z",
+      "endUtc": "2026-11-28T17:15:00Z",
+      "title": "Como - AEK Atene",
+      "subtitle": "",
+      "description": "S2026 E88\nNessun precedente. Il Como sale a quota 9 dopo le vittorie con Manchester Utd e Lens. L'Aek resta a 3 punti dopo le sconfitte con Shakhtar, City e Real Madrid. TC: Massara-Gobbi.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "442d2624916b6b22b7a672c5",
+      "channelId": "ZONADAZN.it",
+      "source": "it",
+      "startUtc": "2026-11-28T17:00:00Z",
+      "endUtc": "2026-11-28T18:50:00Z",
+      "title": "Torino - Lazio",
+      "subtitle": "",
+      "description": "S2026 — Bologna - Lazio\nSerie A - 13a g. Ogni weekend una nuova storia. Ogni partita un'emozione da vivere fino all'ultimo minuto. La stagione 2026-27 di Serie A Enilive ti aspetta su DAZN.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
+      "broadcastType": "live",
+      "matchEligible": true
+    },
+    {
+      "id": "1a57df24227d50f507857f06",
+      "channelId": "ZONADAZN2.it",
+      "source": "it",
+      "startUtc": "2026-11-28T17:00:00Z",
+      "endUtc": "2026-11-28T23:00:00Z",
+      "title": "Nessun evento in onda",
+      "subtitle": "",
+      "description": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea.",
+      "categories": [
+        "Altri Programmi",
+        "Altri Canali"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "e0b13b701a8cc78d2c54d25a",
+      "channelId": "SkySportF1.it",
+      "source": "it",
+      "startUtc": "2026-11-28T17:15:00Z",
+      "endUtc": "2026-11-28T17:30:00Z",
+      "title": "F2 Chasing The Dream 2026 Ep.13 Season Finale Build Up 28/11/2026",
+      "subtitle": "",
+      "description": "S8 E12\n... Season Finale Build Up 28/11/2026 F2: Chasing the Dream. - Scopriamo se la F2 e' ancora la porta d'accesso alla F1. Anche se troppi campioni restano al palo e tanti arrivano dalle Academy, il campionato cadetto rimane oggi l'ascensore per la serie A.",
+      "categories": [
+        "Sports",
+        "Motori"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "effe0e7ee71c64211a738fbe",
+      "channelId": "SkySportLegend.it",
+      "source": "it",
+      "startUtc": "2026-11-28T17:30:00Z",
+      "endUtc": "2026-11-28T19:15:00Z",
+      "title": "Inter - Lazio 1998",
+      "subtitle": "",
+      "description": "S1 E10 — 1998, Finale: Inter - Lazio\n... Europa League Story. - Riviviamo la finale di Coppa Uefa della stagione 1997/98. Quarta volta nella storia del trofeo che due squadre italiane si incontrano in finale, ma e' la prima in un gara secca.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "304ee44e74c3ed4d7f3a0589",
+      "channelId": "ZONADAZN.it",
+      "source": "it",
+      "startUtc": "2026-11-28T18:50:00Z",
+      "endUtc": "2026-11-28T19:30:00Z",
+      "title": "Claudio Marchisio",
+      "subtitle": "",
+      "description": "S2026 E2 — Claudio Marchisio\nClaudio Marchisio - Gli intervistati vengono accompagnati in un viaggio interiore tra ferite, traumi, conti in sospeso, rinascite, segreti non detti. Nel secondo episodio l'ospite di Giorgia Rossi e' Claudio Marchisio.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "e39a3e3966936c07f37b8c88",
+      "channelId": "SkySportCalcio.it",
+      "source": "it",
+      "startUtc": "2026-11-28T19:00:00Z",
+      "endUtc": "2026-11-28T19:45:00Z",
+      "title": "Sky Saturday Night",
+      "subtitle": "",
+      "description": "S2026 E37\n... Saturday Night. - Pre- e post-partita degli anticipi della prima giornata di Serie A 2026/2027 di calcio.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
+      "broadcastType": "live",
+      "matchEligible": true
+    },
+    {
+      "id": "cc0091d671b7345ee20a00da",
+      "channelId": "SkySportLegend.it",
+      "source": "it",
+      "startUtc": "2026-11-28T19:30:00Z",
+      "endUtc": "2026-11-28T20:00:00Z",
+      "title": "Batistuta",
+      "subtitle": "",
+      "description": "S2 E4\nCalcio.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "9812b6803373d1a4f5a77252",
+      "channelId": "ZONADAZN.it",
+      "source": "it",
+      "startUtc": "2026-11-28T19:30:00Z",
+      "endUtc": "2026-11-28T20:00:00Z",
+      "title": "Lazio - Lecce",
+      "subtitle": "",
+      "description": "S2026 E115\nSerie A - 12a g. Ogni weekend una nuova storia. Ogni partita un'emozione da vivere fino all'ultimo minuto. La stagione 2026-27 di Serie A Enilive ti aspetta su DAZN.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "b6cdfa2d4ac44a25b6d1004c",
+      "channelId": "SkySport4K.it",
+      "source": "it",
+      "startUtc": "2026-11-28T19:45:00Z",
+      "endUtc": "2026-11-28T21:45:00Z",
+      "title": "Inter - Genoa",
+      "subtitle": "",
+      "description": "E38\nDallo Stadio Giuseppe Meazza di Milano, Italia.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "live",
+      "matchEligible": true
+    },
+    {
+      "id": "664c0b065b4e3727377c398a",
+      "channelId": "SkySportCalcio.it",
+      "source": "it",
+      "startUtc": "2026-11-28T19:45:00Z",
+      "endUtc": "2026-11-28T21:45:00Z",
+      "title": "Inter - Genoa",
+      "subtitle": "",
+      "description": "E38\nDallo Stadio Giuseppe Meazza di Milano, Italia.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "live",
+      "matchEligible": true
+    },
+    {
+      "id": "a537933b2f56b55cc8afd6b0",
+      "channelId": "SkySportLegend.it",
+      "source": "it",
+      "startUtc": "2026-11-28T20:00:00Z",
+      "endUtc": "2026-11-28T21:00:00Z",
+      "title": "La maledizione",
+      "subtitle": "",
+      "description": "S1 E3\n... maledetta. - Dopo l'addio di Chinaglia, la malattia di Maestrelli mina le fondamenta di quella squadra miracolo, che si sfalda, sconvolta della tragedia Re Cecconi.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "abda75d1a926b6a8e39e11ca",
+      "channelId": "ZONADAZN.it",
+      "source": "it",
+      "startUtc": "2026-11-28T20:00:00Z",
+      "endUtc": "2026-11-28T21:20:00Z",
+      "title": "Real Madrid - Alaves",
+      "subtitle": "",
+      "description": "S2026 — Siviglia - Rayo Vallecano\nLiga - 14a g. Dal trionfo in New Jersey al ritorno del calcio in Spagna: e' LaLiga EA Sports dei campioni del mondo.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "live",
+      "matchEligible": true
+    },
+    {
+      "id": "9ebf3c91fd902ff3e5615230",
+      "channelId": "ZONADAZN.it",
+      "source": "it",
+      "startUtc": "2026-11-28T21:20:00Z",
+      "endUtc": "2026-11-28T21:40:00Z",
+      "title": "Bordocam Roma - Inter 2026/27",
+      "subtitle": "",
+      "description": "Il doppio vantaggio della Roma e la rimonta dell'Inter hanno reso il big match all'Olimpico un susseguirsi di emozioni. Rivivi tutti i retroscena di Roma-Inter con il Bordocam di Davide Bernardi.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "54d5350a8692a531cc776bf2",
+      "channelId": "ZONADAZN.it",
+      "source": "it",
+      "startUtc": "2026-11-28T21:40:00Z",
+      "endUtc": "2026-11-28T21:55:00Z",
+      "title": "Bordocam Lazio - Milan 2026/27",
+      "subtitle": "",
+      "description": "Dopo un primo tempo da incubo all'Olimpico, il Milan rimonta la Lazio sul 2-2 grazie a una doppietta di Moreira. Un pareggio che lascia qualche dubbio per Ruben Amorim.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "57c87317502e45fe350ff1c9",
+      "channelId": "SkySport4K.it",
+      "source": "it",
+      "startUtc": "2026-11-28T21:45:00Z",
+      "endUtc": "2026-11-28T23:00:00Z",
+      "title": "Sky Saturday Night",
+      "subtitle": "",
+      "description": "S2026 E37\n... Saturday Night. - Pre- e post-partita degli anticipi della prima giornata di Serie A 2026/2027 di calcio.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
+      "broadcastType": "live",
+      "matchEligible": true
+    },
+    {
+      "id": "c0b95c04bcb36e0c7fa429c6",
+      "channelId": "SkySportCalcio.it",
+      "source": "it",
+      "startUtc": "2026-11-28T21:45:00Z",
+      "endUtc": "2026-11-28T23:00:00Z",
+      "title": "Sky Saturday Night",
+      "subtitle": "",
+      "description": "S2026 E37\n... Saturday Night. - Pre- e post-partita degli anticipi della prima giornata di Serie A 2026/2027 di calcio.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
+      "broadcastType": "live",
+      "matchEligible": true
+    },
+    {
+      "id": "4e27988a17f4acbaaab58283",
+      "channelId": "ZONADAZN.it",
+      "source": "it",
+      "startUtc": "2026-11-28T21:55:00Z",
+      "endUtc": "2026-11-28T22:10:00Z",
+      "title": "La visione di Spalletti",
+      "subtitle": "",
+      "description": "Luciano Spalletti ha parlato ai nostri microfoni sulla stagione che attende la Juventus. Senti le parole del tecnico bianconero su DAZN!",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "c2dc7f7dcfc88bc8eeafc9e9",
+      "channelId": "SkySportLegend.it",
+      "source": "it",
+      "startUtc": "2026-11-28T22:00:00Z",
+      "endUtc": "2026-11-28T22:45:00Z",
+      "title": "Forti come un leone",
+      "subtitle": "",
+      "description": "S2026 E1 — Ep.1\nForti come un leone - Le origini del Toro di Radice e Pianelli: una squadra-famiglia che conquista il campionato con un calcio rivoluzionario e anima operaia.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "24d2f6e4ab1c2a4cc51b353f",
+      "channelId": "ZONADAZN.it",
+      "source": "it",
+      "startUtc": "2026-11-28T22:10:00Z",
+      "endUtc": "2026-11-29T00:00:00Z",
+      "title": "10a g",
+      "subtitle": "",
+      "description": "S2026 E10 — 10a g\n10a g - Guarda tutte le azioni salienti della giornata di Serie A. Segui la Serie A Enilive su DAZN!",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "bc5bd40a0e0838b3f6dd06fa",
+      "channelId": "SkySportLegend.it",
+      "source": "it",
+      "startUtc": "2026-11-28T22:45:00Z",
+      "endUtc": "2026-11-28T23:30:00Z",
+      "title": "Ep.2",
+      "subtitle": "",
+      "description": "S2026 E2\nGemelli del gol, fratelli granata - Il Torino sogna il sorpasso alla Juve con i 36 gol di Pulici e Graziani, trascinati dagli assist di Claudio Sala, il \"Poeta del gol\".",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "0d358001450f7165bbd004b2",
+      "channelId": "SkySport4K.it",
+      "source": "it",
+      "startUtc": "2026-11-28T23:00:00Z",
+      "endUtc": "2026-11-29T00:45:00Z",
+      "title": "Inter - Genoa",
+      "subtitle": "",
+      "description": "E38\nDallo Stadio Giuseppe Meazza di Milano, Italia.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "b30bb6cb5645b341a7176c9a",
+      "channelId": "SkySportArena.it",
+      "source": "it",
+      "startUtc": "2026-11-28T23:00:00Z",
+      "endUtc": "2026-11-28T23:30:00Z",
+      "title": "Champions League Remix Ep.5 27/11/2026",
+      "subtitle": "",
+      "description": "S2026 E5\n... 27/11/2026 UEFA Champions League Remix. - Il meglio della massima competizione continentale per club, attraverso le immagini piu' interessanti, i goal e le interviste ai protagonisti. Vediamo tutte le storie piu' importanti, con un montaggio spettacolare.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [
+        "champions-league"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "c06203ddf34118633e7f6e27",
+      "channelId": "ZONADAZN2.it",
+      "source": "it",
+      "startUtc": "2026-11-28T23:00:00Z",
+      "endUtc": "2026-11-29T05:00:00Z",
+      "title": "Nessun evento in onda",
+      "subtitle": "",
+      "description": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea.",
+      "categories": [
+        "Altri Programmi",
+        "Altri Canali"
+      ],
+      "competitions": [
+        "serie-a"
+      ],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "61045c835942e3ccb920ceea",
+      "channelId": "SkySportArena.it",
+      "source": "it",
+      "startUtc": "2026-11-28T23:30:00Z",
+      "endUtc": "2026-11-29T00:00:00Z",
+      "title": "Europa E Conference League Remix Ep.5 27/11/2026",
+      "subtitle": "",
+      "description": "S2026 E5\n... Ep.5 27/11/2026 Europa & Conference League Remix. - ... Ep.5 27/11/2026 Europa & Conference League Remix. - ... Ep.5 27/11/2026 Europa & Conference League Remix. - ... Ep.5 27/11/2026 Europa & Conference League Remix. - Europa & Conference League Remix.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "d1438acb3839b8d7af0bda23",
+      "channelId": "SkySportLegend.it",
+      "source": "it",
+      "startUtc": "2026-11-28T23:30:00Z",
+      "endUtc": "2026-11-29T00:15:00Z",
+      "title": "Ep.3",
+      "subtitle": "",
+      "description": "S2026 E3\nLo Scudetto per gli Immortali - L'apoteosi finale con immagini inedite davanti ai 70mila del Comunale. L'omaggio al Grande Torino e la salita a Superga per lo scudetto.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
+      "broadcastType": "unknown",
+      "matchEligible": true
+    },
+    {
+      "id": "ce6de3056e4901dc3c0461a2",
+      "channelId": "SkySportCalcio.it",
+      "source": "it",
+      "startUtc": "2026-11-28T23:45:00Z",
+      "endUtc": "2026-11-29T00:00:00Z",
+      "title": "La Giovane Italia 2026 Ep.29 26/11/2026",
+      "subtitle": "",
+      "description": "S2026 E29\n... 26/11/2026 La giovane Italia. - Servizi informativi dedicati ai piu' piccoli sportivi italiani e alle realta' giovanili legate al calcio, tra trofei, incontri, e storie.",
+      "categories": [
+        "Sports",
+        "Calcio"
+      ],
+      "competitions": [],
       "broadcastType": "unknown",
       "matchEligible": true
     }

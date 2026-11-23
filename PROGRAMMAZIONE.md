@@ -1,6 +1,6 @@
 # Programmazione calcio
 
-Ultima acquisizione riuscita: 2026-11-23T22:05:14.134971Z. Orari: Europe/Rome.
+Ultima acquisizione riuscita: 2026-11-23T23:07:45.551755Z. Orari: Europe/Rome.
 
 Solo Sky Calcio, Sky Sport, DAZN/Zona DAZN, TV8 e RAI secondo config.json.
 
@@ -21,142 +21,12 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 
 | Inizio | Fine | Canale | Programma | Tipo | Competizioni rilevate |
 | --- | --- | --- | --- | --- | --- |
-| 23/11 00:00 | 23/11 00:30 | IT - Sky Sport24 | Sky Calcio Club Senza Giacca ( diretta ) | live |  |
-| 23/11 00:35 | 23/11 02:00 | IT - Sky Sport Max | Pro Recco - Brescia LEN Champions League | unknown | champions-league |
-| 23/11 00:40 | 23/11 02:50 | IT - RAI Sport | Serie A Women Athora | unknown | serie-a |
-| 23/11 00:40 | 23/11 02:50 | IT - Rai Sport 1 | Serie A Women Athora | unknown | serie-a |
-| 23/11 01:30 | 23/11 02:00 | IT - Sky Sport Calcio | Milan - Frosinone | unknown |  |
-| 23/11 02:00 | 23/11 06:00 | IT - Sky Sport 251 | Next Game: Monza - Fiorentina on 2026-11-23 at 02:00PM EST | unknown |  |
-| 23/11 02:00 | 23/11 06:00 | IT - Sky Sport 252 | Next Game: Grosseto - Guidonia Montecelio on 2026-11-23 at 02:00PM EST | unknown |  |
-| 23/11 02:00 | 23/11 06:00 | IT - Sky Sport 253 | Next Game: Lecco - Lumezzane on 2026-11-23 at 02:15PM EST | unknown |  |
-| 23/11 02:00 | 23/11 06:00 | IT - Sky Sport 254 | No Game Today | unknown |  |
-| 23/11 02:00 | 23/11 06:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
-| 23/11 02:00 | 23/11 06:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 23/11 02:00 | 23/11 06:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 23/11 02:00 | 23/11 06:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 23/11 02:00 | 23/11 03:45 | IT - Sky Sport Calcio | Napoli - Torino | unknown |  |
-| 23/11 02:00 | 23/11 04:55 | IT - Sky Sport Max | Schalke 04 - VfB Stoccarda Bundesliga | unknown |  |
-| 23/11 02:50 | 23/11 05:30 | IT - RAI Sport | Pallavolo: Serie A Maschile | unknown | serie-a |
-| 23/11 02:50 | 23/11 05:30 | IT - Rai Sport 1 | Pallavolo: Serie A Maschile | unknown | serie-a |
-| 23/11 03:00 | 23/11 04:45 | IT - Sky Sport Legend | Bayern M. - Inter 2010 | unknown | champions-league |
-| 23/11 03:15 | 23/11 05:00 | IT - Sky Sport 4K | Milan - Frosinone | unknown |  |
-| 23/11 03:30 | 23/11 05:30 | IT - Sky Sport NBA | Tezenis Verona - Udine Serie A Basket | unknown | serie-a |
-| 23/11 03:45 | 23/11 04:05 | IT - Sky Sport Calcio | Kakà: tutti i gol in Champions League | unknown | champions-league |
-| 23/11 04:05 | 23/11 06:00 | IT - Sky Sport Calcio | Werder Brema - Amburgo SV | unknown |  |
-| 23/11 06:00 | 23/11 10:00 | IT - Sky Sport 251 | Next Game: Monza - Fiorentina on 2026-11-23 at 02:00PM EST | unknown |  |
-| 23/11 06:00 | 23/11 10:00 | IT - Sky Sport 252 | Next Game: Grosseto - Guidonia Montecelio on 2026-11-23 at 02:00PM EST | unknown |  |
-| 23/11 06:00 | 23/11 10:00 | IT - Sky Sport 253 | Next Game: Lecco - Lumezzane on 2026-11-23 at 02:15PM EST | unknown |  |
-| 23/11 06:00 | 23/11 10:00 | IT - Sky Sport 254 | No Game Today | unknown |  |
-| 23/11 06:00 | 23/11 10:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
-| 23/11 06:00 | 23/11 10:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 23/11 06:00 | 23/11 10:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 23/11 06:00 | 23/11 10:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 23/11 06:00 | 23/11 08:00 | IT - Sky Sport Calcio | Milan - Frosinone | unknown |  |
-| 23/11 06:00 | 23/11 06:45 | IT - Sky Sport Legend | Forti come un leone | unknown |  |
-| 23/11 06:00 | 23/11 12:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 23/11 06:30 | 23/11 08:30 | IT - Sky Sport NBA | Tezenis Verona - Udine Serie A Basket | unknown | serie-a |
-| 23/11 06:45 | 23/11 07:30 | IT - Sky Sport Legend | Ep.2 | unknown |  |
-| 23/11 07:30 | 23/11 08:15 | IT - Sky Sport Legend | Ep.3 | unknown |  |
-| 23/11 08:00 | 23/11 09:45 | IT - Sky Sport 4K | Milan - Frosinone | unknown |  |
-| 23/11 08:00 | 23/11 08:30 | IT - Sky Sport Calcio | Noir Marsigliese | unknown |  |
-| 23/11 08:00 | 23/11 09:47 | IT - ZONA DAZN | Lazio - Lecce | unknown | serie-a |
-| 23/11 08:15 | 23/11 08:40 | IT - Sky Sport Legend | Totti | unknown |  |
-| 23/11 08:40 | 23/11 09:40 | IT - Sky Sport Legend | Ep. 1 | unknown |  |
-| 23/11 09:00 | 23/11 10:45 | IT - Sky Sport Calcio | Werder Brema - Amburgo SV | unknown |  |
-| 23/11 09:30 | 23/11 11:20 | IT - Sky Sport Max | Liverpool - Manchester United Premier League | unknown |  |
-| 23/11 09:40 | 23/11 12:15 | IT - Sky Sport Legend | Bayern M. - Chelsea 2012 | unknown | champions-league |
-| 23/11 09:45 | 23/11 11:25 | IT - Sky Sport 4K | Napoli - Torino | unknown |  |
-| 23/11 10:00 | 23/11 14:00 | IT - Sky Sport 251 | Next Game: Monza - Fiorentina on 2026-11-23 at 02:00PM EST | unknown |  |
-| 23/11 10:00 | 23/11 14:00 | IT - Sky Sport 252 | Next Game: Grosseto - Guidonia Montecelio on 2026-11-23 at 02:00PM EST | unknown |  |
-| 23/11 10:00 | 23/11 14:00 | IT - Sky Sport 253 | Next Game: Lecco - Lumezzane on 2026-11-23 at 02:15PM EST | unknown |  |
-| 23/11 10:00 | 23/11 14:00 | IT - Sky Sport 254 | No Game Today | unknown |  |
-| 23/11 10:00 | 23/11 14:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
-| 23/11 10:00 | 23/11 14:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 23/11 10:00 | 23/11 14:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 23/11 10:00 | 23/11 14:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 23/11 10:17 | 23/11 12:03 | IT - ZONA DAZN | Bologna - Udinese | unknown | serie-a |
-| 23/11 10:45 | 23/11 12:30 | IT - Sky Sport Calcio | Hull City - Brighton | unknown |  |
-| 23/11 11:25 | 23/11 14:05 | IT - RAI Sport | Pallavolo: Serie A Maschile | unknown | serie-a |
-| 23/11 11:25 | 23/11 14:05 | IT - Rai Sport 1 | Pallavolo: Serie A Maschile | unknown | serie-a |
-| 23/11 12:00 | 23/11 18:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 23/11 12:30 | 23/11 13:30 | IT - Sky Sport Calcio | Ep.14 | unknown | serie-a |
-| 23/11 12:43 | 23/11 14:24 | IT - ZONA DAZN | Genoa - Como | unknown | serie-a |
-| 23/11 13:00 | 23/11 13:30 | IT - Sky Sport24 | Il Calcio e' Servito | unknown |  |
-| 23/11 13:30 | 23/11 14:00 | IT - Sky Sport24 | Il Calcio e' Servito | unknown |  |
-| 23/11 13:45 | 23/11 14:15 | IT - Sky Sport 4K | Manchester United - Roma | unknown | champions-league |
-| 23/11 14:00 | 23/11 18:00 | IT - Sky Sport 251 | Next Game: Monza - Fiorentina on 2026-11-23 at 02:00PM EST | unknown |  |
-| 23/11 14:00 | 23/11 18:00 | IT - Sky Sport 252 | Next Game: Grosseto - Guidonia Montecelio on 2026-11-23 at 02:00PM EST | unknown |  |
-| 23/11 14:00 | 23/11 18:00 | IT - Sky Sport 253 | Next Game: Lecco - Lumezzane on 2026-11-23 at 02:15PM EST | unknown |  |
-| 23/11 14:00 | 23/11 18:00 | IT - Sky Sport 254 | No Game Today | unknown |  |
-| 23/11 14:00 | 23/11 18:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
-| 23/11 14:00 | 23/11 18:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 23/11 14:00 | 23/11 18:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 23/11 14:00 | 23/11 18:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 23/11 14:00 | 23/11 16:00 | IT - Sky Sport Calcio | Milan - Frosinone | unknown |  |
-| 23/11 14:15 | 23/11 14:30 | IT - Sky Sport 4K | Lens - Como | unknown |  |
-| 23/11 14:24 | 23/11 15:02 | IT - ZONA DAZN | Leonardo Pavoletti | unknown |  |
-| 23/11 14:25 | 23/11 14:50 | IT - Sky Sport Legend | Milito | unknown |  |
-| 23/11 14:30 | 23/11 16:25 | IT - Sky Sport 4K | Milan - Ferencváros | unknown |  |
-| 23/11 15:02 | 23/11 16:48 | IT - ZONA DAZN | Roma - Inter | unknown | serie-a |
-| 23/11 15:20 | 23/11 17:30 | IT - RAI Sport | Calcio: Mondiali Under 17 | unknown |  |
-| 23/11 15:20 | 23/11 17:30 | IT - Rai Sport 1 | Calcio: Mondiali Under 17 | unknown |  |
-| 23/11 16:00 | 23/11 17:55 | IT - Sky Sport Calcio | Liverpool - Manchester United | unknown |  |
-| 23/11 16:25 | 23/11 18:10 | IT - Sky Sport 4K | Napoli - Torino | unknown |  |
-| 23/11 16:25 | 23/11 18:25 | IT - Sky Sport Max | Napoli - Torino Serie A | unknown | serie-a |
-| 23/11 16:30 | 23/11 18:25 | IT - Sky Sport NBA | Tezenis Verona - Udine Serie A Basket | unknown | serie-a |
-| 23/11 16:45 | 23/11 17:15 | IT - Sky Sport Legend | Totti | unknown |  |
-| 23/11 16:48 | 23/11 17:17 | IT - ZONA DAZN | Tarik Muharemovic | unknown |  |
-| 23/11 17:15 | 23/11 18:55 | IT - Sky Sport Legend | Bayern M. - Inter 2010 | unknown | champions-league |
-| 23/11 17:17 | 23/11 19:03 | IT - ZONA DAZN | Atalanta - Inter | unknown | serie-a |
-| 23/11 17:55 | 23/11 19:00 | IT - Sky Sport Calcio | Ep.14 | unknown | serie-a |
-| 23/11 18:00 | 23/11 20:00 | IT - Sky Sport 251 | Next Game: Monza - Fiorentina on 2026-11-23 at 02:00PM EST | unknown |  |
-| 23/11 18:00 | 23/11 20:00 | IT - Sky Sport 252 | Next Game: Grosseto - Guidonia Montecelio on 2026-11-23 at 02:00PM EST | unknown |  |
-| 23/11 18:00 | 23/11 20:15 | IT - Sky Sport 253 | Next Game: Lecco - Lumezzane on 2026-11-23 at 02:15PM EST | unknown |  |
-| 23/11 18:00 | 23/11 22:00 | IT - Sky Sport 254 | No Game Today | unknown |  |
-| 23/11 18:00 | 23/11 22:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
-| 23/11 18:00 | 23/11 22:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 23/11 18:00 | 23/11 22:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 23/11 18:00 | 23/11 22:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 23/11 18:00 | 24/11 00:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 23/11 18:10 | 23/11 20:00 | IT - Sky Sport 4K | Milan - Frosinone | unknown |  |
-| 23/11 18:55 | 23/11 19:25 | IT - Sky Sport Arena | Noir Marsigliese | unknown |  |
-| 23/11 18:55 | 23/11 19:15 | IT - Sky Sport Legend | La dinastia di Sir Alex | unknown |  |
-| 23/11 19:00 | 23/11 19:30 | IT - Sky Sport Calcio | Uefa Champions League Magazine 2026/2027 Ep.12 23/11/2026 | unknown | champions-league |
-| 23/11 19:03 | 23/11 19:41 | IT - ZONA DAZN | Leonardo Pavoletti | unknown |  |
-| 23/11 19:15 | 23/11 20:45 | IT - Sky Sport Legend | Il Processo del 10 Gennaio 1994 | unknown |  |
-| 23/11 19:30 | 23/11 20:30 | IT - RAI Sport | Serie B | unknown | serie-b |
-| 23/11 19:30 | 23/11 20:30 | IT - Rai Sport 1 | Serie B | unknown | serie-b |
-| 23/11 19:30 | 23/11 20:00 | IT - Sky Sport Calcio | Noir Marsigliese | unknown |  |
-| 23/11 19:41 | 23/11 21:27 | IT - ZONA DAZN | Parma - Roma | unknown | serie-a |
-| 23/11 20:00 | 23/11 20:45 | IT - Sky Sport24 | Sky Calcio - L'originale | unknown |  |
 | 23/11 20:00 | 24/11 00:30 | IT - Sky Sport 251 | Monza - Fiorentina | live | serie-a |
-| 23/11 20:00 | 24/11 00:00 | IT - Sky Sport 252 | Grosseto - Guidonia Montecelio | live |  |
-| 23/11 20:00 | 23/11 20:40 | IT - Sky Sport 4K | Sky Calcio - L'originale | live | serie-a |
-| 23/11 20:00 | 23/11 20:40 | IT - Sky Sport Calcio | Sky Calcio - L'originale | live | serie-a |
-| 23/11 20:15 | 24/11 00:00 | IT - Sky Sport 253 | Lecco - Lumezzane | live |  |
-| 23/11 20:30 | 23/11 22:35 | IT - RAI Sport | Serie C | unknown |  |
-| 23/11 20:30 | 23/11 22:35 | IT - Rai Sport 1 | Serie C | unknown |  |
-| 23/11 20:40 | 23/11 22:45 | IT - Sky Sport 4K | Monza - Fiorentina | live |  |
-| 23/11 20:40 | 23/11 20:55 | IT - Sky Sport Arena | Programmazione non disponibile | unknown |  |
-| 23/11 20:40 | 23/11 22:45 | IT - Sky Sport Calcio | Monza - Fiorentina | live |  |
-| 23/11 20:55 | 23/11 23:00 | IT - Sky Sport Arena | Brentford - Everton | live |  |
-| 23/11 21:27 | 23/11 22:43 | IT - ZONA DAZN | Uno, nessuno, Manenti | unknown |  |
 | 23/11 22:00 | 24/11 02:00 | IT - Sky Sport 254 | No Game Today | unknown |  |
 | 23/11 22:00 | 24/11 02:00 | IT - Sky Sport 255 | No Game Today | unknown |  |
 | 23/11 22:00 | 24/11 02:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
 | 23/11 22:00 | 24/11 02:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
 | 23/11 22:00 | 24/11 02:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 23/11 22:35 | 23/11 22:50 | IT - RAI Sport | Serie B | unknown | serie-b |
-| 23/11 22:35 | 23/11 22:50 | IT - Rai Sport 1 | Serie B | unknown | serie-b |
-| 23/11 22:35 | 23/11 23:05 | IT - Sky Sport Max | Milan - Frosinone Serie A | unknown | serie-a |
-| 23/11 22:43 | 23/11 23:00 | IT - ZONA DAZN | Bordocam Napoli - Como 2026/27 | unknown |  |
-| 23/11 22:45 | 23/11 23:00 | IT - Sky Sport24 | Anteprima Sky Calcio L' Originale | unknown |  |
-| 23/11 22:45 | 23/11 23:00 | IT - Sky Sport 4K | Anteprima Sky Calcio L'...... (Diretta) | live | serie-a |
-| 23/11 22:45 | 23/11 23:00 | IT - Sky Sport Calcio | Anteprima Sky Calcio L'...... (Diretta) | live | serie-a |
-| 23/11 23:00 | 24/11 00:00 | IT - Sky Sport24 | Sky Calcio - L'originale | unknown |  |
-| 23/11 23:00 | 24/11 00:00 | IT - Sky Sport 4K | Sky Calcio - L'originale | live | serie-a |
-| 23/11 23:00 | 24/11 00:00 | IT - Sky Sport Calcio | Sky Calcio - L'originale | live | serie-a |
-| 23/11 23:00 | 23/11 23:47 | IT - ZONA DAZN |  | unknown | serie-a |
 | 23/11 23:05 | 24/11 00:50 | IT - Sky Sport Max | Monza - Fiorentina Serie A | unknown | serie-a |
 | 23/11 23:20 | 24/11 01:15 | IT - Sky Sport NBA | Tezenis Verona - Udine Serie A Basket | unknown | serie-a |
 | 23/11 23:47 | 24/11 01:00 | IT - ZONA DAZN | Dimarco: Vincere non stanca | unknown |  |

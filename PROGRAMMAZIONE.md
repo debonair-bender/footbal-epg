@@ -1,6 +1,6 @@
 # Programmazione calcio
 
-Ultima acquisizione riuscita: 2026-11-24T22:12:03.242269Z. Orari: Europe/Rome.
+Ultima acquisizione riuscita: 2026-11-24T23:10:17.108959Z. Orari: Europe/Rome.
 
 Solo Sky Calcio, Sky Sport, DAZN/Zona DAZN, TV8 e RAI secondo config.json.
 
@@ -21,140 +21,18 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 
 | Inizio | Fine | Canale | Programma | Tipo | Competizioni rilevate |
 | --- | --- | --- | --- | --- | --- |
-| 24/11 01:00 | 24/11 02:40 | IT - RAI Sport | Calcio: Mondiali Under 17 | unknown |  |
-| 24/11 01:00 | 24/11 02:40 | IT - Rai Sport 1 | Calcio: Mondiali Under 17 | unknown |  |
-| 24/11 01:00 | 24/11 01:30 | IT - Sky Sport Calcio | Milan - Frosinone | unknown |  |
-| 24/11 01:00 | 24/11 03:45 | IT - Sky Sport Legend | Volley Femminile Cev Champions League 2020/2021 - Stag. -3 - Conegliano - Istanbul. Finale | unknown | champions-league |
-| 24/11 01:20 | 24/11 01:45 | IT - Sky Sport Max | Uefa Champions League Magazine 2026/2027 Ep | unknown | champions-league |
-| 24/11 01:30 | 24/11 02:30 | IT - Sky Sport Calcio | Ep.5 | unknown |  |
-| 24/11 01:45 | 24/11 03:30 | IT - Sky Sport 4K | Milan - Frosinone | unknown |  |
-| 24/11 01:45 | 24/11 03:45 | IT - Sky Sport Max | Milan - Frosinone Serie A | unknown | serie-a |
-| 24/11 02:00 | 24/11 06:00 | IT - Sky Sport 251 | Next Game: Diretta Gol Ucl 24/11/2026 (Diretta) on 2026-11-24 at 12:00PM EST | live | champions-league |
-| 24/11 02:00 | 24/11 06:00 | IT - Sky Sport 252 | Next Game: Manchester City - Napoli on 2026-11-24 at 02:00PM EST | unknown |  |
-| 24/11 02:00 | 24/11 06:00 | IT - Sky Sport 253 | Next Game: Como - AEK Atene on 2026-11-24 at 02:00PM EST | unknown |  |
-| 24/11 02:00 | 24/11 06:00 | IT - Sky Sport 254 | Next Game: Galatasaray - Aston Villa on 2026-11-24 at 12:00PM EST | unknown |  |
-| 24/11 02:00 | 24/11 06:00 | IT - Sky Sport 255 | Next Game: Bodo/Glimt - LASK Linz on 2026-11-24 at 12:00PM EST | unknown |  |
-| 24/11 02:00 | 24/11 06:00 | IT - Sky Sport 256 | Next Game: Feyenoord - Porto on 2026-11-24 at 02:00PM EST | unknown |  |
-| 24/11 02:00 | 24/11 06:00 | IT - Sky Sport 257 | Next Game: Lipsia - LENS on 2026-11-24 at 02:00PM EST | unknown |  |
-| 24/11 02:00 | 24/11 06:00 | IT - Sky Sport 258 | Next Game: Slovan Bratislava - Betis on 2026-11-24 at 02:00PM EST | unknown |  |
-| 24/11 02:30 | 24/11 03:30 | IT - Sky Sport Calcio | Ep.10 | unknown |  |
-| 24/11 03:30 | 24/11 05:15 | IT - Sky Sport 4K | Napoli - Torino | unknown |  |
-| 24/11 03:30 | 24/11 05:15 | IT - Sky Sport Calcio | Napoli - Torino | unknown |  |
-| 24/11 03:45 | 24/11 04:45 | IT - Sky Sport Legend | Ep. 3 | unknown |  |
-| 24/11 04:45 | 24/11 05:00 | IT - Sky Sport Legend | Tutti i gol di Henry nelle Coppe Europee | unknown |  |
-| 24/11 05:15 | 24/11 05:40 | IT - Sky Sport 4K | Manchester United - Roma | unknown | champions-league |
-| 24/11 05:15 | 24/11 05:40 | IT - Sky Sport Calcio | Noir Marsigliese | unknown |  |
-| 24/11 05:40 | 24/11 06:00 | IT - Sky Sport 4K | Lens - Como | unknown |  |
-| 24/11 05:40 | 24/11 06:00 | IT - Sky Sport Calcio | Kakà: tutti i gol in Champions League | unknown | champions-league |
-| 24/11 06:00 | 24/11 10:00 | IT - Sky Sport 251 | Next Game: Diretta Gol Ucl 24/11/2026 (Diretta) on 2026-11-24 at 12:00PM EST | live | champions-league |
-| 24/11 06:00 | 24/11 10:00 | IT - Sky Sport 252 | Next Game: Manchester City - Napoli on 2026-11-24 at 02:00PM EST | unknown |  |
-| 24/11 06:00 | 24/11 10:00 | IT - Sky Sport 253 | Next Game: Como - AEK Atene on 2026-11-24 at 02:00PM EST | unknown |  |
-| 24/11 06:00 | 24/11 10:00 | IT - Sky Sport 254 | Next Game: Galatasaray - Aston Villa on 2026-11-24 at 12:00PM EST | unknown |  |
-| 24/11 06:00 | 24/11 10:00 | IT - Sky Sport 255 | Next Game: Bodo/Glimt - LASK Linz on 2026-11-24 at 12:00PM EST | unknown |  |
-| 24/11 06:00 | 24/11 10:00 | IT - Sky Sport 256 | Next Game: Feyenoord - Porto on 2026-11-24 at 02:00PM EST | unknown |  |
-| 24/11 06:00 | 24/11 10:00 | IT - Sky Sport 257 | Next Game: Lipsia - LENS on 2026-11-24 at 02:00PM EST | unknown |  |
-| 24/11 06:00 | 24/11 10:00 | IT - Sky Sport 258 | Next Game: Slovan Bratislava - Betis on 2026-11-24 at 02:00PM EST | unknown |  |
-| 24/11 06:00 | 24/11 08:00 | IT - Sky Sport Calcio | Monza - Fiorentina | unknown |  |
-| 24/11 06:00 | 24/11 12:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 24/11 07:00 | 24/11 08:45 | IT - Sky Sport Legend | Milan - Barcellona 1994 | unknown | champions-league |
-| 24/11 07:55 | 24/11 09:00 | IT - Sky Sport Tennis |  | unknown |  |
-| 24/11 08:00 | 24/11 09:00 | IT - RAI Sport | Serie B | unknown | serie-b |
-| 24/11 08:00 | 24/11 09:00 | IT - Rai Sport 1 | Serie B | unknown | serie-b |
-| 24/11 08:00 | 24/11 08:30 | IT - Sky Sport Calcio | Uefa Champions League Magazine 2026/2027 Ep.12 23/11/2026 | unknown | champions-league |
-| 24/11 08:00 | 24/11 09:48 | IT - ZONA DAZN | Bologna - Udinese | unknown | serie-a |
-| 24/11 08:30 | 24/11 10:30 | IT - Sky Sport Calcio | Brentford - Everton | unknown |  |
-| 24/11 08:30 | 24/11 10:30 | IT - Sky Sport NBA | Tezenis Verona - Udine Serie A Basket | unknown | serie-a |
-| 24/11 09:00 | 24/11 10:55 | IT - RAI Sport | Serie C | unknown |  |
-| 24/11 09:00 | 24/11 10:55 | IT - Rai Sport 1 | Serie C | unknown |  |
-| 24/11 09:30 | 24/11 11:15 | IT - Sky Sport Max | Monza - Fiorentina Serie A | unknown | serie-a |
-| 24/11 10:00 | 24/11 14:00 | IT - Sky Sport 251 | Next Game: Diretta Gol Ucl 24/11/2026 (Diretta) on 2026-11-24 at 12:00PM EST | live | champions-league |
-| 24/11 10:00 | 24/11 14:00 | IT - Sky Sport 252 | Next Game: Manchester City - Napoli on 2026-11-24 at 02:00PM EST | unknown |  |
-| 24/11 10:00 | 24/11 14:00 | IT - Sky Sport 253 | Next Game: Como - AEK Atene on 2026-11-24 at 02:00PM EST | unknown |  |
-| 24/11 10:00 | 24/11 14:00 | IT - Sky Sport 254 | Next Game: Galatasaray - Aston Villa on 2026-11-24 at 12:00PM EST | unknown |  |
-| 24/11 10:00 | 24/11 14:00 | IT - Sky Sport 255 | Next Game: Bodo/Glimt - LASK Linz on 2026-11-24 at 12:00PM EST | unknown |  |
-| 24/11 10:00 | 24/11 14:00 | IT - Sky Sport 256 | Next Game: Feyenoord - Porto on 2026-11-24 at 02:00PM EST | unknown |  |
-| 24/11 10:00 | 24/11 14:00 | IT - Sky Sport 257 | Next Game: Lipsia - LENS on 2026-11-24 at 02:00PM EST | unknown |  |
-| 24/11 10:00 | 24/11 14:00 | IT - Sky Sport 258 | Next Game: Slovan Bratislava - Betis on 2026-11-24 at 02:00PM EST | unknown |  |
-| 24/11 10:17 | 24/11 12:03 | IT - ZONA DAZN | Lazio - Lecce | unknown | serie-a |
-| 24/11 10:30 | 24/11 12:25 | IT - Sky Sport Calcio | Milan - Frosinone | unknown |  |
-| 24/11 10:55 | 24/11 11:10 | IT - RAI Sport | Serie B | unknown | serie-b |
-| 24/11 10:55 | 24/11 11:10 | IT - Rai Sport 1 | Serie B | unknown | serie-b |
-| 24/11 11:00 | 24/11 13:45 | IT - Sky Sport Legend | Volley Femminile Cev Champions League 2020/2021 - Stag. -3 - Conegliano - Istanbul. Finale | unknown | champions-league |
-| 24/11 11:15 | 24/11 11:45 | IT - Sky Sport Max | Uefa Champions League Magazine 2026/2027 Ep | unknown | champions-league |
-| 24/11 12:00 | 24/11 18:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 24/11 12:25 | 24/11 13:20 | IT - Sky Sport Calcio | Ep.5 | unknown |  |
-| 24/11 12:39 | 24/11 14:25 | IT - ZONA DAZN | Parma - Roma | unknown | serie-a |
-| 24/11 13:00 | 24/11 13:30 | IT - Sky Sport24 | Il Calcio e' Servito | unknown |  |
-| 24/11 13:20 | 24/11 13:45 | IT - Sky Sport Calcio | Uefa Champions League Magazine 2026/2027 Ep.12 23/11/2026 | unknown | champions-league |
-| 24/11 13:30 | 24/11 14:00 | IT - Sky Sport24 | Il Calcio e' Servito | unknown |  |
-| 24/11 13:45 | 24/11 14:05 | IT - Sky Sport Calcio | Ep.28 | unknown |  |
-| 24/11 14:00 | 24/11 18:00 | IT - Sky Sport 251 | Next Game: Diretta Gol Ucl 24/11/2026 (Diretta) on 2026-11-24 at 12:00PM EST | live | champions-league |
-| 24/11 14:00 | 24/11 18:00 | IT - Sky Sport 252 | Next Game: Manchester City - Napoli on 2026-11-24 at 02:00PM EST | unknown |  |
-| 24/11 14:00 | 24/11 18:00 | IT - Sky Sport 253 | Next Game: Como - AEK Atene on 2026-11-24 at 02:00PM EST | unknown |  |
-| 24/11 14:00 | 24/11 18:00 | IT - Sky Sport 254 | Next Game: Galatasaray - Aston Villa on 2026-11-24 at 12:00PM EST | unknown |  |
-| 24/11 14:00 | 24/11 18:00 | IT - Sky Sport 255 | Next Game: Bodo/Glimt - LASK Linz on 2026-11-24 at 12:00PM EST | unknown |  |
-| 24/11 14:00 | 24/11 18:00 | IT - Sky Sport 256 | Next Game: Feyenoord - Porto on 2026-11-24 at 02:00PM EST | unknown |  |
-| 24/11 14:00 | 24/11 18:00 | IT - Sky Sport 257 | Next Game: Lipsia - LENS on 2026-11-24 at 02:00PM EST | unknown |  |
-| 24/11 14:00 | 24/11 18:00 | IT - Sky Sport 258 | Next Game: Slovan Bratislava - Betis on 2026-11-24 at 02:00PM EST | unknown |  |
-| 24/11 14:05 | 24/11 14:30 | IT - Sky Sport Calcio | Noir Marsigliese | unknown |  |
-| 24/11 14:05 | 24/11 14:35 | IT - Sky Sport Legend | Vialli | unknown |  |
-| 24/11 14:10 | 24/11 16:20 | IT - RAI Sport | Pallavolo: Serie A Maschile | unknown | serie-a |
-| 24/11 14:10 | 24/11 16:20 | IT - Rai Sport 1 | Pallavolo: Serie A Maschile | unknown | serie-a |
-| 24/11 14:10 | 24/11 15:50 | IT - Sky Sport 4K | Milan - Frosinone | unknown |  |
-| 24/11 14:25 | 24/11 16:10 | IT - ZONA DAZN | Igor - L'eroe romantico del calcio | unknown |  |
-| 24/11 14:30 | 24/11 16:15 | IT - Sky Sport Calcio | Monza - Fiorentina | unknown |  |
-| 24/11 15:50 | 24/11 17:35 | IT - Sky Sport 4K | Monza - Fiorentina | unknown |  |
-| 24/11 16:05 | 24/11 16:30 | IT - Sky Sport Max | Uefa Champions League Magazine 2026/2027 Ep | unknown | champions-league |
-| 24/11 16:10 | 24/11 17:00 | IT - ZONA DAZN | Interna21onale Uno Scudetto firmato Chivu | unknown |  |
-| 24/11 16:15 | 24/11 18:10 | IT - Sky Sport Calcio | Manchester City - Fulham | unknown |  |
-| 24/11 16:30 | 24/11 18:30 | IT - Sky Sport Max | Milan - Frosinone Serie A | unknown | serie-a |
-| 24/11 17:00 | 24/11 19:16 | IT - ZONA DAZN | CEV Champions League F 2026 Fenerbahce - Vasas Budapest | live | champions-league |
-| 24/11 17:35 | 24/11 19:25 | IT - Sky Sport 4K | Milan - Ferencváros | unknown |  |
-| 24/11 17:50 | 24/11 19:50 | IT - Sky Sport NBA | Tezenis Verona - Udine Serie A Basket | unknown | serie-a |
-| 24/11 18:00 | 24/11 18:35 | IT - Sky Sport24 | Sky Calcio Show (Ucl) 24/11/2026 Sky Calcio Show | unknown | champions-league |
-| 24/11 18:00 | 24/11 20:55 | IT - Sky Sport 251 | Diretta Gol Ucl 24/11/2026 (Diretta) | live | champions-league |
-| 24/11 18:00 | 24/11 20:00 | IT - Sky Sport 252 | Next Game: Manchester City - Napoli on 2026-11-24 at 02:00PM EST | unknown |  |
-| 24/11 18:00 | 24/11 20:00 | IT - Sky Sport 253 | Next Game: Como - AEK Atene on 2026-11-24 at 02:00PM EST | unknown |  |
-| 24/11 18:00 | 24/11 20:55 | IT - Sky Sport 254 | Galatasaray - Aston Villa | live | champions-league |
-| 24/11 18:00 | 24/11 20:55 | IT - Sky Sport 255 | Bodo/Glimt - LASK Linz | live | champions-league |
-| 24/11 18:00 | 24/11 20:00 | IT - Sky Sport 256 | Next Game: Feyenoord - Porto on 2026-11-24 at 02:00PM EST | unknown |  |
-| 24/11 18:00 | 24/11 20:00 | IT - Sky Sport 257 | Next Game: Lipsia - LENS on 2026-11-24 at 02:00PM EST | unknown |  |
-| 24/11 18:00 | 24/11 20:00 | IT - Sky Sport 258 | Next Game: Slovan Bratislava - Betis on 2026-11-24 at 02:00PM EST | unknown |  |
-| 24/11 18:00 | 25/11 00:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 24/11 18:10 | 24/11 18:40 | IT - Sky Sport Calcio | Noir Marsigliese | unknown |  |
-| 24/11 18:30 | 24/11 18:40 | IT - Sky Sport Arena | Programmazione non disponibile | unknown |  |
-| 24/11 18:40 | 24/11 20:40 | IT - Sky Sport Arena | Bodo/Glimt - LASK Linz | live | champions-league |
-| 24/11 18:40 | 24/11 20:35 | IT - Sky Sport Calcio | Galatasaray - Aston Villa | live | champions-league |
-| 24/11 18:45 | 24/11 19:15 | IT - Sky Sport Legend | Batistuta | unknown |  |
-| 24/11 19:15 | 24/11 21:05 | IT - Sky Sport Legend | Inter - Lazio 1998 | unknown |  |
-| 24/11 19:25 | 24/11 20:00 | IT - Sky Sport 4K | Porto - Napoli | unknown |  |
 | 24/11 20:00 | 25/11 01:30 | IT - Sky Sport | Slovan Bratislava - Betis | live | champions-league |
-| 24/11 20:00 | 24/11 20:50 | IT - Sky Sport24 | Sky Calcio Show (Ucl) 24/11/2026 Sky Calcio Show | unknown | champions-league |
 | 24/11 20:00 | 25/11 01:30 | IT - Sky Sport 252 | Manchester City - Napoli | live | champions-league |
 | 24/11 20:00 | 25/11 01:30 | IT - Sky Sport 253 | Como - AEK Atene | live | champions-league |
 | 24/11 20:00 | 25/11 01:30 | IT - Sky Sport 256 | Feyenoord - Porto | live | champions-league |
 | 24/11 20:00 | 25/11 01:30 | IT - Sky Sport 257 | Lipsia - LENS | live | champions-league |
 | 24/11 20:00 | 25/11 01:30 | IT - Sky Sport 258 | Slovan Bratislava - Betis | live | champions-league |
-| 24/11 20:00 | 24/11 20:55 | IT - Sky Sport 4K | Sky Calcio Show (Ucl) 24/11/2026 | live | champions-league |
-| 24/11 20:10 | 24/11 20:40 | IT - Sky Sport NBA | Basket Room Serie A 2026/2027... | unknown | serie-a |
-| 24/11 20:35 | 24/11 20:55 | IT - Sky Sport Calcio | Programmazione non disponibile | unknown |  |
-| 24/11 20:40 | 24/11 20:55 | IT - Sky Sport Arena | Programmazione non disponibile | unknown |  |
 | 24/11 20:55 | 25/11 01:30 | IT - Sky Sport 251 | Diretta Gol Ucl 24/11/2026 (Diretta) | live | champions-league |
 | 24/11 20:55 | 25/11 01:30 | IT - Sky Sport 254 | Arsenal - Borussia Dortmund | live | champions-league |
 | 24/11 20:55 | 25/11 01:30 | IT - Sky Sport 255 | Real Madrid - PSV Eindhoven | live | champions-league |
-| 24/11 20:55 | 24/11 23:00 | IT - Sky Sport 4K | Como - AEK Atene | live | champions-league |
-| 24/11 20:55 | 24/11 23:00 | IT - Sky Sport Arena | Como - AEK Atene | live | champions-league |
-| 24/11 20:55 | 24/11 23:00 | IT - Sky Sport Calcio | Arsenal - Borussia Dortmund | live | champions-league |
-| 24/11 22:18 | 24/11 23:42 | IT - ZONA DAZN | Bostik: La Bodega de D10S | unknown |  |
-| 24/11 23:00 | 25/11 00:00 | IT - Sky Sport24 | Sky Calcio Show (Ucl) 24/11/2026 Sky Calcio Show | unknown | champions-league |
-| 24/11 23:00 | 25/11 00:00 | IT - Sky Sport 4K | Sky Calcio Show (Ucl) 24/11/2026 | live | champions-league |
-| 24/11 23:00 | 24/11 23:30 | IT - Sky Sport Arena | Noir Marsigliese | unknown |  |
 | 24/11 23:00 | 25/11 01:00 | IT - Sky Sport Calcio | Manchester City - Napoli | unknown | champions-league |
 | 24/11 23:00 | 25/11 01:00 | IT - Sky Sport Legend | Roma - Feyenoord | unknown |  |
 | 24/11 23:00 | 25/11 01:00 | IT - Sky Sport Max | Como - AEK Atene UEFA Champions League | unknown | champions-league |
-| 24/11 23:15 | 25/11 00:00 | IT - RAI Sport | Serie A Women Athora | unknown | serie-a |
-| 24/11 23:15 | 25/11 00:00 | IT - Rai Sport 1 | Serie A Women Athora | unknown | serie-a |
-| 24/11 23:30 | 25/11 00:00 | IT - Sky Sport Arena | Milan - Frosinone | unknown |  |
 | 24/11 23:42 | 25/11 01:00 | IT - ZONA DAZN | La visione di Spalletti | unknown |  |
 | 25/11 00:00 | 25/11 02:00 | IT - RAI Sport | Pallavolo: Serie A Femminile | unknown | serie-a |
 | 25/11 00:00 | 25/11 02:00 | IT - Rai Sport 1 | Pallavolo: Serie A Femminile | unknown | serie-a |

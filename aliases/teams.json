@@ -25,5 +25,9 @@
   "Feyenoord": ["Feyenoord Rotterdam"],
   "LASK": ["LASK Linz"],
   "Stuttgart": ["VfB Stuttgart", "Stoccarda"],
-  "Bodo/Glimt": ["Bodø/Glimt", "Bodo Glimt"]
+  "Bodo/Glimt": ["Bodø/Glimt", "Bodo Glimt"],
+  "RB Leipzig": ["Lipsia", "RB Lipsia", "Leipzig", "RasenBallsport Leipzig"],
+  "Real Betis": ["Betis", "Betis Siviglia", "Real Betis Balompié"],
+  "Lens": ["RC Lens", "Racing Club de Lens"],
+  "Slovan Bratislava": ["ŠK Slovan Bratislava", "SK Slovan Bratislava"]
 }

@@ -1,18 +1,9 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-24T23:59:15.814862Z",
-  "state": "ok",
-  "sources": [
-    {
-      "id": "it",
-      "url": "https://iptv-epg.org/files/epg-it.xml",
-      "lastModified": "Tue, 24 Nov 2026 23:13:20 GMT",
-      "sha256": "ce1dc8405ea15c0834fda15d5128250985b61c3885941816c247083523a488aa",
-      "channels": 145,
-      "programmes": 542,
-      "invalidProgrammes": 14
-    }
-  ],
-  "errors": [],
-  "calendarState": "disabled"
+  "checkedAt": "2026-11-25T08:41:29.720553Z",
+  "state": "error",
+  "sources": [],
+  "errors": [
+    "HTTP Error 403: Forbidden"
+  ]
 }

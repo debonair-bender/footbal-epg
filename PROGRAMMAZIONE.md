@@ -1,6 +1,6 @@
 # Programmazione calcio
 
-Ultima acquisizione riuscita: 2026-11-25T19:20:27.009470Z. Orari: Europe/Rome.
+Ultima acquisizione riuscita: 2026-11-26T02:52:43.966143Z. Orari: Europe/Rome.
 
 Solo Sky Calcio, Sky Sport, DAZN/Zona DAZN, TV8 e RAI secondo config.json.
 
@@ -21,129 +21,15 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 
 | Inizio | Fine | Canale | Programma | Tipo | Competizioni rilevate |
 | --- | --- | --- | --- | --- | --- |
-| 25/11 00:00 | 25/11 02:00 | IT - RAI Sport | Pallavolo: Serie A Femminile | unknown | serie-a |
-| 25/11 00:00 | 25/11 02:00 | IT - Rai Sport 1 | Pallavolo: Serie A Femminile | unknown | serie-a |
-| 25/11 01:00 | 25/11 03:00 | IT - Sky Sport Calcio | Como - AEK Atene | unknown |  |
-| 25/11 01:00 | 25/11 02:00 | IT - Sky Sport Max | Ep.5 UEFA Europa & Conference League Magazine | unknown |  |
-| 25/11 01:05 | 25/11 03:00 | IT - Sky Sport 4K | Como - AEK Atene | unknown |  |
-| 25/11 01:20 | 25/11 01:50 | IT - Sky Sport NBA | Basket Room Serie A 2026/2027... | unknown | serie-a |
-| 25/11 02:00 | 25/11 06:00 | IT - Sky Sport 251 | Next Game: Audace Cerignola - Inter U23 on 2026-11-25 at 08:00AM EST | unknown |  |
-| 25/11 02:00 | 25/11 06:00 | IT - Sky Sport 252 | Next Game: Inter - VfB Stoccarda on 2026-11-25 at 02:00PM EST | unknown |  |
-| 25/11 02:00 | 25/11 06:00 | IT - Sky Sport 253 | Next Game: Sabah - FC Barcellona on 2026-11-25 at 12:00PM EST | unknown |  |
-| 25/11 02:00 | 25/11 06:00 | IT - Sky Sport 254 | Next Game: Slavia Praga - Villarreal on 2026-11-25 at 12:00PM EST | unknown |  |
-| 25/11 02:00 | 25/11 06:00 | IT - Sky Sport 255 | Next Game: Atalanta U23 - Pineto on 2026-11-25 at 11:30AM EST | unknown |  |
-| 25/11 02:00 | 25/11 06:00 | IT - Sky Sport 256 | Next Game: Atletico Madrid - Viking on 2026-11-25 at 02:00PM EST | unknown |  |
-| 25/11 02:00 | 25/11 06:00 | IT - Sky Sport 257 | Next Game: Shakhtar Donetsk - Fenerbahce on 2026-11-25 at 02:00PM EST | unknown |  |
-| 25/11 02:00 | 25/11 06:00 | IT - Sky Sport 259 | No Game Today | unknown |  |
-| 25/11 02:00 | 25/11 03:45 | IT - Sky Sport Legend | Milan - Barcellona 1994 | unknown | champions-league |
-| 25/11 02:00 | 25/11 04:00 | IT - Sky Sport Max | Monza - Fiorentina Serie A | unknown | serie-a |
-| 25/11 03:00 | 25/11 03:30 | IT - Sky Sport 4K | Manchester City - Napoli | unknown | champions-league |
-| 25/11 03:00 | 25/11 03:55 | IT - Sky Sport Calcio | Premier League Review | unknown |  |
-| 25/11 03:30 | 25/11 05:30 | IT - Sky Sport 4K | Milan - Ferencváros | unknown |  |
-| 25/11 03:55 | 25/11 06:00 | IT - Sky Sport Arena | Tezenis Verona - Udine | unknown | serie-a |
-| 25/11 03:55 | 25/11 04:10 | IT - Sky Sport Calcio | Monza - Fiorentina | unknown |  |
-| 25/11 04:10 | 25/11 06:00 | IT - Sky Sport Calcio | FC Bayern Monaco - Colonia | unknown |  |
-| 25/11 05:15 | 25/11 06:00 | IT - RAI Sport | Calcio | unknown |  |
-| 25/11 05:15 | 25/11 06:00 | IT - Rai Sport 1 | Calcio | unknown |  |
-| 25/11 05:30 | 25/11 06:00 | IT - Sky Sport 4K | Manchester City - Napoli | unknown | champions-league |
-| 25/11 06:00 | 25/11 06:45 | IT - RAI Sport | Serie A Women Athora | unknown | serie-a |
-| 25/11 06:00 | 25/11 06:45 | IT - Rai Sport 1 | Serie A Women Athora | unknown | serie-a |
-| 25/11 06:00 | 25/11 10:00 | IT - Sky Sport 251 | Next Game: Audace Cerignola - Inter U23 on 2026-11-25 at 08:00AM EST | unknown |  |
-| 25/11 06:00 | 25/11 10:00 | IT - Sky Sport 252 | Next Game: Inter - VfB Stoccarda on 2026-11-25 at 02:00PM EST | unknown |  |
-| 25/11 06:00 | 25/11 10:00 | IT - Sky Sport 253 | Next Game: Sabah - FC Barcellona on 2026-11-25 at 12:00PM EST | unknown |  |
-| 25/11 06:00 | 25/11 10:00 | IT - Sky Sport 254 | Next Game: Slavia Praga - Villarreal on 2026-11-25 at 12:00PM EST | unknown |  |
-| 25/11 06:00 | 25/11 10:00 | IT - Sky Sport 255 | Next Game: Atalanta U23 - Pineto on 2026-11-25 at 11:30AM EST | unknown |  |
-| 25/11 06:00 | 25/11 10:00 | IT - Sky Sport 256 | Next Game: Atletico Madrid - Viking on 2026-11-25 at 02:00PM EST | unknown |  |
-| 25/11 06:00 | 25/11 10:00 | IT - Sky Sport 257 | Next Game: Shakhtar Donetsk - Fenerbahce on 2026-11-25 at 02:00PM EST | unknown |  |
-| 25/11 06:00 | 25/11 10:00 | IT - Sky Sport 259 | No Game Today | unknown |  |
-| 25/11 06:00 | 25/11 07:50 | IT - Sky Sport 4K | Milan - Frosinone | unknown |  |
-| 25/11 06:00 | 25/11 08:00 | IT - Sky Sport Calcio | Como - AEK Atene | unknown |  |
-| 25/11 06:00 | 25/11 12:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 25/11 07:50 | 25/11 09:35 | IT - Sky Sport 4K | Napoli - Torino | unknown |  |
-| 25/11 08:00 | 25/11 10:00 | IT - Sky Sport Arena | Tezenis Verona - Udine | unknown | serie-a |
-| 25/11 08:00 | 25/11 08:25 | IT - Sky Sport Calcio | Manchester City - Napoli | unknown | champions-league |
-| 25/11 08:00 | 25/11 09:55 | IT - ZONA DAZN | Sassuolo - Genoa | unknown | serie-a |
-| 25/11 08:25 | 25/11 10:30 | IT - Sky Sport Calcio | Arsenal - Borussia Dortmund | unknown | champions-league |
-| 25/11 09:30 | 25/11 11:15 | IT - Sky Sport Max | Manchester City - Napoli UEFA Champions League | unknown | champions-league |
-| 25/11 09:35 | 25/11 11:15 | IT - Sky Sport 4K | Monza - Fiorentina | unknown |  |
-| 25/11 09:45 | 25/11 11:30 | IT - RAI Sport | Pallavolo: Serie A Maschile | unknown | serie-a |
-| 25/11 09:45 | 25/11 11:30 | IT - Rai Sport 1 | Pallavolo: Serie A Maschile | unknown | serie-a |
-| 25/11 10:00 | 25/11 14:00 | IT - Sky Sport 251 | Next Game: Audace Cerignola - Inter U23 on 2026-11-25 at 08:00AM EST | unknown |  |
-| 25/11 10:00 | 25/11 14:00 | IT - Sky Sport 252 | Next Game: Inter - VfB Stoccarda on 2026-11-25 at 02:00PM EST | unknown |  |
-| 25/11 10:00 | 25/11 14:00 | IT - Sky Sport 253 | Next Game: Sabah - FC Barcellona on 2026-11-25 at 12:00PM EST | unknown |  |
-| 25/11 10:00 | 25/11 14:00 | IT - Sky Sport 254 | Next Game: Slavia Praga - Villarreal on 2026-11-25 at 12:00PM EST | unknown |  |
-| 25/11 10:00 | 25/11 14:00 | IT - Sky Sport 255 | Next Game: Atalanta U23 - Pineto on 2026-11-25 at 11:30AM EST | unknown |  |
-| 25/11 10:00 | 25/11 14:00 | IT - Sky Sport 256 | Next Game: Atletico Madrid - Viking on 2026-11-25 at 02:00PM EST | unknown |  |
-| 25/11 10:00 | 25/11 14:00 | IT - Sky Sport 257 | Next Game: Shakhtar Donetsk - Fenerbahce on 2026-11-25 at 02:00PM EST | unknown |  |
-| 25/11 10:00 | 25/11 14:00 | IT - Sky Sport 259 | No Game Today | unknown |  |
-| 25/11 10:30 | 25/11 12:30 | IT - ZONA DAZN | Parma - Roma | unknown | serie-a |
-| 25/11 11:00 | 25/11 11:30 | IT - Sky Sport Calcio | Manchester City - Napoli | unknown | champions-league |
-| 25/11 11:15 | 25/11 11:45 | IT - Sky Sport 4K | Manchester City - Napoli | unknown | champions-league |
-| 25/11 11:30 | 25/11 11:55 | IT - Sky Sport Calcio | Noir Marsigliese | unknown |  |
-| 25/11 11:45 | 25/11 13:25 | IT - Sky Sport 4K | Milan - Frosinone | unknown |  |
-| 25/11 11:55 | 25/11 13:55 | IT - Sky Sport Calcio | Como - AEK Atene | unknown |  |
-| 25/11 12:00 | 25/11 13:00 | IT - Sky Sport Max | Ep.5 UEFA Europa & Conference League Magazine | unknown |  |
-| 25/11 12:00 | 25/11 18:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 25/11 13:00 | 25/11 13:30 | IT - Sky Sport24 | Il Calcio e' Servito | unknown |  |
-| 25/11 13:15 | 25/11 15:10 | IT - ZONA DAZN | Lazio - Lecce | unknown | serie-a |
-| 25/11 13:25 | 25/11 13:50 | IT - Sky Sport 4K | Como - AEK Atene | unknown |  |
-| 25/11 13:25 | 25/11 13:50 | IT - Sky Sport NBA | Basket Room Serie A 2026/2027... | unknown | serie-a |
-| 25/11 13:30 | 25/11 14:00 | IT - Sky Sport24 | Il Calcio e' Servito | unknown |  |
-| 25/11 13:55 | 25/11 14:10 | IT - Sky Sport Calcio | Monza - Fiorentina | unknown |  |
-| 25/11 14:00 | 25/11 17:30 | IT - Sky Sport 251 | Audace Cerignola - Inter U23 | live |  |
-| 25/11 14:00 | 25/11 18:00 | IT - Sky Sport 252 | Next Game: Inter - VfB Stoccarda on 2026-11-25 at 02:00PM EST | unknown |  |
-| 25/11 14:00 | 25/11 18:00 | IT - Sky Sport 253 | Next Game: Sabah - FC Barcellona on 2026-11-25 at 12:00PM EST | unknown |  |
-| 25/11 14:00 | 25/11 18:00 | IT - Sky Sport 254 | Next Game: Slavia Praga - Villarreal on 2026-11-25 at 12:00PM EST | unknown |  |
-| 25/11 14:00 | 25/11 17:30 | IT - Sky Sport 255 | Next Game: Atalanta U23 - Pineto on 2026-11-25 at 11:30AM EST | unknown |  |
-| 25/11 14:00 | 25/11 18:00 | IT - Sky Sport 256 | Next Game: Atletico Madrid - Viking on 2026-11-25 at 02:00PM EST | unknown |  |
-| 25/11 14:00 | 25/11 18:00 | IT - Sky Sport 257 | Next Game: Shakhtar Donetsk - Fenerbahce on 2026-11-25 at 02:00PM EST | unknown |  |
-| 25/11 14:00 | 25/11 18:00 | IT - Sky Sport 259 | No Game Today | unknown |  |
-| 25/11 14:10 | 25/11 16:00 | IT - Sky Sport Calcio | Manchester City - Napoli | unknown | champions-league |
-| 25/11 15:00 | 25/11 16:55 | IT - Sky Sport Max | Como - AEK Atene UEFA Champions League | unknown | champions-league |
-| 25/11 15:30 | 25/11 17:25 | IT - ZONA DAZN | Como - Cagliari | unknown | serie-a |
-| 25/11 16:00 | 25/11 17:45 | IT - Sky Sport 4K | Como - AEK Atene | unknown |  |
-| 25/11 16:00 | 25/11 17:50 | IT - Sky Sport Calcio | Paris Saint-Germain U19 - Roma | live |  |
-| 25/11 17:30 | 25/11 18:00 | IT - Sky Sport 251 | Next Game: Diretta Gol Ucl 25/11/2026 (Diretta) on 2026-11-25 at 12:00PM EST | live | champions-league |
-| 25/11 17:30 | 25/11 20:30 | IT - Sky Sport 255 | Atalanta U23 - Pineto | live |  |
-| 25/11 17:45 | 25/11 18:10 | IT - Sky Sport 4K | Manchester City - Napoli | unknown | champions-league |
-| 25/11 17:45 | 25/11 18:00 | IT - ZONA DAZN | Bordocam Lazio - Milan 2026/27 | unknown |  |
-| 25/11 17:50 | 25/11 18:05 | IT - Sky Sport Calcio | Como - AEK Atene | unknown |  |
-| 25/11 18:00 | 25/11 18:35 | IT - Sky Sport24 | Sky Calcio Show (Ucl) 25/11/2026 Sky Calcio Show | unknown | champions-league |
-| 25/11 18:00 | 25/11 20:55 | IT - Sky Sport 251 | Diretta Gol Ucl 25/11/2026 (Diretta) | live | champions-league |
-| 25/11 18:00 | 25/11 20:00 | IT - Sky Sport 252 | Next Game: Inter - VfB Stoccarda on 2026-11-25 at 02:00PM EST | unknown |  |
-| 25/11 18:00 | 25/11 20:55 | IT - Sky Sport 253 | Sabah - FC Barcellona | live | champions-league |
-| 25/11 18:00 | 25/11 20:55 | IT - Sky Sport 254 | Slavia Praga - Villarreal | live | champions-league |
-| 25/11 18:00 | 25/11 20:00 | IT - Sky Sport 256 | Next Game: Atletico Madrid - Viking on 2026-11-25 at 02:00PM EST | unknown |  |
-| 25/11 18:00 | 25/11 20:00 | IT - Sky Sport 257 | Next Game: Shakhtar Donetsk - Fenerbahce on 2026-11-25 at 02:00PM EST | unknown |  |
-| 25/11 18:00 | 25/11 22:00 | IT - Sky Sport 259 | No Game Today | unknown |  |
-| 25/11 18:00 | 25/11 20:00 | IT - ZONA DAZN | Bologna - Udinese | unknown | serie-a |
-| 25/11 18:00 | 26/11 00:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 25/11 18:10 | 25/11 20:00 | IT - Sky Sport 4K | Napoli - Torino | unknown |  |
-| 25/11 18:25 | 25/11 20:20 | IT - Sky Sport Arena | Savino Del Bene Scandicci - Turan Tovuz | live | champions-league |
-| 25/11 18:40 | 25/11 20:40 | IT - Sky Sport Calcio | Sabah - FC Barcellona | live | champions-league |
-| 25/11 20:00 | 25/11 20:50 | IT - Sky Sport24 | Sky Calcio Show (Ucl) 25/11/2026 Sky Calcio Show | unknown | champions-league |
 | 25/11 20:00 | 26/11 01:30 | IT - Sky Sport 252 | Inter - VfB Stoccarda | live | champions-league |
 | 25/11 20:00 | 26/11 01:30 | IT - Sky Sport 256 | Atletico Madrid - Viking | live | champions-league |
 | 25/11 20:00 | 26/11 01:30 | IT - Sky Sport 257 | Shakhtar Donetsk - Fenerbahce | live | champions-league |
-| 25/11 20:00 | 25/11 20:55 | IT - Sky Sport 4K | Sky Calcio Show (Ucl) 25/11/2026 | live | champions-league |
-| 25/11 20:00 | 25/11 21:00 | IT - Sky Sport Legend | Ep. 2 | unknown |  |
-| 25/11 20:00 | 25/11 22:15 | IT - ZONA DAZN | Milano - Levallois | live | champions-league |
-| 25/11 20:20 | 25/11 20:55 | IT - TV8 | Tv8 Football Night | live | champions-league |
 | 25/11 20:30 | 26/11 01:30 | IT - Sky Sport 255 | Sporting - Manchester UTD | live | champions-league |
-| 25/11 20:40 | 25/11 20:55 | IT - Sky Sport Calcio | Programmazione non disponibile | unknown |  |
 | 25/11 20:55 | 26/11 01:30 | IT - Sky Sport 251 | Diretta Gol Ucl 25/11/2026 (Diretta) | live | champions-league |
 | 25/11 20:55 | 26/11 01:30 | IT - Sky Sport 253 | Lille OSC - FC Bayern Monaco | live | champions-league |
 | 25/11 20:55 | 26/11 01:30 | IT - Sky Sport 254 | Club Bruges - Liverpool | live | champions-league |
-| 25/11 20:55 | 25/11 23:00 | IT - Sky Sport 4K | Inter - VfB Stoccarda | live | champions-league |
-| 25/11 20:55 | 25/11 23:00 | IT - Sky Sport Arena | Diretta Gol Ucl 25/11/2026 (Diretta) | live | champions-league |
-| 25/11 20:55 | 25/11 23:00 | IT - Sky Sport Calcio | Lille OSC - FC Bayern Monaco | live | champions-league |
-| 25/11 20:55 | 25/11 23:00 | IT - TV8 | Lille OSC - FC Bayern Monaco | live | champions-league |
-| 25/11 21:10 | 25/11 21:40 | IT - Sky Sport NBA | Basket Room Serie A 2026/2027... | unknown | serie-a |
 | 25/11 22:00 | 26/11 02:00 | IT - Sky Sport 259 | No Game Today | unknown |  |
 | 25/11 22:15 | 26/11 01:00 | IT - ZONA DAZN | Atalanta - Inter | unknown | serie-a |
-| 25/11 23:00 | 26/11 00:00 | IT - Sky Sport24 | Sky Calcio Show (Ucl) 25/11/2026 Sky Calcio Show | unknown | champions-league |
-| 25/11 23:00 | 26/11 00:00 | IT - Sky Sport 4K | Sky Calcio Show (Ucl) 25/11/2026 | live | champions-league |
-| 25/11 23:00 | 25/11 23:35 | IT - Sky Sport Calcio | Noir Marsigliese | unknown |  |
 | 25/11 23:00 | 26/11 00:45 | IT - Sky Sport Legend | Bayern M. - Inter 2010 | unknown | champions-league |
 | 25/11 23:00 | 26/11 00:30 | IT - TV8 | Tv8 Football Night | live | champions-league |
 | 25/11 23:35 | 26/11 01:35 | IT - Sky Sport Calcio | Inter - VfB Stoccarda | unknown |  |

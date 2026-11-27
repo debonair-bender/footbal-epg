@@ -1,6 +1,6 @@
 # Programmazione calcio
 
-Ultima acquisizione riuscita: 2026-11-26T22:23:09.293473Z. Orari: Europe/Rome.
+Ultima acquisizione riuscita: 2026-11-27T05:05:36.920724Z. Orari: Europe/Rome.
 
 Solo Sky Calcio, Sky Sport, DAZN/Zona DAZN, TV8 e RAI secondo config.json.
 
@@ -21,148 +21,18 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 
 | Inizio | Fine | Canale | Programma | Tipo | Competizioni rilevate |
 | --- | --- | --- | --- | --- | --- |
-| 26/11 00:00 | 26/11 02:00 | IT - Sky Sport Max | Lille OSC - FC Bayern Monaco UEFA Champions League | unknown | champions-league |
-| 26/11 01:00 | 26/11 03:00 | IT - Sky Sport 4K | Inter - VfB Stoccarda | unknown |  |
-| 26/11 01:35 | 26/11 02:00 | IT - Sky Sport Calcio | Manchester City - Napoli | unknown | champions-league |
-| 26/11 02:00 | 26/11 06:00 | IT - Sky Sport 251 | Next Game: Diretta Gol Uel/ Uecl... (Diretta) on 2026-11-26 at 12:00PM EST | live |  |
-| 26/11 02:00 | 26/11 06:00 | IT - Sky Sport 252 | Next Game: Juventus - Omonia Nicosia on 2026-11-26 at 02:00PM EST | unknown |  |
-| 26/11 02:00 | 26/11 06:00 | IT - Sky Sport 253 | Next Game: Olympiakos - Milan on 2026-11-26 at 12:00PM EST | unknown |  |
-| 26/11 02:00 | 26/11 06:00 | IT - Sky Sport 254 | Next Game: Kairat - Mjällby on 2026-11-26 at 10:00AM EST | unknown |  |
-| 26/11 02:00 | 26/11 06:00 | IT - Sky Sport 255 | Next Game: Dinamo Zagabria - Bayer Leverkusen on 2026-11-26 at 12:00PM EST | unknown |  |
-| 26/11 02:00 | 26/11 06:00 | IT - Sky Sport 256 | Next Game: Celta - Bournemouth on 2026-11-26 at 12:00PM EST | unknown |  |
-| 26/11 02:00 | 26/11 06:00 | IT - Sky Sport 257 | Next Game: Besiktas - Hapoel Beer Sheva on 2026-11-26 at 12:00PM EST | unknown |  |
-| 26/11 02:00 | 26/11 06:00 | IT - Sky Sport 259 | No Game Today | live |  |
-| 26/11 02:00 | 26/11 02:55 | IT - Sky Sport Calcio | Calcio Wsl Highlights Ep.11 25/11/2026 | unknown |  |
-| 26/11 02:00 | 26/11 04:00 | IT - Sky Sport Max | Arsenal - Borussia Dortmund UEFA Champions League | unknown | champions-league |
-| 26/11 02:20 | 26/11 05:00 | IT - RAI Sport | Pallavolo: Serie A Femminile | unknown | serie-a |
-| 26/11 02:20 | 26/11 05:00 | IT - Rai Sport 1 | Pallavolo: Serie A Femminile | unknown | serie-a |
-| 26/11 02:35 | 26/11 03:15 | IT - Sky Sport Legend | Forti come un leone | unknown |  |
-| 26/11 02:55 | 26/11 03:50 | IT - Sky Sport Calcio | Ep.5 | unknown |  |
-| 26/11 03:00 | 26/11 04:55 | IT - Sky Sport 4K | Como - AEK Atene | unknown |  |
-| 26/11 03:15 | 26/11 04:00 | IT - Sky Sport Legend | Ep.2 | unknown |  |
-| 26/11 03:50 | 26/11 04:15 | IT - Sky Sport Calcio | Milan - Frosinone | unknown |  |
-| 26/11 04:00 | 26/11 04:45 | IT - Sky Sport Legend | Ep.3 | unknown |  |
-| 26/11 04:15 | 26/11 06:00 | IT - Sky Sport Calcio | Monza - Fiorentina | unknown |  |
-| 26/11 04:45 | 26/11 05:15 | IT - Sky Sport NBA | Basket Room Serie A 2026/2027... | unknown | serie-a |
-| 26/11 06:00 | 26/11 10:00 | IT - Sky Sport 251 | Next Game: Diretta Gol Uel/ Uecl... (Diretta) on 2026-11-26 at 12:00PM EST | live |  |
-| 26/11 06:00 | 26/11 10:00 | IT - Sky Sport 252 | Next Game: Juventus - Omonia Nicosia on 2026-11-26 at 02:00PM EST | unknown |  |
-| 26/11 06:00 | 26/11 10:00 | IT - Sky Sport 253 | Next Game: Olympiakos - Milan on 2026-11-26 at 12:00PM EST | unknown |  |
-| 26/11 06:00 | 26/11 10:00 | IT - Sky Sport 254 | Next Game: Kairat - Mjällby on 2026-11-26 at 10:00AM EST | unknown |  |
-| 26/11 06:00 | 26/11 10:00 | IT - Sky Sport 255 | Next Game: Dinamo Zagabria - Bayer Leverkusen on 2026-11-26 at 12:00PM EST | unknown |  |
-| 26/11 06:00 | 26/11 10:00 | IT - Sky Sport 256 | Next Game: Celta - Bournemouth on 2026-11-26 at 12:00PM EST | unknown |  |
-| 26/11 06:00 | 26/11 10:00 | IT - Sky Sport 257 | Next Game: Besiktas - Hapoel Beer Sheva on 2026-11-26 at 12:00PM EST | unknown |  |
-| 26/11 06:00 | 26/11 10:00 | IT - Sky Sport 259 | No Game Today | live |  |
-| 26/11 06:00 | 26/11 07:55 | IT - Sky Sport 4K | Inter - VfB Stoccarda | unknown |  |
-| 26/11 06:00 | 26/11 07:55 | IT - Sky Sport Calcio | Inter - VfB Stoccarda | unknown |  |
-| 26/11 06:00 | 26/11 12:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 26/11 07:55 | 26/11 09:40 | IT - Sky Sport 4K | Como - AEK Atene | unknown |  |
-| 26/11 07:55 | 26/11 08:15 | IT - Sky Sport Calcio | Monza - Fiorentina | unknown |  |
-| 26/11 08:00 | 26/11 09:45 | IT - Sky Sport Legend | Bayern M. - Inter 2010 | unknown | champions-league |
-| 26/11 08:00 | 26/11 09:47 | IT - ZONA DAZN | Real Madrid - Celta Vigo | unknown |  |
-| 26/11 08:15 | 26/11 08:30 | IT - Sky Sport Calcio | Como - AEK Atene | unknown |  |
-| 26/11 08:30 | 26/11 10:30 | IT - Sky Sport Calcio | Club Bruges - Liverpool | unknown | champions-league |
-| 26/11 08:30 | 26/11 09:00 | IT - Sky Sport NBA | Basket Room Serie A 2026/2027... | unknown | serie-a |
-| 26/11 09:40 | 26/11 10:25 | IT - Sky Sport 4K | Manchester City - Napoli | unknown | champions-league |
-| 26/11 09:45 | 26/11 10:00 | IT - Sky Sport Legend | Gli invincibili | unknown |  |
-| 26/11 10:00 | 26/11 14:00 | IT - Sky Sport 251 | Next Game: Diretta Gol Uel/ Uecl... (Diretta) on 2026-11-26 at 12:00PM EST | live |  |
-| 26/11 10:00 | 26/11 14:00 | IT - Sky Sport 252 | Next Game: Juventus - Omonia Nicosia on 2026-11-26 at 02:00PM EST | unknown |  |
-| 26/11 10:00 | 26/11 14:00 | IT - Sky Sport 253 | Next Game: Olympiakos - Milan on 2026-11-26 at 12:00PM EST | unknown |  |
-| 26/11 10:00 | 26/11 14:00 | IT - Sky Sport 254 | Next Game: Kairat - Mjällby on 2026-11-26 at 10:00AM EST | unknown |  |
-| 26/11 10:00 | 26/11 14:00 | IT - Sky Sport 255 | Next Game: Dinamo Zagabria - Bayer Leverkusen on 2026-11-26 at 12:00PM EST | unknown |  |
-| 26/11 10:00 | 26/11 14:00 | IT - Sky Sport 256 | Next Game: Celta - Bournemouth on 2026-11-26 at 12:00PM EST | unknown |  |
-| 26/11 10:00 | 26/11 14:00 | IT - Sky Sport 257 | Next Game: Besiktas - Hapoel Beer Sheva on 2026-11-26 at 12:00PM EST | unknown |  |
-| 26/11 10:00 | 26/11 14:00 | IT - Sky Sport 259 | No Game Today | live |  |
-| 26/11 10:00 | 26/11 10:45 | IT - Sky Sport Legend | Forti come un leone | unknown |  |
-| 26/11 10:00 | 26/11 11:45 | IT - Sky Sport Max | Inter - VfB Stoccarda UEFA Champions League | unknown | champions-league |
-| 26/11 10:15 | 26/11 12:03 | IT - ZONA DAZN | Barcellona - Villarreal | unknown |  |
-| 26/11 10:25 | 26/11 12:10 | IT - Sky Sport 4K | Milan - Frosinone | unknown |  |
-| 26/11 10:30 | 26/11 11:00 | IT - Sky Sport Calcio | Noir Marsigliese | unknown |  |
-| 26/11 10:45 | 26/11 11:30 | IT - Sky Sport Legend | Ep.2 | unknown |  |
-| 26/11 11:00 | 26/11 12:00 | IT - Sky Sport Calcio | Ep.5 | unknown |  |
-| 26/11 11:30 | 26/11 12:15 | IT - Sky Sport Legend | Ep.3 | unknown |  |
-| 26/11 12:00 | 26/11 13:50 | IT - Sky Sport Calcio | Manchester City - Napoli | unknown | champions-league |
-| 26/11 12:00 | 26/11 18:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 26/11 12:03 | 26/11 12:40 | IT - ZONA DAZN | Ep. 4 | unknown |  |
-| 26/11 12:10 | 26/11 13:55 | IT - Sky Sport 4K | Napoli - Torino | unknown |  |
-| 26/11 12:15 | 26/11 12:45 | IT - Sky Sport Legend | Vialli | unknown |  |
-| 26/11 12:40 | 26/11 14:25 | IT - ZONA DAZN | Getafe - Atletico Madrid | unknown |  |
-| 26/11 13:00 | 26/11 13:30 | IT - Sky Sport24 | Il Calcio e' Servito | unknown |  |
-| 26/11 13:30 | 26/11 14:00 | IT - Sky Sport24 | Il Calcio e' Servito | unknown |  |
-| 26/11 13:50 | 26/11 14:10 | IT - Sky Sport Calcio | La Giovane Italia 2026 Ep.29 26/11/2026 | unknown |  |
-| 26/11 13:55 | 26/11 15:45 | IT - Sky Sport 4K | Monza - Fiorentina | unknown |  |
-| 26/11 14:00 | 26/11 18:00 | IT - Sky Sport 251 | Next Game: Diretta Gol Uel/ Uecl... (Diretta) on 2026-11-26 at 12:00PM EST | live |  |
-| 26/11 14:00 | 26/11 18:00 | IT - Sky Sport 252 | Next Game: Juventus - Omonia Nicosia on 2026-11-26 at 02:00PM EST | unknown |  |
-| 26/11 14:00 | 26/11 18:00 | IT - Sky Sport 253 | Next Game: Olympiakos - Milan on 2026-11-26 at 12:00PM EST | unknown |  |
-| 26/11 14:00 | 26/11 16:00 | IT - Sky Sport 254 | Next Game: Kairat - Mjällby on 2026-11-26 at 10:00AM EST | unknown |  |
-| 26/11 14:00 | 26/11 18:00 | IT - Sky Sport 255 | Next Game: Dinamo Zagabria - Bayer Leverkusen on 2026-11-26 at 12:00PM EST | unknown |  |
-| 26/11 14:00 | 26/11 18:00 | IT - Sky Sport 256 | Next Game: Celta - Bournemouth on 2026-11-26 at 12:00PM EST | unknown |  |
-| 26/11 14:00 | 26/11 18:00 | IT - Sky Sport 257 | Next Game: Besiktas - Hapoel Beer Sheva on 2026-11-26 at 12:00PM EST | unknown |  |
-| 26/11 14:00 | 26/11 18:00 | IT - Sky Sport 259 | No Game Today | live |  |
-| 26/11 14:10 | 26/11 16:05 | IT - Sky Sport Calcio | Inter - VfB Stoccarda | unknown |  |
-| 26/11 14:25 | 26/11 14:41 | IT - ZONA DAZN | Diego Moreira | unknown |  |
-| 26/11 14:30 | 26/11 16:30 | IT - Sky Sport Legend | Milan - Liverpool 2007 | unknown | champions-league |
-| 26/11 14:41 | 26/11 16:27 | IT - ZONA DAZN | Lazio - Lecce | unknown | serie-a |
-| 26/11 14:50 | 26/11 17:00 | IT - RAI Sport | Calcio: Mondiali Under 17 | unknown |  |
-| 26/11 14:50 | 26/11 17:00 | IT - Rai Sport 1 | Calcio: Mondiali Under 17 | unknown |  |
-| 26/11 15:45 | 26/11 16:00 | IT - Sky Sport 4K | Como - AEK Atene | unknown |  |
-| 26/11 15:50 | 26/11 17:25 | IT - Sky Sport Arena | Milano - Levalloois Paris | unknown | champions-league |
-| 26/11 16:00 | 26/11 20:00 | IT - Sky Sport 254 | Kairat - Mjällby | live |  |
-| 26/11 16:00 | 26/11 16:30 | IT - Sky Sport 4K | Manchester City - Napoli | unknown | champions-league |
-| 26/11 16:05 | 26/11 16:25 | IT - Sky Sport Calcio | Milan - Frosinone | unknown |  |
-| 26/11 16:25 | 26/11 18:20 | IT - Sky Sport Calcio | Kairat - Mjällby | live |  |
-| 26/11 16:27 | 26/11 16:54 | IT - ZONA DAZN | Franco Mastantuono | unknown |  |
-| 26/11 16:30 | 26/11 18:25 | IT - Sky Sport 4K | Inter - VfB Stoccarda | unknown |  |
-| 26/11 16:40 | 26/11 17:05 | IT - Sky Sport NBA | Basket Room Serie A 2026/2027... | unknown | serie-a |
-| 26/11 16:54 | 26/11 20:30 | IT - ZONA DAZN | Como - Cagliari | unknown | serie-a |
-| 26/11 17:30 | 26/11 18:00 | IT - Sky Sport Legend | Milito | unknown |  |
-| 26/11 18:00 | 26/11 18:40 | IT - Sky Sport24 | Sky Calcio Show (Uel/ Uecl)... | unknown |  |
-| 26/11 18:00 | 26/11 20:55 | IT - Sky Sport 251 | Diretta Gol Uel/ Uecl... (Diretta) | live |  |
-| 26/11 18:00 | 26/11 20:00 | IT - Sky Sport 252 | Next Game: Juventus - Omonia Nicosia on 2026-11-26 at 02:00PM EST | unknown |  |
-| 26/11 18:00 | 26/11 22:00 | IT - Sky Sport 253 | Olympiakos - Milan | live |  |
-| 26/11 18:00 | 26/11 20:55 | IT - Sky Sport 255 | Dinamo Zagabria - Bayer Leverkusen | live |  |
-| 26/11 18:00 | 26/11 20:55 | IT - Sky Sport 256 | Celta - Bournemouth | live |  |
-| 26/11 18:00 | 26/11 20:55 | IT - Sky Sport 257 | Besiktas - Hapoel Beer Sheva | live |  |
-| 26/11 18:00 | 26/11 22:00 | IT - Sky Sport 259 | No Game Today | live |  |
-| 26/11 18:00 | 27/11 00:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 26/11 18:20 | 26/11 18:40 | IT - Sky Sport Calcio | Programmazione non disponibile | unknown |  |
-| 26/11 18:20 | 26/11 18:40 | IT - Sky Sport Max | Highlights Calcio | unknown |  |
-| 26/11 18:25 | 26/11 20:25 | IT - Sky Sport 4K | Como - AEK Atene | unknown |  |
-| 26/11 18:40 | 26/11 20:35 | IT - Sky Sport Calcio | Dinamo Zagabria - Bayer Leverkusen | live |  |
-| 26/11 18:45 | 26/11 19:00 | IT - Sky Sport Legend | La dinastia di Sir Alex | unknown |  |
-| 26/11 18:45 | 26/11 19:45 | IT - Sky Sport Tennis |  | unknown |  |
-| 26/11 19:50 | 26/11 20:25 | IT - Sky Sport Arena | Noir Marsigliese | unknown |  |
-| 26/11 20:00 | 26/11 20:55 | IT - Sky Sport24 | Sky Calcio Show (Uel/ Uecl)... | unknown |  |
 | 26/11 20:00 | 27/11 01:30 | IT - Sky Sport 252 | Juventus - Omonia Nicosia | live |  |
 | 26/11 20:00 | 27/11 01:30 | IT - Sky Sport 254 | Borac Banja Luka - Atalanta | live |  |
-| 26/11 20:00 | 26/11 21:00 | IT - Sky Sport Legend |  | unknown |  |
-| 26/11 20:20 | 26/11 23:00 | IT - RAI Sport | Pallavolo: Serie A Maschile | unknown | serie-a |
-| 26/11 20:20 | 26/11 23:00 | IT - Rai Sport 1 | Pallavolo: Serie A Maschile | unknown | serie-a |
-| 26/11 20:20 | 26/11 20:55 | IT - TV8 | Tv8 Football Night | unknown | champions-league |
-| 26/11 20:25 | 26/11 20:55 | IT - Sky Sport 4K | Manchester City - Napoli | unknown | champions-league |
-| 26/11 20:25 | 26/11 22:30 | IT - Sky Sport Arena | Conegliano - Novara | live | champions-league |
-| 26/11 20:30 | 26/11 22:46 | IT - ZONA DAZN | CEV Champions League F 2026 Conegliano - Novara | live | champions-league |
-| 26/11 20:35 | 26/11 20:55 | IT - Sky Sport Calcio | Programmazione non disponibile | unknown |  |
-| 26/11 20:35 | 26/11 20:55 | IT - Sky Sport Max | Highlights Calcio | unknown |  |
-| 26/11 20:55 | 26/11 21:30 | IT - Sky Sport24 | Sky Calcio Show (Uel/ Uecl)... | unknown |  |
 | 26/11 20:55 | 27/11 01:30 | IT - Sky Sport 251 | Diretta Gol Uel/ Uecl... (Diretta) | live |  |
 | 26/11 20:55 | 27/11 01:30 | IT - Sky Sport 255 | Crystal Palace - Real Sociedad | live |  |
 | 26/11 20:55 | 27/11 01:30 | IT - Sky Sport 256 | Hoffenheim - Sturm Graz | live |  |
 | 26/11 20:55 | 27/11 01:30 | IT - Sky Sport 257 | Sunderland - Jagiellonia Bialystok | live |  |
-| 26/11 20:55 | 26/11 23:00 | IT - Sky Sport 4K | Juventus - Omonia Nicosia | live |  |
-| 26/11 20:55 | 26/11 22:55 | IT - Sky Sport Calcio | Crystal Palace - Real Sociedad | live |  |
-| 26/11 20:55 | 26/11 23:00 | IT - TV8 | Olympiakos - Milan | unknown |  |
 | 26/11 21:00 | 27/11 01:00 | IT - Sky Sport 258 | Signing Off | unknown |  |
-| 26/11 21:00 | 26/11 22:00 | IT - Sky Sport Legend | 1a parte | unknown | serie-b |
 | 26/11 22:00 | 27/11 02:00 | IT - Sky Sport 253 | Signing Off | unknown |  |
 | 26/11 22:00 | 27/11 02:00 | IT - Sky Sport 259 | No Game Today | live |  |
-| 26/11 22:30 | 26/11 23:00 | IT - Sky Sport Arena | Noir Marsigliese | unknown |  |
 | 26/11 22:46 | 27/11 01:00 | IT - ZONA DAZN | 8a g | unknown | serie-a |
-| 26/11 22:55 | 26/11 23:25 | IT - Sky Sport Calcio | Olympiakos - Milan | unknown |  |
-| 26/11 23:00 | 27/11 00:00 | IT - Sky Sport24 | Sky Calcio Show (Uel/ Uecl)... | unknown |  |
-| 26/11 23:00 | 27/11 00:00 | IT - Sky Sport 4K | Sky Calcio Show (Uel/ Uecl) 26/11/2026 | live |  |
 | 26/11 23:00 | 27/11 01:00 | IT - Sky Sport Legend | Milan - Liverpool 2007 | unknown | champions-league |
 | 26/11 23:00 | 27/11 00:30 | IT - TV8 | Tv8 Football Night | live | champions-league |
-| 26/11 23:25 | 27/11 00:00 | IT - Sky Sport Calcio | Noir Marsigliese | unknown |  |
 | 26/11 23:35 | 27/11 01:30 | IT - Sky Sport Arena | Olympiakos - Milan | unknown |  |
 | 27/11 00:00 | 27/11 02:00 | IT - RAI Sport | Calcio | unknown |  |
 | 27/11 00:00 | 27/11 02:00 | IT - Rai Sport 1 | Calcio | unknown |  |

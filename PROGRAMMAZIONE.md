@@ -1,6 +1,6 @@
 # Programmazione calcio
 
-Ultima acquisizione riuscita: 2026-11-27T15:09:15.926570Z. Orari: Europe/Rome.
+Ultima acquisizione riuscita: 2026-11-27T23:29:35.434581Z. Orari: Europe/Rome.
 
 Solo Sky Calcio, Sky Sport, DAZN/Zona DAZN, TV8 e RAI secondo config.json.
 
@@ -21,130 +21,10 @@ Nessuna associazione disponibile. La programmazione EPG è elencata sotto.
 
 | Inizio | Fine | Canale | Programma | Tipo | Competizioni rilevate |
 | --- | --- | --- | --- | --- | --- |
-| 27/11 00:00 | 27/11 02:00 | IT - RAI Sport | Calcio | unknown |  |
-| 27/11 00:00 | 27/11 02:00 | IT - Rai Sport 1 | Calcio | unknown |  |
-| 27/11 01:05 | 27/11 01:35 | IT - Sky Sport 4K | Olympiakos - Milan | unknown |  |
-| 27/11 01:35 | 27/11 03:30 | IT - Sky Sport 4K | Juventus - Omonia Nicosia | unknown |  |
-| 27/11 02:00 | 27/11 06:00 | IT - Sky Sport 251 | Next Game: Venezia - Bologna on 2026-11-27 at 02:00PM EST | unknown |  |
-| 27/11 02:00 | 27/11 06:00 | IT - Sky Sport 252 | Next Game: Foggia - Casertana on 2026-11-27 at 02:00PM EST | unknown |  |
-| 27/11 02:00 | 27/11 06:00 | IT - Sky Sport 253 | Next Game: Cavese - Scafatese on 2026-11-27 at 02:00PM EST | unknown |  |
-| 27/11 02:00 | 27/11 06:00 | IT - Sky Sport 254 | Next Game: Benevento - Meta Catania on 2026-11-27 at 02:00PM EST | unknown |  |
-| 27/11 02:00 | 27/11 06:00 | IT - Sky Sport 255 | Next Game: Werder Brema - Borussia Moenchengladbach on 2026-11-27 at 02:00PM EST | unknown |  |
-| 27/11 02:00 | 27/11 06:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 27/11 02:00 | 27/11 06:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 27/11 02:00 | 27/11 06:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 27/11 02:00 | 27/11 06:00 | IT - Sky Sport 259 | No Game Today | live |  |
-| 27/11 02:00 | 27/11 04:00 | IT - Sky Sport Max | Inter - VfB Stoccarda UEFA Champions League | unknown | champions-league |
-| 27/11 02:30 | 27/11 02:45 | IT - Sky Sport Calcio | Olympiakos - Milan | unknown |  |
-| 27/11 02:45 | 27/11 03:10 | IT - Sky Sport Calcio | Bundesliga Weekly | unknown |  |
-| 27/11 03:00 | 27/11 04:45 | IT - Sky Sport Legend | Bayern M. - Inter 2010 | unknown | champions-league |
-| 27/11 03:15 | 27/11 03:45 | IT - Sky Sport Calcio | Frank Lampard | unknown |  |
-| 27/11 03:30 | 27/11 04:00 | IT - Sky Sport 4K | Paris Saint-Germain - Roma | unknown | champions-league |
-| 27/11 03:45 | 27/11 04:15 | IT - Sky Sport Calcio | Juventus - Omonia Nicosia | unknown |  |
-| 27/11 04:00 | 27/11 06:00 | IT - Sky Sport 4K | Inter - VfB Stoccarda | unknown |  |
-| 27/11 04:15 | 27/11 06:00 | IT - Sky Sport Calcio | Crystal Palace - Real Sociedad | unknown |  |
-| 27/11 04:45 | 27/11 05:15 | IT - Sky Sport Legend | Roberto Baggio: Pallone d'oro 1993 | unknown |  |
-| 27/11 06:00 | 27/11 10:00 | IT - Sky Sport 251 | Next Game: Venezia - Bologna on 2026-11-27 at 02:00PM EST | unknown |  |
-| 27/11 06:00 | 27/11 10:00 | IT - Sky Sport 252 | Next Game: Foggia - Casertana on 2026-11-27 at 02:00PM EST | unknown |  |
-| 27/11 06:00 | 27/11 10:00 | IT - Sky Sport 253 | Next Game: Cavese - Scafatese on 2026-11-27 at 02:00PM EST | unknown |  |
-| 27/11 06:00 | 27/11 10:00 | IT - Sky Sport 254 | Next Game: Benevento - Meta Catania on 2026-11-27 at 02:00PM EST | unknown |  |
-| 27/11 06:00 | 27/11 10:00 | IT - Sky Sport 255 | Next Game: Werder Brema - Borussia Moenchengladbach on 2026-11-27 at 02:00PM EST | unknown |  |
-| 27/11 06:00 | 27/11 10:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 27/11 06:00 | 27/11 10:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 27/11 06:00 | 27/11 10:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 27/11 06:00 | 27/11 10:00 | IT - Sky Sport 259 | No Game Today | live |  |
-| 27/11 06:00 | 27/11 07:55 | IT - Sky Sport 4K | Juventus - Omonia Nicosia | unknown |  |
-| 27/11 06:00 | 27/11 07:45 | IT - Sky Sport Calcio | Paris Saint-Germain - Roma | unknown | champions-league |
-| 27/11 06:00 | 27/11 07:45 | IT - Sky Sport Legend | Bayern M. - Inter 2010 | unknown | champions-league |
-| 27/11 06:00 | 27/11 07:00 | IT - Sky Sport Tennis |  | unknown |  |
-| 27/11 06:00 | 27/11 12:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 27/11 07:45 | 27/11 08:05 | IT - Sky Sport Calcio | Juventus - Omonia Nicosia | unknown |  |
-| 27/11 07:45 | 27/11 09:45 | IT - Sky Sport Legend | Milan - Liverpool 2007 | unknown | champions-league |
-| 27/11 07:55 | 27/11 08:25 | IT - Sky Sport 4K | Manchester City - Napoli | unknown | champions-league |
-| 27/11 08:00 | 27/11 09:55 | IT - ZONA DAZN | Bologna - Udinese | unknown | serie-a |
-| 27/11 08:05 | 27/11 09:50 | IT - Sky Sport Calcio | Olympiakos - Milan | unknown |  |
-| 27/11 09:25 | 27/11 11:15 | IT - Sky Sport Max | Juventus - Omonia Nicosia UEFA Europa League | unknown |  |
-| 27/11 09:50 | 27/11 11:40 | IT - Sky Sport Calcio | Borac Banja Luka - Atalanta | unknown |  |
-| 27/11 10:00 | 27/11 14:00 | IT - Sky Sport 251 | Next Game: Venezia - Bologna on 2026-11-27 at 02:00PM EST | unknown |  |
-| 27/11 10:00 | 27/11 14:00 | IT - Sky Sport 252 | Next Game: Foggia - Casertana on 2026-11-27 at 02:00PM EST | unknown |  |
-| 27/11 10:00 | 27/11 14:00 | IT - Sky Sport 253 | Next Game: Cavese - Scafatese on 2026-11-27 at 02:00PM EST | unknown |  |
-| 27/11 10:00 | 27/11 14:00 | IT - Sky Sport 254 | Next Game: Benevento - Meta Catania on 2026-11-27 at 02:00PM EST | unknown |  |
-| 27/11 10:00 | 27/11 14:00 | IT - Sky Sport 255 | Next Game: Werder Brema - Borussia Moenchengladbach on 2026-11-27 at 02:00PM EST | unknown |  |
-| 27/11 10:00 | 27/11 14:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 27/11 10:00 | 27/11 14:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 27/11 10:00 | 27/11 14:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 27/11 10:00 | 27/11 14:00 | IT - Sky Sport 259 | No Game Today | live |  |
-| 27/11 10:30 | 27/11 10:45 | IT - Sky Sport 4K | Olympiakos - Milan | unknown |  |
-| 27/11 10:30 | 27/11 12:25 | IT - ZONA DAZN | Parma - Roma | unknown | serie-a |
-| 27/11 10:45 | 27/11 12:30 | IT - Sky Sport 4K | Napoli - Torino | unknown |  |
-| 27/11 11:10 | 27/11 11:40 | IT - Sky Sport NBA | Basket Room Serie A 2026/2027... | unknown | serie-a |
-| 27/11 11:40 | 27/11 12:10 | IT - Sky Sport Calcio | Paris Saint-Germain - Roma | unknown | champions-league |
-| 27/11 12:00 | 27/11 18:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 27/11 12:10 | 27/11 12:25 | IT - Sky Sport Calcio | Inter - VfB Stoccarda | unknown |  |
-| 27/11 12:25 | 27/11 14:15 | IT - Sky Sport Calcio | Olympiakos - Milan | unknown |  |
-| 27/11 12:30 | 27/11 14:15 | IT - Sky Sport 4K | Monza - Fiorentina | unknown |  |
-| 27/11 12:45 | 27/11 13:45 | IT - Sky Sport Legend | Il Processo del 27 Febbraio 1995 | unknown |  |
-| 27/11 12:50 | 27/11 13:05 | IT - Sky Sport F1 | F2 Chasing The Dream 2026 Ep.13 Season Finale Build Up 27/11/2026 | unknown | serie-a |
-| 27/11 13:00 | 27/11 13:30 | IT - Sky Sport24 | Il Calcio e' Servito | unknown |  |
-| 27/11 13:15 | 27/11 15:15 | IT - ZONA DAZN | Sassuolo - Genoa | unknown | serie-a |
-| 27/11 13:30 | 27/11 14:00 | IT - Sky Sport24 | Il Calcio e' Servito | unknown |  |
-| 27/11 14:00 | 27/11 18:00 | IT - Sky Sport 251 | Next Game: Venezia - Bologna on 2026-11-27 at 02:00PM EST | unknown |  |
-| 27/11 14:00 | 27/11 18:00 | IT - Sky Sport 252 | Next Game: Foggia - Casertana on 2026-11-27 at 02:00PM EST | unknown |  |
-| 27/11 14:00 | 27/11 18:00 | IT - Sky Sport 253 | Next Game: Cavese - Scafatese on 2026-11-27 at 02:00PM EST | unknown |  |
-| 27/11 14:00 | 27/11 18:00 | IT - Sky Sport 254 | Next Game: Benevento - Meta Catania on 2026-11-27 at 02:00PM EST | unknown |  |
-| 27/11 14:00 | 27/11 18:00 | IT - Sky Sport 255 | Next Game: Werder Brema - Borussia Moenchengladbach on 2026-11-27 at 02:00PM EST | unknown |  |
-| 27/11 14:00 | 27/11 18:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 27/11 14:00 | 27/11 18:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 27/11 14:00 | 27/11 18:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 27/11 14:00 | 27/11 18:00 | IT - Sky Sport 259 | No Game Today | live |  |
-| 27/11 14:15 | 27/11 16:00 | IT - Sky Sport Calcio | Juventus - Omonia Nicosia | unknown |  |
-| 27/11 14:45 | 27/11 15:15 | IT - Sky Sport Legend | Milito | unknown |  |
-| 27/11 15:15 | 27/11 17:10 | IT - ZONA DAZN | Atalanta - Inter | unknown | serie-a |
-| 27/11 16:00 | 27/11 17:45 | IT - Sky Sport 4K | Milan - Frosinone | unknown |  |
-| 27/11 16:00 | 27/11 17:50 | IT - Sky Sport Calcio | Borac Banja Luka - Atalanta | unknown |  |
-| 27/11 16:30 | 27/11 18:25 | IT - Sky Sport Max | Paris Saint-Germain - Roma UEFA Champions League | unknown | champions-league |
-| 27/11 16:45 | 27/11 17:45 | IT - Sky Sport Legend | Ep. 1 | unknown |  |
-| 27/11 17:10 | 27/11 18:00 | IT - ZONA DAZN | Interna21onale Uno Scudetto firmato Chivu | unknown |  |
-| 27/11 17:15 | 27/11 18:15 | IT - Sky Sport Tennis |  | unknown |  |
-| 27/11 17:50 | 27/11 18:20 | IT - Sky Sport Calcio | Olympiakos - Milan | unknown |  |
-| 27/11 18:00 | 27/11 20:00 | IT - Sky Sport 251 | Next Game: Venezia - Bologna on 2026-11-27 at 02:00PM EST | unknown |  |
-| 27/11 18:00 | 27/11 20:00 | IT - Sky Sport 252 | Next Game: Foggia - Casertana on 2026-11-27 at 02:00PM EST | unknown |  |
-| 27/11 18:00 | 27/11 20:00 | IT - Sky Sport 253 | Next Game: Cavese - Scafatese on 2026-11-27 at 02:00PM EST | unknown |  |
-| 27/11 18:00 | 27/11 20:00 | IT - Sky Sport 254 | Next Game: Benevento - Meta Catania on 2026-11-27 at 02:00PM EST | unknown |  |
-| 27/11 18:00 | 27/11 20:00 | IT - Sky Sport 255 | Next Game: Werder Brema - Borussia Moenchengladbach on 2026-11-27 at 02:00PM EST | unknown |  |
-| 27/11 18:00 | 27/11 22:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
-| 27/11 18:00 | 27/11 22:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
-| 27/11 18:00 | 27/11 22:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
-| 27/11 18:00 | 27/11 22:00 | IT - Sky Sport 259 | No Game Today | live |  |
-| 27/11 18:00 | 27/11 19:55 | IT - ZONA DAZN | Lazio - Lecce | unknown | serie-a |
-| 27/11 18:00 | 28/11 00:00 | IT - ZONA DAZN 2 | Nessun evento in onda | unknown | serie-a |
-| 27/11 18:20 | 27/11 18:40 | IT - Sky Sport Calcio | Paris Saint-Germain - Roma | unknown | champions-league |
-| 27/11 18:40 | 27/11 18:55 | IT - Sky Sport Calcio | Juventus - Omonia Nicosia | unknown |  |
-| 27/11 18:45 | 27/11 19:15 | IT - Sky Sport Legend | Vialli | unknown |  |
-| 27/11 18:55 | 27/11 19:30 | IT - Sky Sport Calcio | Champions League Remix Ep.5 27/11/2026 | unknown | champions-league |
-| 27/11 19:30 | 27/11 20:00 | IT - Sky Sport Calcio | Europa E Conference League Remix Ep.5 27/11/2026 | unknown |  |
-| 27/11 19:55 | 27/11 20:30 | IT - ZONA DAZN | Diego Milito | unknown |  |
-| 27/11 20:00 | 28/11 00:00 | IT - Sky Sport 251 | Venezia - Bologna | live | serie-a |
-| 27/11 20:00 | 28/11 00:00 | IT - Sky Sport 252 | Foggia - Casertana | live |  |
-| 27/11 20:00 | 28/11 00:00 | IT - Sky Sport 253 | Cavese - Scafatese | live |  |
-| 27/11 20:00 | 28/11 00:00 | IT - Sky Sport 254 | Benevento - Meta Catania | live | serie-a |
-| 27/11 20:00 | 28/11 00:00 | IT - Sky Sport 255 | Werder Brema - Borussia Moenchengladbach | live |  |
-| 27/11 20:00 | 27/11 20:40 | IT - Sky Sport 4K | Sky Friday Night Football Prepartita | live | serie-a |
-| 27/11 20:00 | 27/11 20:40 | IT - Sky Sport Calcio | Sky Friday Night Football Prepartita | live | serie-a |
-| 27/11 20:25 | 27/11 20:55 | IT - Sky Sport Max | Champions League Remix Ep.5... | unknown | champions-league |
-| 27/11 20:30 | 27/11 22:25 | IT - ZONA DAZN | Como - Cagliari | unknown | serie-a |
-| 27/11 20:40 | 27/11 22:45 | IT - Sky Sport 4K | Venezia - Bologna | live |  |
-| 27/11 20:40 | 27/11 22:45 | IT - Sky Sport Calcio | Venezia - Bologna | live |  |
-| 27/11 21:05 | 27/11 21:55 | IT - Sky Sport Legend | Pistole e Palloni | unknown |  |
-| 27/11 21:10 | 27/11 22:50 | IT - Rai Movie | Bar Sport | unknown |  |
 | 27/11 22:00 | 28/11 02:00 | IT - Sky Sport 256 | No Game Today | unknown |  |
 | 27/11 22:00 | 28/11 02:00 | IT - Sky Sport 257 | No Game Today | unknown |  |
 | 27/11 22:00 | 28/11 02:00 | IT - Sky Sport 258 | No Game Today | unknown |  |
 | 27/11 22:00 | 28/11 02:00 | IT - Sky Sport 259 | No Game Today | live |  |
-| 27/11 22:25 | 27/11 22:40 | IT - ZONA DAZN | Bordocam Juventus - Lazio 2026/27 | unknown |  |
-| 27/11 22:40 | 27/11 22:55 | IT - ZONA DAZN | Bordocam Como - Roma 2026/27 | unknown |  |
-| 27/11 22:45 | 28/11 00:00 | IT - Sky Sport 4K | Sky Friday Night Football Postpartita | live | serie-a |
-| 27/11 22:45 | 28/11 00:00 | IT - Sky Sport Calcio | Sky Friday Night Football Postpartita | live | serie-a |
 | 27/11 22:55 | 28/11 00:45 | IT - Sky Sport Legend | Milan - Barcellona 1994 | unknown | champions-league |
 | 27/11 23:10 | 28/11 01:00 | IT - ZONA DAZN | 9a g | unknown | serie-a |
 | 27/11 23:30 | 28/11 01:15 | IT - Sky Sport Max | Venezia - Bologna Serie A | unknown | serie-a |
